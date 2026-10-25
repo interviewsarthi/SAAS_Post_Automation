@@ -17462,6 +17462,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 11:41 IST"
+    },
+    {
+      "id": "20261025-1239-reel",
+      "format": "reel",
+      "pillar": "company_round",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Accenture HR teamwork question answered live from your resume",
+      "language": "english",
+      "hook": "Accenture HR asked about teamwork? Interview Sarthi shows what to say live.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18639722563036268",
+          "url": "https://www.instagram.com/reel/De6JEDICiXl/"
+        },
+        "youtube": {
+          "id": "HlcuY4bMw8k",
+          "url": "https://youtube.com/shorts/HlcuY4bMw8k",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "How to answer Accenture's teamwork question using concrete details from your own resume rather than generic online templates.",
+      "persona": "Engineering freshers and early-career professionals undergoing Accenture's hiring rounds.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "white",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261025-1239-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-25 12:42 IST"
     }
   ]
 }
