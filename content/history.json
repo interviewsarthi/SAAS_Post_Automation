@@ -17594,6 +17594,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 14:41 IST"
+    },
+    {
+      "id": "20261025-164045-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you ensure your code works before deployment?",
+      "language": "english",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18121800316995314",
+          "url": "https://www.instagram.com/reel/De6k6nlE7qM/"
+        },
+        "youtube": {
+          "id": "dxnMZbBY1XA",
+          "url": "https://youtube.com/shorts/dxnMZbBY1XA",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-36b1ad146c4510f3",
+      "seed_scenario": "why-hire-fresher",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "21aedb293156f4cd9e8f41c832f1722835bd23a0d35468ee1b38bec4cd15d499",
+      "campaign_id": "20261025-164045-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-25 16:45 IST"
     }
   ]
 }
