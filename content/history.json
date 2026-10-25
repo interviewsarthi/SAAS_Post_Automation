@@ -17765,6 +17765,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 20:40 IST"
+    },
+    {
+      "id": "20261025-2140-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Eight seconds of silence before answering flagged in report",
+      "language": "english",
+      "hook": "Eight seconds of silence before you speak reads as panic to an interviewer.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18494384692128850",
+          "url": "https://www.instagram.com/reel/De7G5Ehj1cK/"
+        },
+        "youtube": {
+          "id": "ehbuoBVqP10",
+          "url": "https://youtube.com/shorts/ehbuoBVqP10",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Anxious pauses before you start speaking can make you seem unsure of your own CV, and the mock report measures this delivery metric exactly so you can build speaking confidence.",
+      "persona": "Entry-level software engineers and new graduates in London, Toronto, or New York preparing for online technical screens.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261025-2140-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-25 21:42 IST"
     }
   ]
 }
