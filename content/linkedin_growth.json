@@ -1975,7 +1975,7 @@
       "status": "sent",
       "buffer_id": "6ad41727e272c4918faa3b71",
       "accepted_at": "2026-10-18T06:17:46.009659+05:30",
-      "last_check_attempt_at": "2026-10-25T02:15:47.449515+05:30",
+      "last_check_attempt_at": "2026-10-25T10:48:55.048401+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7517385952579928064",
       "metrics": {
         "reactions": 0,
@@ -1986,7 +1986,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-24T17:04:12.812Z",
-      "checked_at": "2026-10-25T02:15:47.725677+05:30",
+      "checked_at": "2026-10-25T10:48:55.352216+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-20T02:46:10.787883+05:30",
         "source_updated_at": "2026-10-19T17:00:32.934Z",
@@ -2015,7 +2015,7 @@
       "status": "sent",
       "buffer_id": "6ad4f824769b457934cff7ab",
       "accepted_at": "2026-10-18T22:17:42.985933+05:30",
-      "last_check_attempt_at": "2026-10-25T02:15:47.449515+05:30",
+      "last_check_attempt_at": "2026-10-25T10:48:55.048401+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7517627531533979648",
       "metrics": {
         "reactions": 0,
@@ -2026,7 +2026,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-24T17:04:12.758Z",
-      "checked_at": "2026-10-25T02:15:47.880169+05:30",
+      "checked_at": "2026-10-25T10:48:55.482673+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-20T02:46:10.986526+05:30",
         "source_updated_at": "2026-10-19T17:00:32.877Z",
