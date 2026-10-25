@@ -17374,6 +17374,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 09:11 IST"
+    },
+    {
+      "id": "20261025-104008-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you handle a technical disagreement during a college project?",
+      "language": "hindi",
+      "hook": "Interviewer sees your webcam. Your screen shows your project details.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18124638292906976",
+          "url": "https://www.instagram.com/reel/De57jBYglXw/"
+        },
+        "youtube": {
+          "id": "TBsYCVlXEwQ",
+          "url": "https://youtube.com/shorts/TBsYCVlXEwQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "chirp",
+      "scenario": "fresh-ffb838545623c3d1",
+      "seed_scenario": "team-conflict",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "025174b965d14b12b57d164514f218a83d0ba036bc5079480d02c48e1fe79c7c",
+      "campaign_id": "20261025-104008-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-25 10:44 IST"
     }
   ]
 }
