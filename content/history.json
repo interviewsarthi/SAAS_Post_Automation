@@ -17550,6 +17550,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 13:40 IST"
+    },
+    {
+      "id": "20261025-1439-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interview Sarthi's free 7-minute mock interview with no sign-up",
+      "language": "english",
+      "hook": "Speak your actual resume out loud before your next online interview.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17964828456245934",
+          "url": "https://www.instagram.com/reel/De6WtSRgewJ/"
+        },
+        "youtube": {
+          "id": "KUsUoJW8COk",
+          "url": "https://youtube.com/shorts/KUsUoJW8COk",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "You can speak your actual CV out loud to an AI interviewer in any browser with zero login or setup before your next call.",
+      "persona": "Indian freshers and job seekers preparing for online interviews who want realistic voice practice without downloading an app or entering card details.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261025-1439-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-25 14:41 IST"
     }
   ]
 }
