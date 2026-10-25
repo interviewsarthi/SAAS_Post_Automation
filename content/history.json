@@ -17677,6 +17677,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-25 18:10 IST"
+    },
+    {
+      "id": "20261025-193913-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you resolve a disagreement with a project teammate?",
+      "language": "hindi",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18131506987802655",
+          "url": "https://www.instagram.com/reel/De65RufleSq/"
+        },
+        "youtube": {
+          "id": "u1s6tjU0SWQ",
+          "url": "https://youtube.com/shorts/u1s6tjU0SWQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "chirp",
+      "scenario": "fresh-ae2493873820d1a6",
+      "seed_scenario": "something-went-wrong",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "9352298b403ff0c5037b20ae9f2e1327b85f9dd8ed8f687b9372f7dfadf320f1",
+      "campaign_id": "20261025-193913-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-25 19:43 IST"
     }
   ]
 }
