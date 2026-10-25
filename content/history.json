@@ -17721,6 +17721,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-25 19:43 IST"
+    },
+    {
+      "id": "20261025-2039-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "apply-night",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Tailoring CV bullet points for job descriptions with Interview Sarthi",
+      "language": "hindi",
+      "hook": "Rewriting your CV bullet points for every job application takes hours.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18083809181687570",
+          "url": "https://www.instagram.com/reel/De6_08HgNB2/"
+        },
+        "youtube": {
+          "id": "-acq1TX6334",
+          "url": "https://youtube.com/shorts/-acq1TX6334",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Interview Sarthi rewords your project bullet points to align with job descriptions using only your real background, leaving you to review and submit.",
+      "persona": "Indian tech and engineering graduates spending hours manually rewording resume bullet points for every company application.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "chirp",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261025-2039-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-25 20:40 IST"
     }
   ]
 }
