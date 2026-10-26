@@ -18239,6 +18239,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-26 20:42 IST"
+    },
+    {
+      "id": "20261026-2143-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interviewer pushes back on API pagination in Interview Sarthi",
+      "language": "english",
+      "hook": "Defending API pagination on your CV? Interview Sarthi tests your project out loud.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18211884334364890",
+          "url": "https://www.instagram.com/reel/De9sHWGkptz/"
+        },
+        "youtube": {
+          "id": "hSN6E8jOBrg",
+          "url": "https://youtube.com/shorts/hSN6E8jOBrg",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you implemented offset pagination gets immediately challenged when an interviewer asks how your project handles duplicate records and performance at scale.",
+      "persona": "Junior backend and full-stack developers defending project claims during technical interviews.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261026-2143-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-26 21:46 IST"
     }
   ]
 }
