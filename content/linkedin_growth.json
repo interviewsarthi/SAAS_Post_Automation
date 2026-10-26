@@ -134,7 +134,7 @@
       "status": "sent",
       "buffer_id": "6abab61c1de5273001a0cbc5",
       "accepted_at": "2026-09-29T00:17:02.785633+05:30",
-      "last_check_attempt_at": "2026-10-06T16:17:42.281557+05:30",
+      "last_check_attempt_at": "2026-10-27T02:42:14.324385+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7510409803643424768",
       "metrics": {
         "reactions": 0,
@@ -144,8 +144,8 @@
         "reach": 70,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-06T02:35:52.270Z",
-      "checked_at": "2026-10-06T16:17:42.608018+05:30",
+      "metrics_updated_at": "2026-10-26T05:40:27.533Z",
+      "checked_at": "2026-10-27T02:42:14.700125+05:30",
       "one_day_metrics": {
         "observed_at": "2026-09-30T22:01:08.796891+05:30",
         "source_updated_at": "2026-09-30T08:34:42.302Z",
@@ -2201,7 +2201,7 @@
       "status": "sent",
       "buffer_id": "6adf3dd39c091261b912ddf7",
       "accepted_at": "2026-10-26T17:17:41.864608+05:30",
-      "last_check_attempt_at": "2026-10-26T22:17:42.969179+05:30",
+      "last_check_attempt_at": "2026-10-27T02:42:14.324385+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7520451131387375616",
       "metrics": {
         "reactions": 0,
@@ -2211,8 +2211,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-26T11:47:31.700Z",
-      "checked_at": "2026-10-26T22:17:43.369736+05:30"
+      "metrics_updated_at": "2026-10-26T17:04:37.213Z",
+      "checked_at": "2026-10-27T02:42:14.948588+05:30"
     },
     {
       "id": "li-20261026-prep-collaboration-evening",
@@ -2227,11 +2227,11 @@
       "hook": "A collaboration story becomes clearer when you name the disagreement.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261026-prep-collaboration-evening",
       "owner_run": "40362417248",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6adf8424d0e68644af593fe0",
       "accepted_at": "2026-10-26T22:17:42.883103+05:30",
-      "last_check_attempt_at": "2026-10-26T22:17:42.969179+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-27T02:42:14.324385+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520526633108176897",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2240,8 +2240,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-26T16:47:32.637Z",
-      "checked_at": "2026-10-26T22:17:43.217139+05:30"
+      "metrics_updated_at": "2026-10-26T17:04:37.272Z",
+      "checked_at": "2026-10-27T02:42:15.154077+05:30"
     }
   ]
 }
