@@ -17936,6 +17936,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-26 11:41 IST"
+    },
+    {
+      "id": "20261026-1239-reel",
+      "format": "reel",
+      "pillar": "say_this",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Why should we hire you without direct industry experience?",
+      "language": "english",
+      "hook": "Interviewers love asking why they should hire you without direct industry experience.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18034395047885755",
+          "url": "https://www.instagram.com/reel/De8tzZQjS__/"
+        },
+        "youtube": {
+          "id": "bcln3HYC8H8",
+          "url": "https://youtube.com/shorts/bcln3HYC8H8",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "When an interviewer asks why they should pick you without direct experience, Interview Sarthi drafts a live answer connecting your real project outcomes directly from your uploaded resume.",
+      "persona": "Entry-level job seekers and recent university graduates in the US, UK, and Canada interviewing for junior roles online.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261026-1239-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-26 12:41 IST"
     }
   ]
 }
