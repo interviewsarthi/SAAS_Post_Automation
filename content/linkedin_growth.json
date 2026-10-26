@@ -2198,11 +2198,11 @@
       "hook": "Read your tailored CV as if the interviewer will ask about every line.",
       "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261026-apply-reading-cv-midday",
       "owner_run": "40317626221",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6adf3dd39c091261b912ddf7",
       "accepted_at": "2026-10-26T17:17:41.864608+05:30",
-      "last_check_attempt_at": "2026-10-26T17:17:41.936537+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-26T22:17:42.969179+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7520451131387375616",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2212,7 +2212,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-26T11:47:31.700Z",
-      "checked_at": "2026-10-26T17:17:42.122201+05:30"
+      "checked_at": "2026-10-26T22:17:43.369736+05:30"
     },
     {
       "id": "li-20261026-prep-collaboration-evening",
@@ -2227,7 +2227,21 @@
       "hook": "A collaboration story becomes clearer when you name the disagreement.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261026-prep-collaboration-evening",
       "owner_run": "40362417248",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6adf8424d0e68644af593fe0",
+      "accepted_at": "2026-10-26T22:17:42.883103+05:30",
+      "last_check_attempt_at": "2026-10-26T22:17:42.969179+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-26T16:47:32.637Z",
+      "checked_at": "2026-10-26T22:17:43.217139+05:30"
     }
   ]
 }
