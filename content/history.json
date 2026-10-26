@@ -17892,6 +17892,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-26 10:43 IST"
+    },
+    {
+      "id": "20261026-1139-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior DevOps engineer exposed secret question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Leaked an API key? Saying you just deleted the commit scored 3 out of 10.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "17963593389079731",
+          "url": "https://www.instagram.com/reel/De8m4uPjvJg/"
+        },
+        "youtube": {
+          "id": "XIG-aDPIN5Y",
+          "url": "https://youtube.com/shorts/XIG-aDPIN5Y",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you just delete the commit when an API key leaks scored 3 out of 10 in Interview Sarthi's mock interview report.",
+      "persona": "New graduates and entry-level DevOps or cloud engineers interviewing for remote and international tech roles in the US, UK, and Canada.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261026-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-26 11:41 IST"
     }
   ]
 }
