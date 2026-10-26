@@ -2140,6 +2140,21 @@
         "reach": 5,
         "shares": 0
       }
+    },
+    {
+      "id": "li-20261026-apply-reading-cv-midday",
+      "day": "2026-10-26",
+      "slot": "midday",
+      "scheduled_time_ist": "17:17",
+      "topic": "apply-reading-cv",
+      "series": "apply",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "Read your tailored CV as if the interviewer will ask about every line.",
+      "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261026-apply-reading-cv-midday",
+      "owner_run": "40317626221",
+      "status": "reserved"
     }
   ]
 }
