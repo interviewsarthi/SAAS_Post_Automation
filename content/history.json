@@ -18713,6 +18713,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-27 20:42 IST"
+    },
+    {
+      "id": "20261027-2141-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Speaking pace flagged in Interview Sarthi's free mock interview report",
+      "language": "english",
+      "hook": "Nervous speed talking makes your project answers sound memorized.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18131087092867598",
+          "url": "https://www.instagram.com/reel/DfAQjg4Dztk/"
+        },
+        "youtube": {
+          "id": "lsh33A5iyKE",
+          "url": "https://youtube.com/shorts/lsh33A5iyKE",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Nervous speed talking makes project answers sound memorized, and Interview Sarthi's mock report flags speaking pace so you can calibrate your delivery.",
+      "persona": "Campus placement students and freshers who rush through technical answers when nervous on video calls.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261027-2141-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-27 21:43 IST"
     }
   ]
 }
