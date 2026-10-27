@@ -18542,6 +18542,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-27 14:42 IST"
+    },
+    {
+      "id": "20261027-163925-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Project ke dauran aayi sabse badi technical problem kya thi?",
+      "language": "hindi",
+      "hook": "Interviewer sees your webcam. Your screen shows the project details.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18034876928893049",
+          "url": "https://www.instagram.com/reel/De_uSEqDCim/"
+        },
+        "youtube": {
+          "id": "6_pO7v-rGgs",
+          "url": "https://youtube.com/shorts/6_pO7v-rGgs",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "chirp",
+      "scenario": "fresh-0d62a60861793cc0",
+      "seed_scenario": "strength-hinglish",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "6bb7433319cf3ba7677164f2274b25c6e64e95bcaf7df72a9322de1558b4a5ad",
+      "campaign_id": "20261027-163925-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-27 16:43 IST"
     }
   ]
 }
