@@ -2292,7 +2292,7 @@
       "status": "sent",
       "buffer_id": "6ae08141b06df47a2ea3f31c",
       "accepted_at": "2026-10-27T16:17:39.546635+05:30",
-      "last_check_attempt_at": "2026-10-28T02:29:19.028649+05:30",
+      "last_check_attempt_at": "2026-10-28T03:41:08.798529+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520798409901985794",
       "metrics": {
         "reactions": 0,
@@ -2303,7 +2303,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-27T17:04:49.423Z",
-      "checked_at": "2026-10-28T02:29:19.762655+05:30"
+      "checked_at": "2026-10-28T03:41:09.080132+05:30"
     },
     {
       "id": "li-20261027-live-question-match-evening",
@@ -2321,7 +2321,7 @@
       "status": "sent",
       "buffer_id": "6ae0d5aa1e9cd6ef0a4f5c04",
       "accepted_at": "2026-10-27T22:17:48.359648+05:30",
-      "last_check_attempt_at": "2026-10-28T02:29:19.028649+05:30",
+      "last_check_attempt_at": "2026-10-28T03:41:08.798529+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520889044638031872",
       "metrics": {
         "reactions": 0,
@@ -2332,7 +2332,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-27T17:04:49.457Z",
-      "checked_at": "2026-10-28T02:29:19.926318+05:30"
+      "checked_at": "2026-10-28T03:41:09.267226+05:30"
     }
   ]
 }
