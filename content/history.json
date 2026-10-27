@@ -18669,6 +18669,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-27 19:45 IST"
+    },
+    {
+      "id": "20261027-2040-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "apply-night",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Browsing ranked jobs across portals with Interview Sarthi without an account",
+      "language": "english",
+      "hook": "Browse ranked jobs across portals with Interview Sarthi without creating an account.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17872329900647573",
+          "url": "https://www.instagram.com/reel/DfAJmp2DolM/"
+        },
+        "youtube": {
+          "id": "17x_Byak-5Q",
+          "url": "https://youtube.com/shorts/17x_Byak-5Q",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "See open jobs from Naukri, LinkedIn, and 750 company career sites ranked against your CV without signing up or creating an account.",
+      "persona": "Indian job seekers tired of registering on multiple job aggregators just to find relevant vacancies.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261027-2040-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-27 20:42 IST"
     }
   ]
 }
