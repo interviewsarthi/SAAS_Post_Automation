@@ -2296,7 +2296,21 @@
       "hook": "Before using a suggestion, check the question it answers.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261027-live-question-match-evening",
       "owner_run": "40544289721",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6ae0d5aa1e9cd6ef0a4f5c04",
+      "accepted_at": "2026-10-27T22:17:48.359648+05:30",
+      "last_check_attempt_at": "2026-10-27T22:17:48.446306+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-27T16:47:38.108Z",
+      "checked_at": "2026-10-27T22:17:48.679481+05:30"
     }
   ]
 }
