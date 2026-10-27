@@ -2282,6 +2282,21 @@
       },
       "metrics_updated_at": "2026-10-27T10:47:29.352Z",
       "checked_at": "2026-10-27T21:33:05.176253+05:30"
+    },
+    {
+      "id": "li-20261027-live-question-match-evening",
+      "day": "2026-10-27",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "live-question-match",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "Before using a suggestion, check the question it answers.",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261027-live-question-match-evening",
+      "owner_run": "40544289721",
+      "status": "reserved"
     }
   ]
 }
