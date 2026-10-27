@@ -18366,6 +18366,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-27 10:42 IST"
+    },
+    {
+      "id": "20261027-1139-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior frontend developer memory leak question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Saying you simply remove event listeners will not pass a frontend technical interview.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18079910927407353",
+          "url": "https://www.instagram.com/reel/De_L1JNjU_A/"
+        },
+        "youtube": {
+          "id": "H7CaNHK3nh4",
+          "url": "https://youtube.com/shorts/H7CaNHK3nh4",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you simply remove unused listeners scored three out of ten, showing how Interview Sarthi's free mock interview catches evasive explanations and drafts an exact answer from your CV.",
+      "persona": "Entry-level frontend developers and new computer science graduates outside India interviewing online for junior software engineering roles.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "white",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261027-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-27 11:42 IST"
     }
   ]
 }
