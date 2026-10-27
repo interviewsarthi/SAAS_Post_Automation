@@ -18625,6 +18625,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-27 18:10 IST"
+    },
+    {
+      "id": "20261027-194020-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Where do you see your career going over the next five years?",
+      "language": "english",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "QhC0W3Z8R7o",
+          "url": "https://youtube.com/shorts/QhC0W3Z8R7o",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18116533025324717",
+          "url": "https://www.instagram.com/reel/DfADH7wiIEb/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-779f18961ac9e91e",
+      "seed_scenario": "five-years",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "8f7c3b2e5b4a564df67e536a798d171c4a51a9155c2618c433922f68b6385229",
+      "campaign_id": "20261027-194020-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-27 19:45 IST"
     }
   ]
 }
