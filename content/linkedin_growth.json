@@ -2292,7 +2292,7 @@
       "status": "sent",
       "buffer_id": "6ae08141b06df47a2ea3f31c",
       "accepted_at": "2026-10-27T16:17:39.546635+05:30",
-      "last_check_attempt_at": "2026-10-28T16:17:47.820103+05:30",
+      "last_check_attempt_at": "2026-10-28T19:17:45.009486+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520798409901985794",
       "metrics": {
         "reactions": 0,
@@ -2303,7 +2303,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-27T17:04:49.423Z",
-      "checked_at": "2026-10-28T16:17:48.132239+05:30"
+      "checked_at": "2026-10-28T19:17:45.430547+05:30"
     },
     {
       "id": "li-20261027-live-question-match-evening",
@@ -2321,7 +2321,7 @@
       "status": "sent",
       "buffer_id": "6ae0d5aa1e9cd6ef0a4f5c04",
       "accepted_at": "2026-10-27T22:17:48.359648+05:30",
-      "last_check_attempt_at": "2026-10-28T16:17:47.820103+05:30",
+      "last_check_attempt_at": "2026-10-28T19:17:45.009486+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520889044638031872",
       "metrics": {
         "reactions": 0,
@@ -2332,7 +2332,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-27T17:04:49.457Z",
-      "checked_at": "2026-10-28T16:17:48.277669+05:30"
+      "checked_at": "2026-10-28T19:17:45.563675+05:30"
     },
     {
       "id": "li-20261028-jobs-skill-customer-success-remote-midday",
@@ -2347,11 +2347,11 @@
       "hook": "644 new remote customer success jobs this week.",
       "url": "https://apply.interviewsarthi.com/skills/customer-success/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261028-jobs-skill-customer-success-remote-midday",
       "owner_run": "40674833908",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae1d2c9f2d8122c07caabe3",
       "accepted_at": "2026-10-28T16:17:47.733742+05:30",
-      "last_check_attempt_at": "2026-10-28T16:17:47.820103+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-28T19:17:45.009486+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7521160833020878848",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2361,7 +2361,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-28T10:47:37.524Z",
-      "checked_at": "2026-10-28T16:17:47.999731+05:30"
+      "checked_at": "2026-10-28T19:17:45.738680+05:30"
     },
     {
       "id": "li-20261028-apply-duplicate-evening",
@@ -2376,7 +2376,21 @@
       "hook": "The same vacancy on several job sites is still one opportunity.",
       "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261028-apply-duplicate-evening",
       "owner_run": "40699610451",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6ae1fcf6c5d58d361391a27d",
+      "accepted_at": "2026-10-28T19:17:44.683829+05:30",
+      "last_check_attempt_at": "2026-10-28T19:17:45.009486+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-28T13:47:34.452Z",
+      "checked_at": "2026-10-28T19:17:45.264346+05:30"
     }
   ]
 }
