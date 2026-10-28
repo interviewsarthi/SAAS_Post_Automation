@@ -18840,6 +18840,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-28 10:43 IST"
+    },
+    {
+      "id": "20261028-1139-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior product analyst checkout drop question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Checkout conversions dropped 15 percent. Saying you would just email engineering scored 4/10.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18155091541481554",
+          "url": "https://www.instagram.com/reel/DfBwjwiAF-0/"
+        },
+        "youtube": {
+          "id": "4V_nRNYs20s",
+          "url": "https://youtube.com/shorts/4V_nRNYs20s",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you would just email engineering when checkout conversions drop scored 4 out of 10 in Interview Sarthi's free mock interview report.",
+      "persona": "Entry-level product analysts and new graduates interviewing remotely for analytics and tech roles in the US, UK, and Canada.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261028-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-28 11:42 IST"
     }
   ]
 }
