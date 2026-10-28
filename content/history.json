@@ -18972,6 +18972,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-28 13:39 IST"
+    },
+    {
+      "id": "20261028-1440-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interview Sarthi free voice mock interview in your mobile browser",
+      "language": "english",
+      "hook": "Practise your real interview questions out loud before your next online video call.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18178896220452203",
+          "url": "https://www.instagram.com/reel/DfCFNCTjyP8/"
+        },
+        "youtube": {
+          "id": "GPLCvFNYocw",
+          "url": "https://youtube.com/shorts/GPLCvFNYocw",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "You can test your spoken resume answers against an interactive voice interviewer in your browser with zero installation.",
+      "persona": "Entry-level job seekers and international new graduates preparing for online video interviews.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261028-1440-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-28 14:42 IST"
     }
   ]
 }
