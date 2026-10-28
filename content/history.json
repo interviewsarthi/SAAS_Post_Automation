@@ -19016,6 +19016,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-28 14:42 IST"
+    },
+    {
+      "id": "20261028-163946-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Why do you want to transition from testing to backend development?",
+      "language": "hindi",
+      "hook": "Interviewer sees your confidence. Your screen shows your resume answer.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18453916303126892",
+          "url": "https://www.instagram.com/reel/DfCTIVPie_D/"
+        },
+        "youtube": {
+          "id": "SgQfXrILVvQ",
+          "url": "https://youtube.com/shorts/SgQfXrILVvQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "chirp",
+      "scenario": "fresh-e23d3eb27c47d2aa",
+      "seed_scenario": "why-switch",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "da3b8db1fa6279110cd24372ae728610a6c8c5f968af7ee3bcfa0db40fbeb72e",
+      "campaign_id": "20261028-163946-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-28 16:44 IST"
     }
   ]
 }
