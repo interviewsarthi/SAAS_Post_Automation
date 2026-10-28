@@ -18796,6 +18796,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-28 09:11 IST"
+    },
+    {
+      "id": "20261028-103941-sales-short",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Aapne retail chhodne ke baad itna lamba gap kyun liya?",
+      "language": "hindi",
+      "hook": "POV: HR asks about your gap and you stay calm.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17867124954680639",
+          "url": "https://www.instagram.com/reel/DfBp0yQiTK7/"
+        },
+        "youtube": {
+          "id": "jHANgfUWtYc",
+          "url": "https://youtube.com/shorts/jHANgfUWtYc",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 8.0,
+      "mode": "sales-motion",
+      "voice": "chirp",
+      "scenario": "fresh-bd795617e7ebfde1",
+      "seed_scenario": "resume-gap-hinglish",
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "f0a707461d41b53bbe893c4e267bf56db02905a7b06a7d7779caeeda225f4bbd",
+      "campaign_id": "20261028-103941-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-28 10:43 IST"
     }
   ]
 }
