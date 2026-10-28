@@ -18884,6 +18884,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-28 11:42 IST"
+    },
+    {
+      "id": "20261028-1239-reel",
+      "format": "reel",
+      "pillar": "say_this",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Answering 'Do you have any questions for us?' live on screen",
+      "language": "english",
+      "hook": "Interviewer asked: 'Do you have any questions for us?' Never say no.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17954745945273449",
+          "url": "https://www.instagram.com/reel/DfB3ZZ3FC8U/"
+        },
+        "youtube": {
+          "id": "PZPXanOuBpI",
+          "url": "https://youtube.com/shorts/PZPXanOuBpI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Instead of freezing or saying 'No questions', see the exact smart questions Interview Sarthi showed on screen about team workflow and tech stacks.",
+      "persona": "Freshers and early-career job seekers who freeze at the closing question of online interviews.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261028-1239-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-28 12:41 IST"
     }
   ]
 }
