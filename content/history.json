@@ -19187,6 +19187,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-10-28 20:42 IST"
+    },
+    {
+      "id": "20261028-2139-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interviewer pushes back on database read replicas in Interview Sarthi",
+      "language": "hindi",
+      "hook": "Claimed read replicas on your CV? Interview Sarthi tests your technical answers out loud.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17986803606084162",
+          "url": "https://www.instagram.com/reel/DfC1HiKgtBh/"
+        },
+        "youtube": {
+          "id": "gs03lk9H-LM",
+          "url": "https://youtube.com/shorts/gs03lk9H-LM",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Claiming database read replicas on your CV means interviewers will probe replication lag, and Interview Sarthi's free mock interview tests your real technical answers out loud.",
+      "persona": "Early-career backend engineers and junior developers interviewing for software roles who put system design buzzwords on their resume.",
+      "veo_seconds": 4.0,
+      "mode": null,
+      "voice": "chirp",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "veo-fresh",
+      "face": "indian",
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261028-2139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-28 21:41 IST"
     }
   ]
 }
