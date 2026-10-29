@@ -2448,7 +2448,7 @@
       "status": "sent",
       "buffer_id": "6ae1fcf6c5d58d361391a27d",
       "accepted_at": "2026-10-28T19:17:44.683829+05:30",
-      "last_check_attempt_at": "2026-10-29T17:17:42.360016+05:30",
+      "last_check_attempt_at": "2026-10-29T21:17:43.640327+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521206118388473856",
       "metrics": {
         "reactions": 0,
@@ -2459,7 +2459,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-28T17:05:40.564Z",
-      "checked_at": "2026-10-29T17:17:43.103153+05:30"
+      "checked_at": "2026-10-29T21:17:44.089311+05:30"
     },
     {
       "id": "li-20261029-prep-demo-midday",
@@ -2474,11 +2474,11 @@
       "hook": "What can you try in the free Prep Sarthi demo?",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261029-prep-demo-midday",
       "owner_run": "40868041128",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae33254a0a200dca8baf4f0",
       "accepted_at": "2026-10-29T17:17:42.272291+05:30",
-      "last_check_attempt_at": "2026-10-29T17:17:42.360016+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-29T21:17:43.640327+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521538297316155392",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2488,7 +2488,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-29T11:47:32.025Z",
-      "checked_at": "2026-10-29T17:17:42.510242+05:30"
+      "checked_at": "2026-10-29T21:17:44.270627+05:30"
     },
     {
       "id": "li-20261029-live-pass-evening",
@@ -2503,7 +2503,21 @@
       "hook": "Need live assistance for a few days? Check the pass before buying.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261029-live-pass-evening",
       "owner_run": "40905036553",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6ae36a9525e7fa4a8db5d2ad",
+      "accepted_at": "2026-10-29T21:17:43.550847+05:30",
+      "last_check_attempt_at": "2026-10-29T21:17:43.640327+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-29T15:47:33.281Z",
+      "checked_at": "2026-10-29T21:17:43.896454+05:30"
     }
   ]
 }
