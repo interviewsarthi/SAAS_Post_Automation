@@ -2448,7 +2448,7 @@
       "status": "sent",
       "buffer_id": "6ae1fcf6c5d58d361391a27d",
       "accepted_at": "2026-10-28T19:17:44.683829+05:30",
-      "last_check_attempt_at": "2026-10-29T21:17:43.640327+05:30",
+      "last_check_attempt_at": "2026-10-29T23:05:46.186115+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521206118388473856",
       "metrics": {
         "reactions": 0,
@@ -2458,8 +2458,19 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-28T17:05:40.564Z",
-      "checked_at": "2026-10-29T21:17:44.089311+05:30"
+      "metrics_updated_at": "2026-10-29T17:05:51.662Z",
+      "checked_at": "2026-10-29T23:05:46.615326+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-10-29T23:05:46.615326+05:30",
+        "source_updated_at": "2026-10-29T17:05:51.662Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261029-prep-demo-midday",
@@ -2503,21 +2514,21 @@
       "hook": "Need live assistance for a few days? Check the pass before buying.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261029-live-pass-evening",
       "owner_run": "40905036553",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae36a9525e7fa4a8db5d2ad",
       "accepted_at": "2026-10-29T21:17:43.550847+05:30",
-      "last_check_attempt_at": "2026-10-29T21:17:43.640327+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-29T23:05:46.186115+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7521598700994060288",
       "metrics": {
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
-        "impressions": 0,
-        "reach": 0,
+        "impressions": 18,
+        "reach": 16,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-29T15:47:33.281Z",
-      "checked_at": "2026-10-29T21:17:43.896454+05:30"
+      "metrics_updated_at": "2026-10-29T17:05:51.745Z",
+      "checked_at": "2026-10-29T23:05:46.873801+05:30"
     }
   ]
 }
