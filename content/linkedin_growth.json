@@ -2622,11 +2622,11 @@
       "hook": "Give your next practice session one specific goal.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261030-prep-next-session-evening",
       "owner_run": "41050552515",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae483d3ab6b84214cd2497c",
       "accepted_at": "2026-10-30T17:17:41.740044+05:30",
-      "last_check_attempt_at": "2026-10-30T17:17:41.830440+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-30T21:44:37.305775+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521900681260126209",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2636,7 +2636,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-30T11:47:31.432Z",
-      "checked_at": "2026-10-30T17:17:42.058013+05:30"
+      "checked_at": "2026-10-30T21:44:37.619445+05:30"
     }
   ]
 }
