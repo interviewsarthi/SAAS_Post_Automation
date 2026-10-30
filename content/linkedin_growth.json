@@ -2593,11 +2593,11 @@
       "hook": "If your interview switches languages, test that workflow too.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261030-live-hinglish-midday",
       "owner_run": "41035936766",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae467b036e83ed1636ae922",
       "accepted_at": "2026-10-30T15:17:38.718166+05:30",
-      "last_check_attempt_at": "2026-10-30T15:17:38.793496+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-10-30T17:17:41.830440+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7521870471634673664",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2607,7 +2607,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-30T09:47:28.531Z",
-      "checked_at": "2026-10-30T15:17:38.971647+05:30"
+      "checked_at": "2026-10-30T17:17:42.209503+05:30"
     },
     {
       "id": "li-20261030-prep-next-session-evening",
@@ -2622,7 +2622,21 @@
       "hook": "Give your next practice session one specific goal.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261030-prep-next-session-evening",
       "owner_run": "41050552515",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6ae483d3ab6b84214cd2497c",
+      "accepted_at": "2026-10-30T17:17:41.740044+05:30",
+      "last_check_attempt_at": "2026-10-30T17:17:41.830440+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-30T11:47:31.432Z",
+      "checked_at": "2026-10-30T17:17:42.058013+05:30"
     }
   ]
 }
