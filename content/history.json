@@ -19534,6 +19534,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-30 10:39 IST"
+    },
+    {
+      "id": "20261030-123835-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "What makes you good at customer support?",
+      "language": "english",
+      "hook": "Do not lose your own experience in a generic answer.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18013056512856928",
+          "url": "https://www.instagram.com/reel/DfHA5kxgBxS/"
+        },
+        "youtube": {
+          "id": "EUtHzZVcSJs",
+          "url": "https://youtube.com/shorts/EUtHzZVcSJs",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "support-strength",
+      "seed_scenario": "support-strength",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "9b329e6be3f73d1cda6756aaa1c9f5f0f1c8f50811813304020351239aae6ca5",
+      "campaign_id": "20261030-123835-sales-standard",
+      "quality_passed": true,
+      "substituted_for": "reel",
+      "date": "2026-10-30 12:40 IST"
     }
   ]
 }
