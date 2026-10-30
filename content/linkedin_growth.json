@@ -2532,6 +2532,21 @@
       },
       "metrics_updated_at": "2026-10-29T17:05:51.745Z",
       "checked_at": "2026-10-30T04:13:27.362316+05:30"
+    },
+    {
+      "id": "li-20261030-live-hinglish-midday",
+      "day": "2026-10-30",
+      "slot": "midday",
+      "scheduled_time_ist": "15:17",
+      "topic": "live-hinglish",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "If your interview switches languages, test that workflow too.",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261030-live-hinglish-midday",
+      "owner_run": "41035936766",
+      "status": "reserved"
     }
   ]
 }
