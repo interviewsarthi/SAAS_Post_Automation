@@ -19666,6 +19666,48 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-30 16:41 IST"
+    },
+    {
+      "id": "20261030-193838-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Team mein kaam karne ka koi experience bataiye.",
+      "language": "english",
+      "hook": "Aapka apna module, aapke apne shabdon mein.",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "53wiMZme6B4",
+          "url": "https://youtube.com/shorts/53wiMZme6B4",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "teamwork-hinglish",
+      "seed_scenario": "teamwork-hinglish",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "b78536c2052738f0b761aca72806a545d6231262755deb38bc8c2745cf35bf95",
+      "campaign_id": "20261030-193838-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-30 19:43 IST"
     }
   ]
 }
