@@ -2710,6 +2710,21 @@
       },
       "metrics_updated_at": "2026-10-31T03:47:43.212Z",
       "checked_at": "2026-10-31T15:28:33.564105+05:30"
+    },
+    {
+      "id": "li-20261031-live-audio-evening",
+      "day": "2026-10-31",
+      "slot": "evening",
+      "scheduled_time_ist": "18:17",
+      "topic": "live-audio",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "A live interview assistant needs the right audio source.",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261031-live-audio-evening",
+      "owner_run": "41202627398",
+      "status": "reserved"
     }
   ]
 }
