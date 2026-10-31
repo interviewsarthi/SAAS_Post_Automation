@@ -19794,6 +19794,50 @@
       "quality_passed": true,
       "substituted_for": "reel",
       "date": "2026-10-31 12:42 IST"
+    },
+    {
+      "id": "20261031-1338-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "jobs",
+      "series": "job_list",
+      "product": "apply_sarthi",
+      "topic": "skill:java@bengaluru",
+      "language": "english",
+      "hook": "126 new Java jobs in Bengaluru this week",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18132519940744037",
+          "url": "https://www.instagram.com/reel/DfJsY_LDSjk/"
+        },
+        "youtube": {
+          "id": "hFNJWPaeD2E",
+          "url": "https://youtube.com/shorts/hFNJWPaeD2E",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261031-1338-jobs",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-10-31 13:39 IST"
     }
   ]
 }
