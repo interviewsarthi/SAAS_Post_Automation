@@ -2724,7 +2724,21 @@
       "hook": "A live interview assistant needs the right audio source.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261031-live-audio-evening",
       "owner_run": "41202627398",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6ae5e361eaa24d6f9a759156",
+      "accepted_at": "2026-10-31T18:17:39.481512+05:30",
+      "last_check_attempt_at": "2026-10-31T18:17:39.570710+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-10-31T12:47:29.258Z",
+      "checked_at": "2026-10-31T18:17:39.742720+05:30"
     }
   ]
 }
