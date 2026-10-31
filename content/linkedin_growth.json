@@ -2637,6 +2637,21 @@
       },
       "metrics_updated_at": "2026-10-30T17:06:27.125Z",
       "checked_at": "2026-10-31T03:46:27.986092+05:30"
+    },
+    {
+      "id": "li-20261031-apply-free-start-midday",
+      "day": "2026-10-31",
+      "slot": "midday",
+      "scheduled_time_ist": "09:17",
+      "topic": "apply-free-start",
+      "series": "apply",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "You can start browsing ApplySarthi before creating an account.",
+      "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261031-apply-free-start-midday",
+      "owner_run": "41165838687",
+      "status": "reserved"
     }
   ]
 }
