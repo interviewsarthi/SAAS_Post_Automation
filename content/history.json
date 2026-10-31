@@ -19882,6 +19882,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-31 16:41 IST"
+    },
+    {
+      "id": "20261031-193824-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Aapki sabse badi strength kya hai?",
+      "language": "english",
+      "hook": "Hinglish sawaal, Hinglish jawaab, aapke apne resume se.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18000128462823126",
+          "url": "https://www.instagram.com/reel/DfKVvK4jI2T/"
+        },
+        "youtube": {
+          "id": "FXTLqnb6YXU",
+          "url": "https://youtube.com/shorts/FXTLqnb6YXU",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "strength-hinglish",
+      "seed_scenario": "strength-hinglish",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "e588af6bebda706366e44bff184f29777dea825742e9c4d6a923e0843a17334e",
+      "campaign_id": "20261031-193824-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-10-31 19:40 IST"
     }
   ]
 }
