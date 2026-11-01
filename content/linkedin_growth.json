@@ -2739,6 +2739,21 @@
       },
       "metrics_updated_at": "2026-10-31T17:08:01.467Z",
       "checked_at": "2026-11-01T03:00:29.527538+05:30"
+    },
+    {
+      "id": "li-20261101-prep-project-midday",
+      "day": "2026-11-01",
+      "slot": "midday",
+      "scheduled_time_ist": "06:17",
+      "topic": "prep-project",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "document",
+      "creative_version": "examples-v2",
+      "hook": "'I worked on the backend' leaves your interviewer guessing.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261101-prep-project-midday",
+      "owner_run": "41258259399",
+      "status": "reserved"
     }
   ]
 }
