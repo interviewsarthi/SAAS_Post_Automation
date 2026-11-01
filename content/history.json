@@ -19926,6 +19926,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-10-31 19:40 IST"
+    },
+    {
+      "id": "20261101-103821-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Tell me about a time something went wrong in your project.",
+      "language": "english",
+      "hook": "Your own bug, told the way it should be told.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18098635832423556",
+          "url": "https://www.instagram.com/reel/DfL8sAyioXA/"
+        },
+        "youtube": {
+          "id": "7JeoGL4oDHk",
+          "url": "https://youtube.com/shorts/7JeoGL4oDHk",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "something-went-wrong",
+      "seed_scenario": "something-went-wrong",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "short",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "2f815c0ce03ad31586d60c5ca2c494c065e371202c5c3bee623c07d43fec36cb",
+      "campaign_id": "20261101-103821-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-01 10:40 IST"
     }
   ]
 }
