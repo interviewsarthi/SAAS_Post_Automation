@@ -2760,7 +2760,7 @@
       "status": "sent",
       "buffer_id": "6ae5e361eaa24d6f9a759156",
       "accepted_at": "2026-10-31T18:17:39.481512+05:30",
-      "last_check_attempt_at": "2026-11-01T06:17:39.156344+05:30",
+      "last_check_attempt_at": "2026-11-01T12:21:35.226498+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7522278162110578688",
       "metrics": {
         "reactions": 0,
@@ -2771,7 +2771,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-10-31T17:08:01.467Z",
-      "checked_at": "2026-11-01T06:17:39.640157+05:30"
+      "checked_at": "2026-11-01T12:21:35.526212+05:30"
     },
     {
       "id": "li-20261101-prep-project-midday",
@@ -2786,11 +2786,11 @@
       "hook": "'I worked on the backend' leaves your interviewer guessing.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261101-prep-project-midday",
       "owner_run": "41258259399",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6ae68c20cf3a3112f3d11b34",
       "accepted_at": "2026-11-01T06:17:39.063586+05:30",
-      "last_check_attempt_at": "2026-11-01T06:17:39.156344+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-01T12:21:35.226498+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522459352696545280",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -2800,7 +2800,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-01T00:47:28.908Z",
-      "checked_at": "2026-11-01T06:17:39.315955+05:30"
+      "checked_at": "2026-11-01T12:21:35.823616+05:30"
     }
   ]
 }
