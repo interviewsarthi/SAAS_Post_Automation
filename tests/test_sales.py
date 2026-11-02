@@ -19,14 +19,14 @@ class SalesTests(unittest.TestCase):
         h.recent.return_value=[{'topic':scenarios()[0]['question']}]
         self.assertIn('question too similar to a recent ad',validate_scenario(scenarios()[0],h))
 
-    def test_visual_rotation_avoids_previous_two_clips(self):
+    def test_visual_rotation_avoids_previous_clip(self):
         from agent.creative import select_visual
         with tempfile.TemporaryDirectory() as folder:
             h=History(Path(folder)/'history.json')
             seen=[]
             for i in range(6):
                 v=select_visual(h)
-                self.assertNotIn(v['clip_id'],seen[-2:])
+                self.assertNotIn(v['clip_id'],seen[-1:])
                 seen.append(v['clip_id'])
                 if h.posts:
                     self.assertNotEqual(v['theme'],h.posts[-1]['visual_theme'])

@@ -186,13 +186,9 @@ jobs:
           SCRIPT_MODELS: ${{ vars.SCRIPT_MODELS || 'gemini-3.8-flash,gemini-3.5-flash' }}
           # Full Veo films and the old card-reel hook stay off (owner verdict, 12 Sep 2026).
           VEO_ENABLED: "false"
-          # A fresh Veo opening scene for every video slot, from the free-trial credit on the
-          # GCP_PROJECT project (moved to it from an older project on 17 Sep 2026; the start date
-          # resets so earlier seconds do not count against the new credit).
-          # Veo 3.1 Fast, 720p without audio: $0.08 per generated second. Caps in seconds:
-          # 1500 a month ($120), 2600 in total from VEO_OPENING_START ($208). Past a cap, or on any Veo error, the reel
-          # opens on a library clip instead. See agent/render/veo_opening.py.
-          VEO_OPENING_ENABLED: "true"
+          # Reuse existing opening footage in random, non-repeating cycles.
+          # Owner closed GCP billing; do not request new paid Veo openings.
+          VEO_OPENING_ENABLED: "false"
           REEL_START_ON_HOOK: "false"
           VEO_OPENING_MODEL: veo-3.1-fast-generate-001
           VEO_OPENING_MONTHLY_SECONDS: "1500"

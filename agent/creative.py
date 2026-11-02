@@ -5,8 +5,8 @@ import copy
 import hashlib
 import json
 import re
+import random
 from difflib import SequenceMatcher
-from collections import Counter
 
 from .config import KNOWLEDGE, ROOT, load_json
 
@@ -115,9 +115,21 @@ def select_visual(history):
     clips=[c for c in catalog['clips'] if (ROOT/c['path']).is_file()]
     if not clips:
         raise RuntimeError('No verified motion footage available')
-    recent=history.recent(2)
-    counts=Counter(p.get('visual_clip') for p in history.posts)
-    clip=min(clips,key=lambda c:(c['id'] in [p.get('visual_clip') for p in recent],counts[c['id']],clips.index(c)))
+    # Reconstruct a shuffle cycle from persisted publication history. This works across
+    # separate Actions runners and ignores image posts that did not play the clip.
+    ids = {c['id'] for c in clips}
+    used, last_clip = set(), None
+    for post in history.posts:
+        clip_id = post.get('visual_clip')
+        if post.get('format') in {'image', 'carousel'} or clip_id not in ids:
+            continue
+        used.add(clip_id)
+        last_clip = clip_id
+        if used == ids:
+            used.clear()
+    candidates = [c for c in clips if c['id'] not in used and c['id'] != last_clip]
+    # A one-clip library must remain usable; unavailable files were filtered above.
+    clip = random.choice(candidates or clips)
     themes=catalog['themes']
     last=history.posts[-1].get('visual_theme') if history.posts else None
     theme=next(x for x in themes if x!=last)
