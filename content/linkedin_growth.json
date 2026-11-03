@@ -3022,6 +3022,21 @@
       },
       "metrics_updated_at": "2026-11-03T10:47:33.887Z",
       "checked_at": "2026-11-03T16:17:44.614774+05:30"
+    },
+    {
+      "id": "li-20261103-live-fit-check-evening",
+      "day": "2026-11-03",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "live-fit-check",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "Is Interview Sarthi the right app for the task you have?",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261103-live-fit-check-evening",
+      "owner_run": "41677702966",
+      "status": "reserved"
     }
   ]
 }
