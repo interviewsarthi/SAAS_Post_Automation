@@ -2466,7 +2466,7 @@
       "status": "sent",
       "buffer_id": "6ae08141b06df47a2ea3f31c",
       "accepted_at": "2026-10-27T16:17:39.546635+05:30",
-      "last_check_attempt_at": "2026-11-03T05:11:49.383046+05:30",
+      "last_check_attempt_at": "2026-11-03T06:26:12.442399+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520798409901985794",
       "metrics": {
         "reactions": 0,
@@ -2477,7 +2477,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-02T18:08:51.206Z",
-      "checked_at": "2026-11-03T05:11:49.882066+05:30",
+      "checked_at": "2026-11-03T06:26:12.751719+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-29T00:37:56.998388+05:30",
         "source_updated_at": "2026-10-28T17:05:40.576Z",
@@ -2506,7 +2506,7 @@
       "status": "sent",
       "buffer_id": "6ae0d5aa1e9cd6ef0a4f5c04",
       "accepted_at": "2026-10-27T22:17:48.359648+05:30",
-      "last_check_attempt_at": "2026-11-03T05:11:49.383046+05:30",
+      "last_check_attempt_at": "2026-11-03T06:26:12.442399+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7520889044638031872",
       "metrics": {
         "reactions": 0,
@@ -2517,7 +2517,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-02T18:08:51.149Z",
-      "checked_at": "2026-11-03T05:11:50.168124+05:30",
+      "checked_at": "2026-11-03T06:26:12.917840+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-29T00:37:57.186891+05:30",
         "source_updated_at": "2026-10-28T17:05:40.566Z",
@@ -2952,7 +2952,7 @@
       "status": "sent",
       "buffer_id": "6ae878576d4b19decd408d73",
       "accepted_at": "2026-11-02T17:17:45.916466+05:30",
-      "last_check_attempt_at": "2026-11-03T05:11:49.383046+05:30",
+      "last_check_attempt_at": "2026-11-03T06:26:12.442399+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7522987862225559552",
       "metrics": {
         "reactions": 0,
@@ -2963,7 +2963,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-02T18:08:51.160Z",
-      "checked_at": "2026-11-03T05:11:50.256198+05:30"
+      "checked_at": "2026-11-03T06:26:13.088807+05:30"
     },
     {
       "id": "li-20261102-prep-tradeoff-evening",
@@ -2981,7 +2981,7 @@
       "status": "sent",
       "buffer_id": "6ae8bea7a8c7e349215ef65a",
       "accepted_at": "2026-11-02T22:17:45.971874+05:30",
-      "last_check_attempt_at": "2026-11-03T05:11:49.383046+05:30",
+      "last_check_attempt_at": "2026-11-03T06:26:12.442399+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523063360981020672",
       "metrics": {
         "reactions": 0,
@@ -2992,7 +2992,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-02T18:08:51.102Z",
-      "checked_at": "2026-11-03T05:11:50.357355+05:30"
+      "checked_at": "2026-11-03T06:26:13.295539+05:30"
     }
   ]
 }
