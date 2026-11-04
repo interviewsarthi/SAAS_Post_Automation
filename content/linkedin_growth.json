@@ -1156,7 +1156,7 @@
       "status": "sent",
       "buffer_id": "6ac782d508d405a9e7fcfff0",
       "accepted_at": "2026-10-08T17:17:43.650809+05:30",
-      "last_check_attempt_at": "2026-10-16T00:53:28.647713+05:30",
+      "last_check_attempt_at": "2026-11-05T02:03:49.724062+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7513928156756590592",
       "metrics": {
         "reactions": 0,
@@ -1169,8 +1169,8 @@
         "totalTimeWatched": 1.51,
         "viewers": 10
       },
-      "metrics_updated_at": "2026-10-15T16:57:31.681Z",
-      "checked_at": "2026-10-16T00:53:29.554332+05:30",
+      "metrics_updated_at": "2026-11-03T21:26:04.865Z",
+      "checked_at": "2026-11-05T02:03:50.025042+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-09T15:17:43.448411+05:30",
         "source_updated_at": "2026-10-09T09:22:17.572Z",
@@ -1216,7 +1216,7 @@
       "status": "sent",
       "buffer_id": "6ac7bb17444a36d3be296b49",
       "accepted_at": "2026-10-08T21:17:45.210067+05:30",
-      "last_check_attempt_at": "2026-10-16T00:53:28.647713+05:30",
+      "last_check_attempt_at": "2026-11-05T02:03:49.724062+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7513988562980077568",
       "metrics": {
         "reactions": 0,
@@ -1226,8 +1226,8 @@
         "reach": 18,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-15T16:57:31.688Z",
-      "checked_at": "2026-10-16T00:53:29.750634+05:30",
+      "metrics_updated_at": "2026-11-03T21:26:04.865Z",
+      "checked_at": "2026-11-05T02:03:50.185404+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-09T15:17:43.673574+05:30",
         "source_updated_at": "2026-10-09T09:22:17.566Z",
@@ -2695,7 +2695,7 @@
       "status": "sent",
       "buffer_id": "6ae33254a0a200dca8baf4f0",
       "accepted_at": "2026-10-29T17:17:42.272291+05:30",
-      "last_check_attempt_at": "2026-10-30T15:17:38.793496+05:30",
+      "last_check_attempt_at": "2026-11-05T02:03:49.724062+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521538297316155392",
       "metrics": {
         "reactions": 0,
@@ -2704,12 +2704,12 @@
         "impressions": 12,
         "reach": 8,
         "shares": 0,
-        "views": 6,
-        "totalTimeWatched": 0.64,
+        "views": 5,
+        "totalTimeWatched": 0.65,
         "viewers": 5
       },
-      "metrics_updated_at": "2026-10-30T01:40:54.953Z",
-      "checked_at": "2026-10-30T15:17:39.463800+05:30",
+      "metrics_updated_at": "2026-11-04T18:10:14.979Z",
+      "checked_at": "2026-11-05T02:03:50.373214+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-30T15:17:39.463800+05:30",
         "source_updated_at": "2026-10-30T01:40:54.953Z",
@@ -2741,7 +2741,7 @@
       "status": "sent",
       "buffer_id": "6ae36a9525e7fa4a8db5d2ad",
       "accepted_at": "2026-10-29T21:17:43.550847+05:30",
-      "last_check_attempt_at": "2026-10-30T15:17:38.793496+05:30",
+      "last_check_attempt_at": "2026-11-05T02:03:49.724062+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7521598700994060288",
       "metrics": {
         "reactions": 0,
@@ -2751,8 +2751,8 @@
         "reach": 16,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-30T01:40:54.952Z",
-      "checked_at": "2026-10-30T15:17:39.606719+05:30",
+      "metrics_updated_at": "2026-11-04T18:10:14.890Z",
+      "checked_at": "2026-11-05T02:03:50.530944+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-30T15:17:39.606719+05:30",
         "source_updated_at": "2026-10-30T01:40:54.952Z",
@@ -3181,7 +3181,7 @@
       "status": "sent",
       "buffer_id": "6aeb3777bd95a2bd48fc2e91",
       "accepted_at": "2026-11-04T19:17:45.963693+05:30",
-      "last_check_attempt_at": "2026-11-04T23:45:35.981091+05:30",
+      "last_check_attempt_at": "2026-11-05T02:03:49.724062+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523742838715547648",
       "metrics": {
         "reactions": 0,
@@ -3192,7 +3192,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-04T18:10:14.985Z",
-      "checked_at": "2026-11-04T23:45:37.613641+05:30"
+      "checked_at": "2026-11-05T02:03:50.751772+05:30"
     }
   ]
 }
