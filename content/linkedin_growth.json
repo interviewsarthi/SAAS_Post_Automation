@@ -2644,7 +2644,7 @@
       "status": "sent",
       "buffer_id": "6ae1fcf6c5d58d361391a27d",
       "accepted_at": "2026-10-28T19:17:44.683829+05:30",
-      "last_check_attempt_at": "2026-11-04T19:17:46.034546+05:30",
+      "last_check_attempt_at": "2026-11-04T23:45:35.981091+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521206118388473856",
       "metrics": {
         "reactions": 0,
@@ -2654,12 +2654,23 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-03T18:09:39.085Z",
-      "checked_at": "2026-11-04T19:17:46.435612+05:30",
+      "metrics_updated_at": "2026-11-04T18:10:14.939Z",
+      "checked_at": "2026-11-04T23:45:36.325573+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-29T23:05:46.615326+05:30",
         "source_updated_at": "2026-10-29T17:05:51.662Z",
         "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "seven_day_metrics": {
+        "observed_at": "2026-11-04T23:45:36.325573+05:30",
+        "source_updated_at": "2026-11-04T18:10:14.939Z",
+        "age_days": 7,
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
@@ -3090,7 +3101,7 @@
       "status": "sent",
       "buffer_id": "6ae9bbc5f3805fa21014c437",
       "accepted_at": "2026-11-03T16:17:44.292236+05:30",
-      "last_check_attempt_at": "2026-11-04T19:17:46.034546+05:30",
+      "last_check_attempt_at": "2026-11-04T23:45:35.981091+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523335144783454208",
       "metrics": {
         "reactions": 0,
@@ -3100,8 +3111,19 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-03T18:09:39.052Z",
-      "checked_at": "2026-11-04T19:17:46.599756+05:30"
+      "metrics_updated_at": "2026-11-04T18:10:14.911Z",
+      "checked_at": "2026-11-04T23:45:36.706024+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-04T23:45:36.706024+05:30",
+        "source_updated_at": "2026-11-04T18:10:14.911Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261103-live-fit-check-evening",
@@ -3119,7 +3141,7 @@
       "status": "sent",
       "buffer_id": "6aea102a01362e3aaea705f2",
       "accepted_at": "2026-11-03T22:17:48.912441+05:30",
-      "last_check_attempt_at": "2026-11-04T19:17:46.034546+05:30",
+      "last_check_attempt_at": "2026-11-04T23:45:35.981091+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523425764017627137",
       "metrics": {
         "reactions": 0,
@@ -3129,8 +3151,19 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-03T18:09:39.069Z",
-      "checked_at": "2026-11-04T19:17:46.792662+05:30"
+      "metrics_updated_at": "2026-11-04T18:10:14.968Z",
+      "checked_at": "2026-11-04T23:45:36.990475+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-04T23:45:36.990475+05:30",
+        "source_updated_at": "2026-11-04T18:10:14.968Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261104-apply-evidence-evening",
@@ -3145,11 +3178,11 @@
       "hook": "Your CV says Python. The job asks what you built with it.",
       "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261104-apply-evidence-evening",
       "owner_run": "41841253002",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6aeb3777bd95a2bd48fc2e91",
       "accepted_at": "2026-11-04T19:17:45.963693+05:30",
-      "last_check_attempt_at": "2026-11-04T19:17:46.034546+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-04T23:45:35.981091+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523742838715547648",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -3158,8 +3191,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-04T13:47:35.734Z",
-      "checked_at": "2026-11-04T19:17:46.266086+05:30"
+      "metrics_updated_at": "2026-11-04T18:10:14.985Z",
+      "checked_at": "2026-11-04T23:45:37.613641+05:30"
     }
   ]
 }
