@@ -3243,6 +3243,21 @@
       },
       "metrics_updated_at": "2026-11-04T18:10:14.985Z",
       "checked_at": "2026-11-05T05:08:40.807673+05:30"
+    },
+    {
+      "id": "li-20261105-prep-debug-midday",
+      "day": "2026-11-05",
+      "slot": "midday",
+      "scheduled_time_ist": "17:17",
+      "topic": "prep-debug",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "For a debugging story, explain the investigation.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261105-prep-debug-midday",
+      "owner_run": "42021749270",
+      "status": "reserved"
     }
   ]
 }
