@@ -75,7 +75,7 @@ def product_still() -> pathlib.Path:
 
 def end_card() -> pathlib.Path:
     spec = {"type": "cta", "title": "30 minutes free. No card.",
-            "subtitle": "Windows app. One-time passes from Rs 99.", "show_pricing": True,
+            "subtitle": "Windows app. One-time passes from Rs 149.", "show_pricing": True,
             "theme": "dark"}
     img = render_slide(spec, REEL, 1, 1)
     path = OUT / "end-card.png"

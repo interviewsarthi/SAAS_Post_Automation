@@ -11,7 +11,7 @@ Last reviewed: 13 September 2026.
 Interview Sarthi is a Windows app that helps you during your online interview, live:
 it listens to the call, shows what the interviewer just asked, and drafts what to say,
 from your own resume, in English, Hindi or Hinglish. Built for Indian candidates. 30
-minutes free, then one-time passes from Rs 99. Runs on your own free Google Gemini key.
+minutes free, then one-time passes from Rs 149. Runs on your own free Google Gemini key.
 
 ## Three products, and which one a post is about
 
@@ -84,7 +84,7 @@ Name: "Sarthi" is Hindi/Sanskrit for the charioteer who guides the warrior
 | Plan | Price | Notes |
 |---|---|---|
 | Free | Rs 0 | 30 minutes of answers per device, every feature, no card, no signup |
-| 2-Day Pass | Rs 99 one-time | 2 days from activation, unlimited sessions, 1 device. About Rs 50 a day |
+| 2-Day Pass | Rs 149 one-time | 2 days from activation, unlimited sessions, 1 device. About Rs 75 a day |
 | 1-Month Pass | Rs 299 one-time | 30 days from activation, unlimited sessions, 2 devices. About Rs 10 a day |
 
 The days start when the key is activated in the app, not at purchase (India since 24 September 2026,
@@ -150,7 +150,7 @@ say "Windows app" clearly and send phone viewers to the website.
 1. Hinglish. Answers in the language the interviewer used. This is the main
    differentiator and the thing US tools get wrong.
 2. Your resume, your words. Answers about your real projects.
-3. Rupees, one-time. From Rs 99. Nothing renews.
+3. Rupees, one-time. From Rs 149. Nothing renews.
 4. 30 minutes free with every feature, no card.
 5. Private by design: your own free Gemini key, no vendor servers.
 6. Screen reading for shared code and diagrams.
@@ -168,7 +168,7 @@ able to answer three questions: what is it, where does it run, what does it cost
   on screen, labelled as Interview Sarthi's output. This is the demonstration, and it is also
   the useful part the viewer saves.
 - What it costs, on the closing card: 30 minutes free with every feature, no card, then
-  one-time passes from Rs 99. Link in bio.
+  one-time passes from Rs 149. Link in bio.
 
 Tips without the product are wasted reach. Product without the tip is an advert nobody
 watches. Each post is one interview moment, handled on screen by the app.
@@ -251,7 +251,7 @@ Guides that posts can point to (topic in brackets):
   Teams, Zoom, Meet, Webex and others.
 - Mac or phone? Not yet. Windows only.
 - Is it free? The first 30 minutes are free with every feature, no card. After that,
-  passes from Rs 99.
+  passes from Rs 149.
 - Which pass for one interview? For a single call the 2-Day Pass. Most interviews
   have 2 or 3 rounds on different days, so the 1-Month Pass (Rs 299, about Rs 10 a day)
   covers the whole loop and the rest of the job hunt.
@@ -270,7 +270,7 @@ Guides that posts can point to (topic in brackets):
   why should we hire you, reason for job change, explaining a career gap.
 - Online interview setup: audio, camera, lighting, notes, what to do when you freeze.
 - Product moments: the Hinglish answer appearing, the resume-grounded project answer,
-  the answer streaming onto the screen, the free 30 minutes, the Rs 99 pass.
+  the answer streaming onto the screen, the free 30 minutes, the Rs 149 pass.
 - Seasonal: placement season (July to October), NQT (February to April), appraisal
   and switching season (March to May), new year job change.
 

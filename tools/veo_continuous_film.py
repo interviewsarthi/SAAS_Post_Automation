@@ -54,7 +54,7 @@ PRODUCT = {"type": "product", "title": "Interview Sarthi shows you what to say."
            "caption": "It listens to your interview and drafts from your resume.",
            "image": "overlay_hinglish", "theme": "dark"}
 CTA = {"type": "cta", "title": "30 minutes free. No card.",
-       "subtitle": "Windows app. One-time passes from Rs 99.", "show_pricing": True, "theme": "dark"}
+       "subtitle": "Windows app. One-time passes from Rs 149.", "show_pricing": True, "theme": "dark"}
 TIMELINE = [("struggle", 6.5), ("product", 6.5), ("confident", 7.0), ("price", 4.5)]
 
 

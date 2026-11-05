@@ -409,3 +409,16 @@ Lessons the same day:
   spent credit or any error falls back to Chirp.
 - History records `voice` (deepgram, chirp, gemini, edge) for every post, so reels can be compared by
   voice. To go back: remove "deepgram" from engine_order in knowledge/brand.json.
+
+## 10 November 2026, Live Sarthi's 2-Day Pass is Rs 149 in India
+
+- Owner's decision (29 October 2026): in India the Live Sarthi 2-Day Pass goes from Rs 99 to Rs 149
+  (about Rs 75 a day) from 10 November 2026 22:00 IST. The 1-Month Pass stays Rs 299, Prep Sarthi's
+  30-Day Pass stays Rs 99, and the dollar prices ($9.99, $29.99) do not change.
+- Every Live price in knowledge/, the fact sheet, the spoken CTA ("one hundred and forty-nine rupees for
+  two days"), the closing cards and the samples now say Rs 149. Prep's Rs 99 lines are untouched. The brand
+  tagline "From ₹99" stays: Prep Sarthi still costs ₹99.
+- `validate()` sends back an Interview Sarthi (Live) post for India that says Rs 99, ₹99 or 99 rupees,
+  because older hooks in the history still do. Prep posts are not checked for it.
+- knowledge/business_brief.auto.md is not edited by hand: run the "Refresh business brief" workflow once the
+  website shows Rs 149 (it also runs on the 1st of every month).

@@ -89,7 +89,7 @@ You write:
    words that ends by saying the site: "Visit interview sarthi dot com".
 3. The question line and the answer panel over the footage are the app's own interface, and they are what a
    muted viewer reads, so the question and the answer must make sense with the sound off.
-TOTAL narration across beats and cards: 45 to 65 words. Never pad. Write prices as words ("99 rupees").
+TOTAL narration across beats and cards: 45 to 65 words. Never pad. Write prices as words ("149 rupees").
 If the angle is privacy, the allowed line is exactly this idea: "On your screen. Not in the meeting." Never any
 word from the forbidden list, and never a word that frames the app as preparation.
 Also return "reel": {"youtube_title": "<under 90 characters, ends with #Shorts>", "youtube_description": "<2 to 4 lines>",
@@ -105,7 +105,7 @@ then "Visit interview sarthi dot com"; it never says Prep Sarthi, ApplySarthi or
 such as /prep or /apply, and never "profile link" without the site. On-screen text stays short, but the last
 visible slide must also tell muted viewers where to go ("Try free: interviewsarthi.com"). The narration can
 say a little more.
-In narration write prices as words ("99 rupees" or "99 रुपये"),
+In narration write prices as words ("149 rupees" or "149 रुपये" for Live Sarthi's 2 days, "99 rupees" for Prep Sarthi's 30 days),
 never with a currency symbol.
 For hinglish posts the on-screen text is Roman script, but the narration must be written in mixed script:
 Hindi words in Devanagari, English words in Latin letters, because the voice reads Devanagari correctly and
@@ -135,7 +135,7 @@ You write:
 3. Most viewers are muted. The headline plus the panel must make the pitch alone: an app on your screen, during the
    call, showing what to say.
 TOTAL narration across the four lines: 40 to 58 words. Narration is always English, even when the on-screen question
-and answer are Hinglish. Write prices as words ("99 rupees"). The app is used DURING the interview: never describe it
+and answer are Hinglish. Write prices as words ("149 rupees"). The app is used DURING the interview: never describe it
 as preparation, practice, a mock interview or revision. Never any word from the forbidden list.
 Also return "reel": {"youtube_title": "<under 90 characters, ends with #Shorts>", "youtube_description": "<2 to 4 lines>",
 "youtube_tags": ["<8 to 12 short tags>"]}.""",
@@ -278,7 +278,7 @@ PRODUCT_FIRST = {
         "live, while the interview is on (it is not a preparation or practice tool, and is never called one); "
         "(b) the middle shows the app's output for one real interviewer question, in a qa slide whose label_a is "
         "'Interview Sarthi showed', or a product slide; (c) the post ends on a product or cta slide with where it "
-        "runs, 30 minutes free, passes from Rs 99. Frame it as an assistant drafting from the candidate's own "
+        "runs, 30 minutes free, passes from Rs 149. Frame it as an assistant drafting from the candidate's own "
         "resume; never as anything hidden.",
     "prep_sarthi":
         "(a) the hook line and slide 1 name Interview Sarthi and the practice moment, so a stranger knows in three "
@@ -304,7 +304,7 @@ def _readers(market: str | None) -> str:
 
 # The rupee prices inside PRODUCT_FIRST, and what a post for viewers abroad says instead.
 ABROAD_PRICES = {
-    "passes from Rs 99": "passes from $9.99",
+    "passes from Rs 149": "passes from $9.99",
     "then Rs 99 for 30 days": "then $9.99 for 30 days",
 }
 
@@ -367,7 +367,7 @@ def write_post(llm: Gemini, plan: dict, fmt: str, feedback: str | None = None) -
                  "job, app, answer, round, feedback, project, offer), never formal or Sanskritised Hindi. Use mixed "
                  "script: Hindi words in Devanagari, English words in Latin letters, because the voice reads "
                  "Devanagari correctly and Roman Hindi badly. Product names stay in Latin letters and the last "
-                 "slide's narration still ends with \"Visit interview sarthi dot com\". Speak prices as \"99 रुपये\". "
+                 "slide's narration still ends with \"Visit interview sarthi dot com\". Speak prices as \"149 रुपये\" (Live Sarthi's 2 days) or \"99 रुपये\" (Prep Sarthi's 30 days). "
                  "A product slide uses the English screenshot. Set \"language\": \"hindi\". The Hindi voice reads "
                  f"more slowly, so keep the TOTAL narration between {lo} and {hi} words. Example narration: "
                  "\"HR ने पूछा अपनी weakness बताइए? Hardworking मत बोलिए। एक सच्ची कमज़ोरी बताइए और बताइए कि आप उसे कैसे "
@@ -495,6 +495,11 @@ def _all_text(content: dict) -> str:
     return "\n".join(chunks)
 
 
+# Owner, 29 Oct 2026: from 10 Nov 2026 the Live Sarthi (Interview Sarthi) 2-Day Pass is Rs 149 in India; the Rs 99
+# festive price ended. Older posts in the history still say Rs 99, so a Live post in India that does goes back.
+LIVE_OLD_PRICE = re.compile(r"(₹|\bRs\.?\s?)99(?![\d.])|\b99\s*(rupees?\b|रुपये)|ninety[- ]nine rupees", re.I)
+
+
 def validate(content: dict, fmt: str) -> tuple[dict, list[str]]:
     """Normalise the post in place and return (content, problems). Problems are for the model to fix."""
     content = _strip_dashes(content)
@@ -514,6 +519,9 @@ def validate(content: dict, fmt: str) -> tuple[dict, list[str]]:
     # The post must name the product it is selling, which is not always Interview Sarthi.
     pid = product_of(content)
     own_name = product(pid)["name"]
+    if pid == "interview_sarthi" and not mk.is_global(content.get("market")) and LIVE_OLD_PRICE.search(_all_text(content)):
+        problems.append("the 2-Day Pass is Rs 149 in India (say 149 rupees in narration), never Rs 99; "
+                        "the 1-Month Pass is Rs 299")
     slides = content.get("slides") or []
     if not isinstance(slides, list) or not slides:
         return content, ["no slides"]

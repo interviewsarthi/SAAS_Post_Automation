@@ -5,7 +5,7 @@
     "pricing": {
       "interview_sarthi": [
         {"label": "Free", "price": "₹0", "note": "30 minutes, every feature, no card"},
-        {"label": "2-Day Pass", "price": "₹99", "note": "one-time, 1 device"},
+        {"label": "2-Day Pass", "price": "₹149", "note": "one-time, 1 device"},
         {"label": "1-Month Pass", "price": "₹299", "note": "one-time, 2 devices"}
       ],
       "prep_sarthi": [

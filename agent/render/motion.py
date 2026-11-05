@@ -307,7 +307,7 @@ class MotionScene:
             place(img,text_layer('No payment card.',35,width=650,colour=GREEN,weight='medium',height=90),307,1085,t,.5)
             from .. import market as mk
             price, upsell = mk.card_price('interview_sarthi', self.s.get('market'),
-                                          ('Then Rs 99 for 2 days.', 'Rs 299 covers the whole month.'))
+                                          ('Then Rs 149 for 2 days.', 'Rs 299 covers the whole month.'))
             place(img,text_layer(price,45,width=832,height=70),86,1215,t,.6)
             # Two passes only since 25 Sep 2026: the 2-day pass is the headline price and the month
             # pass (Rs 299, about Rs 10 a day) is named once, as the one that covers every round.

@@ -16,7 +16,7 @@ from . import market as mk
 FACTS = """Interview Sarthi is a Windows 10/11 desktop app for live online interviews.
 It listens to the interviewer and displays suggested answers using the uploaded resume.
 It works alongside Teams, Zoom, Google Meet and other call apps. English, Hindi and Hinglish are supported.
-The first 30 minutes are free, with no payment card. A 2-day pass costs Rs 99 once.
+The first 30 minutes are free, with no payment card. A 2-day pass costs Rs 149 once.
 A 1-month pass costs Rs 299 once, about Rs 10 a day, on 2 devices. There are no other passes.
 Nothing auto-renews. Setup requires the user's own Google Gemini API key and internet.
 Refer a friend: when a friend buys a pass with your invite code and activates it, you both get one free interview day
@@ -72,7 +72,7 @@ def facts_for(pid: str | None) -> str:
 
 def bad_claims_for(pid: str | None):
     return BAD_CLAIMS_BY_PRODUCT.get(pid or "", BAD_CLAIMS)
-CTA = "Try thirty minutes free on Windows. Then ninety-nine rupees for two days. Visit interviewsarthi dot com."
+CTA = "Try thirty minutes free on Windows. Then one hundred and forty-nine rupees for two days. Visit interviewsarthi dot com."
 # Openings for the promo reel, in the shapes the 17 Sep 2026 audit of winning reels found.
 PROMO_HOOKS = load_json(KNOWLEDGE / "hooks.json")["promo_hooks"]
 

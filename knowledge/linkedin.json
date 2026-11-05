@@ -1092,17 +1092,17 @@
       "id": "live-pass",
       "series": "live",
       "hook": "Need live assistance for a few days? Check the pass before buying.",
-      "body": "In India, Interview Sarthi offers a 2-day pass for Rs 99 and a one-month pass for Rs 299. Both are one-time payments with no automatic renewal.\n\nTry the free 30 minutes first. The app runs on Windows and uses your own Gemini key, so test that setup before deciding which pass fits your needs.",
+      "body": "In India, Interview Sarthi offers a 2-day pass for Rs 149 and a one-month pass for Rs 299. Both are one-time payments with no automatic renewal.\n\nTry the free 30 minutes first. The app runs on Windows and uses your own Gemini key, so test that setup before deciding which pass fits your needs.",
       "card_title": "Evaluate the trial, then choose a pass",
       "points": [
         "30 minutes free first",
-        "India: Rs 99 for 2 days",
+        "India: Rs 149 for 2 days",
         "India: Rs 299 for a month",
         "One payment, no auto-renewal"
       ],
       "faq": [
         "What happens after the free trial?",
-        "In India: Rs 99 for 2 days or Rs 299 for a month. One payment; no automatic renewal. Windows and your own Gemini key are required."
+        "In India: Rs 149 for 2 days or Rs 299 for a month. One payment; no automatic renewal. Windows and your own Gemini key are required."
       ],
       "image": "overlay_english",
       "tags": [

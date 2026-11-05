@@ -75,7 +75,7 @@ class SalesReelTests(unittest.TestCase):
 
     def test_indian_script_is_unchanged(self):
         seed = scenarios()[0]
-        self.assertIn("ninety-nine rupees", authored_script(seed, "standard", 0)["narrations"][-1])
+        self.assertIn("one hundred and forty-nine rupees", authored_script(seed, "standard", 0)["narrations"][-1])
 
     def test_abroad_facts_drop_rupees_and_add_dollars(self):
         from agent.campaign import FACTS
@@ -125,7 +125,8 @@ class WrittenPostTests(unittest.TestCase):
 
     def test_cta_card_prices_follow_product_and_market(self):
         # Since 25 Sep 2026: Live has a 2-day and a 1-month pass, Prep one 30-day pass.
-        self.assertEqual([r["price"] for r in mk.pricing("interview_sarthi", "india")], ["₹0", "₹99", "₹299"])
+        # 10 Nov 2026 (owner, 29 Oct): the India 2-Day Pass is Rs 149; Prep and the dollar prices are unchanged.
+        self.assertEqual([r["price"] for r in mk.pricing("interview_sarthi", "india")], ["₹0", "₹149", "₹299"])
         self.assertEqual([r["price"] for r in mk.pricing("interview_sarthi", "global")], ["$0", "$9.99", "$29.99"])
         # Prep's card used to show the Windows app's ladder; now it shows its own passes.
         self.assertEqual([r["price"] for r in mk.pricing("prep_sarthi", "india")], ["₹0", "₹99"])
@@ -136,6 +137,32 @@ class WrittenPostTests(unittest.TestCase):
         self.assertEqual(mk.card_price("interview_sarthi", "global", ("x", "y")),
                          ("Then $9.99 for 2 days.", "$29.99 covers the whole month."))
         self.assertIn("Rs 299 covers the whole month.", (ROOT / "agent/render/motion.py").read_text(encoding="utf-8"))
+
+    def test_live_two_days_are_never_rs_99_in_india(self):
+        """Owner, 29 Oct 2026: the Rs 99 Diwali price ended 10 Nov 2026; Live's 2 days are Rs 149, Prep stays Rs 99."""
+        old = re.compile(r"2-Day Pass[^\n]{0,12}(₹|Rs\.? ?)99\b|(₹|Rs\.? ?)99[^\n]{0,6}(for )?(2|two)[- ]days?|"
+                         r"2-day pass (costs |for )(₹|Rs\.? ?)?99\b|ninety-nine rupees|99 rupees\. One-time|[Dd]iwali")
+        for name in ("knowledge/brand.json", "knowledge/markets.json", "knowledge/pillars.json", "knowledge/stories.json",
+                     "knowledge/linkedin.json", "knowledge/business_brief.md", "agent/campaign.py", "agent/copywriter.py",
+                     "agent/render/motion.py", "agent/render/sales.py", "tools/veo_brand_film.py",
+                     "tools/veo_continuous_film.py", "samples/sample_demo.json", "samples/sample_film.json"):
+            self.assertNotRegex((ROOT / name).read_text(encoding="utf-8"), old, name)
+
+    def test_a_live_post_in_india_at_rs_99_is_sent_back_and_prep_at_rs_99_is_not(self):
+        content = load_json(SAMPLES / "sample_reel.json")
+        content["market"] = "india"
+        content["product"] = "interview_sarthi"
+        content["slides"][-1]["narration"] = "Thirty minutes free, then 99 rupees for two days. Visit interview sarthi dot com."
+        _, problems = validate(content, "reel")
+        self.assertTrue(any("Rs 149" in p for p in problems), problems)
+        content["slides"][-1]["narration"] = "Thirty minutes free, then 149 rupees for two days. Visit interview sarthi dot com."
+        _, problems = validate(content, "reel")
+        self.assertFalse(any("Rs 149" in p for p in problems), problems)
+        prep = load_json(SAMPLES / "sample_reel.json")
+        prep["market"], prep["product"] = "india", "prep_sarthi"
+        prep["slides"][-1]["narration"] = "A free demo, then 99 rupees for thirty days. Visit interview sarthi dot com."
+        _, problems = validate(prep, "reel")
+        self.assertFalse(any("Rs 149" in p for p in problems), problems)
 
     def test_no_retired_pass_is_mentioned(self):
         retired = re.compile(r"7-Day Pass|3-Month Pass|₹399|Rs 399|₹999|Rs 999|1,999|₹249|Rs 249|"

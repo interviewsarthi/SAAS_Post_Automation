@@ -127,7 +127,7 @@ class SalesScene:
             self.text(d, 'No payment card.', 700, size=54, colour=GREEN, bottom=820)
             d.line((LEFT, 914, RIGHT, 914), fill='#32415b', width=2)
             from ..market import card_price
-            price = card_price('interview_sarthi', self.s.get('market'), ('Then Rs 99 for 2 days.', ''))[0]
+            price = card_price('interview_sarthi', self.s.get('market'), ('Then Rs 149 for 2 days.', ''))[0]
             self.text(d, price, 978, size=54, bottom=1130)
             self.text(d, 'One-time pass. Nothing renews.', 1142, size=35, colour=MUTED, bottom=1240, min_size=33)
             d.rounded_rectangle((LEFT, 1335, RIGHT, 1447), radius=18, fill='#cee3ff')
