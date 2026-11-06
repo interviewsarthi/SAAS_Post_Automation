@@ -3315,7 +3315,7 @@
       "status": "sent",
       "buffer_id": "6aec6cd49e9fe9dc2c11bcb4",
       "accepted_at": "2026-11-05T17:17:42.690722+05:30",
-      "last_check_attempt_at": "2026-11-06T05:07:22.488680+05:30",
+      "last_check_attempt_at": "2026-11-06T15:17:49.153860+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524075015215026176",
       "metrics": {
         "reactions": 0,
@@ -3326,7 +3326,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-05T18:10:26.019Z",
-      "checked_at": "2026-11-06T05:07:22.821659+05:30"
+      "checked_at": "2026-11-06T15:17:49.411322+05:30"
     },
     {
       "id": "li-20261105-live-resume-evening",
@@ -3344,7 +3344,7 @@
       "status": "sent",
       "buffer_id": "6aeca515f5b05f888c11929e",
       "accepted_at": "2026-11-05T21:17:44.134288+05:30",
-      "last_check_attempt_at": "2026-11-06T05:07:22.488680+05:30",
+      "last_check_attempt_at": "2026-11-06T15:17:49.153860+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7524135417705562112",
       "metrics": {
         "reactions": 0,
@@ -3355,7 +3355,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-05T18:10:26.058Z",
-      "checked_at": "2026-11-06T05:07:23.000951+05:30"
+      "checked_at": "2026-11-06T15:17:49.537883+05:30"
     },
     {
       "id": "li-20261106-live-language-midday",
@@ -3370,7 +3370,21 @@
       "hook": "English question. Hinglish explanation. One interview can use both.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261106-live-language-midday",
       "owner_run": "42197630906",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6aeda23af3498efda783fb83",
+      "accepted_at": "2026-11-06T15:17:49.053608+05:30",
+      "last_check_attempt_at": "2026-11-06T15:17:49.153860+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-06T09:47:38.844Z",
+      "checked_at": "2026-11-06T15:17:49.314877+05:30"
     }
   ]
 }
