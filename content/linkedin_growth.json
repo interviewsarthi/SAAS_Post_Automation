@@ -3436,6 +3436,21 @@
       },
       "metrics_updated_at": "2026-11-06T18:10:40.689Z",
       "checked_at": "2026-11-07T04:36:11.863105+05:30"
+    },
+    {
+      "id": "li-20261107-apply-shortlist-midday",
+      "day": "2026-11-07",
+      "slot": "midday",
+      "scheduled_time_ist": "09:17",
+      "topic": "apply-shortlist",
+      "series": "apply",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "Before sending another application, check these four things.",
+      "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261107-apply-shortlist-midday",
+      "owner_run": "42335547866",
+      "status": "reserved"
     }
   ]
 }
