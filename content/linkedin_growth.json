@@ -1540,7 +1540,7 @@
       "status": "sent",
       "buffer_id": "6acadc9fb07d37ac978eb49c",
       "accepted_at": "2026-10-11T06:17:37.663605+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7514849202288553984",
       "metrics": {
         "reactions": 0,
@@ -1551,7 +1551,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T16:43:25.488Z",
-      "checked_at": "2026-11-08T03:17:36.006415+05:30",
+      "checked_at": "2026-11-08T06:17:39.617514+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-12T17:17:39.789825+05:30",
         "source_updated_at": "2026-10-12T02:44:39.573Z",
@@ -1591,7 +1591,7 @@
       "status": "sent",
       "buffer_id": "6acbbda463ff33d8c98beb85",
       "accepted_at": "2026-10-11T22:17:43.275190+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7515090817619787777",
       "metrics": {
         "reactions": 0,
@@ -1602,7 +1602,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T16:43:25.488Z",
-      "checked_at": "2026-11-08T03:17:36.156158+05:30",
+      "checked_at": "2026-11-08T06:17:39.756745+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-12T17:17:39.899081+05:30",
         "source_updated_at": "2026-10-12T02:44:39.524Z",
@@ -3079,7 +3079,7 @@
       "status": "sent",
       "buffer_id": "6ae68c20cf3a3112f3d11b34",
       "accepted_at": "2026-11-01T06:17:39.063586+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522459352696545280",
       "metrics": {
         "reactions": 0,
@@ -3090,7 +3090,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T18:11:16.099Z",
-      "checked_at": "2026-11-08T03:17:36.307221+05:30",
+      "checked_at": "2026-11-08T06:17:39.895786+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-03T02:23:20.377476+05:30",
         "source_updated_at": "2026-11-02T18:08:51.157Z",
@@ -3119,7 +3119,7 @@
       "status": "sent",
       "buffer_id": "6ae76d287c4e5559266596d1",
       "accepted_at": "2026-11-01T22:17:46.651237+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7522700975485353985",
       "metrics": {
         "reactions": 0,
@@ -3130,7 +3130,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T18:11:16.105Z",
-      "checked_at": "2026-11-08T03:17:36.447254+05:30",
+      "checked_at": "2026-11-08T06:17:40.029951+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-03T02:23:20.567617+05:30",
         "source_updated_at": "2026-11-02T18:08:51.158Z",
@@ -3519,7 +3519,7 @@
       "status": "sent",
       "buffer_id": "6aee9f4d229bf05daf26fc30",
       "accepted_at": "2026-11-07T09:17:35.985237+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7524678966322843648",
       "metrics": {
         "reactions": 0,
@@ -3530,7 +3530,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T18:11:16.148Z",
-      "checked_at": "2026-11-08T03:17:36.574143+05:30"
+      "checked_at": "2026-11-08T06:17:40.176770+05:30"
     },
     {
       "id": "li-20261107-live-setup-evening",
@@ -3548,7 +3548,7 @@
       "status": "sent",
       "buffer_id": "6aef1de1d6bbae6fa188be3b",
       "accepted_at": "2026-11-07T18:17:40.037929+05:30",
-      "last_check_attempt_at": "2026-11-08T03:17:35.753994+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7524814877882765312",
       "metrics": {
         "reactions": 0,
@@ -3559,7 +3559,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-07T18:11:16.113Z",
-      "checked_at": "2026-11-08T03:17:37.113761+05:30"
+      "checked_at": "2026-11-08T06:17:40.313214+05:30"
     },
     {
       "id": "li-20261108-prep-gap-midday",
@@ -3574,7 +3574,21 @@
       "hook": "A gap on your CV needs a clear answer, not an apology.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261108-prep-gap-midday",
       "owner_run": "42431331941",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6aefc6a051492b796e0c5f4a",
+      "accepted_at": "2026-11-08T06:17:39.184419+05:30",
+      "last_check_attempt_at": "2026-11-08T06:17:39.264447+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-08T00:47:28.872Z",
+      "checked_at": "2026-11-08T06:17:39.466456+05:30"
     }
   ]
 }
