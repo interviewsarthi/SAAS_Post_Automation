@@ -3589,6 +3589,21 @@
       },
       "metrics_updated_at": "2026-11-08T00:47:28.872Z",
       "checked_at": "2026-11-08T12:12:30.279456+05:30"
+    },
+    {
+      "id": "li-20261108-jobs-skill-python-remote-evening",
+      "day": "2026-11-08",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "jobs-skill-python-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "903 new remote Python jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/python/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261108-jobs-skill-python-remote-evening",
+      "owner_run": "42501634969",
+      "status": "reserved"
     }
   ]
 }
