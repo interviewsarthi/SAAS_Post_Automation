@@ -1664,7 +1664,7 @@
       "status": "sent",
       "buffer_id": "6accc8d11d99033b8d203da1",
       "accepted_at": "2026-10-12T17:17:39.462804+05:30",
-      "last_check_attempt_at": "2026-10-19T22:17:42.829292+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7515377692016377856",
       "metrics": {
         "reactions": 0,
@@ -1674,8 +1674,8 @@
         "reach": 1,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-19T12:39:05.063Z",
-      "checked_at": "2026-10-19T22:17:43.091760+05:30",
+      "metrics_updated_at": "2026-11-08T15:43:00.765Z",
+      "checked_at": "2026-11-09T02:16:00.591470+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-13T01:56:25.964004+05:30",
         "source_updated_at": "2026-10-12T19:38:07.286Z",
@@ -1715,7 +1715,7 @@
       "status": "sent",
       "buffer_id": "6acd0f1f7562cfd84bc40949",
       "accepted_at": "2026-10-12T22:17:38.201079+05:30",
-      "last_check_attempt_at": "2026-10-19T22:17:42.829292+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7515453183314358273",
       "metrics": {
         "reactions": 0,
@@ -1725,8 +1725,8 @@
         "reach": 1,
         "shares": 0
       },
-      "metrics_updated_at": "2026-10-19T12:39:05.064Z",
-      "checked_at": "2026-10-19T22:17:43.192251+05:30",
+      "metrics_updated_at": "2026-11-08T15:43:00.765Z",
+      "checked_at": "2026-11-09T02:16:00.735821+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-13T22:17:39.842284+05:30",
         "source_updated_at": "2026-10-13T11:29:45.489Z",
@@ -3101,7 +3101,7 @@
       "status": "sent",
       "buffer_id": "6ae68c20cf3a3112f3d11b34",
       "accepted_at": "2026-11-01T06:17:39.063586+05:30",
-      "last_check_attempt_at": "2026-11-08T22:17:53.605761+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522459352696545280",
       "metrics": {
         "reactions": 0,
@@ -3111,12 +3111,23 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-07T18:11:16.099Z",
-      "checked_at": "2026-11-08T22:17:54.072662+05:30",
+      "metrics_updated_at": "2026-11-08T18:11:26.442Z",
+      "checked_at": "2026-11-09T02:16:01.494412+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-03T02:23:20.377476+05:30",
         "source_updated_at": "2026-11-02T18:08:51.157Z",
         "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "seven_day_metrics": {
+        "observed_at": "2026-11-09T02:16:01.494412+05:30",
+        "source_updated_at": "2026-11-08T18:11:26.442Z",
+        "age_days": 7,
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
@@ -3141,7 +3152,7 @@
       "status": "sent",
       "buffer_id": "6ae76d287c4e5559266596d1",
       "accepted_at": "2026-11-01T22:17:46.651237+05:30",
-      "last_check_attempt_at": "2026-11-08T22:17:53.605761+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7522700975485353985",
       "metrics": {
         "reactions": 0,
@@ -3151,12 +3162,23 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-07T18:11:16.105Z",
-      "checked_at": "2026-11-08T22:17:54.164539+05:30",
+      "metrics_updated_at": "2026-11-08T18:11:26.508Z",
+      "checked_at": "2026-11-09T02:16:01.638536+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-03T02:23:20.567617+05:30",
         "source_updated_at": "2026-11-02T18:08:51.158Z",
         "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "seven_day_metrics": {
+        "observed_at": "2026-11-09T02:16:01.638536+05:30",
+        "source_updated_at": "2026-11-08T18:11:26.508Z",
+        "age_days": 7,
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
@@ -3181,7 +3203,7 @@
       "status": "sent",
       "buffer_id": "6ae878576d4b19decd408d73",
       "accepted_at": "2026-11-02T17:17:45.916466+05:30",
-      "last_check_attempt_at": "2026-11-04T03:32:40.684337+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7522987862225559552",
       "metrics": {
         "reactions": 0,
@@ -3191,8 +3213,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-03T18:09:39.074Z",
-      "checked_at": "2026-11-04T03:32:42.621454+05:30",
+      "metrics_updated_at": "2026-11-08T18:11:26.421Z",
+      "checked_at": "2026-11-09T02:16:00.892961+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-04T03:32:42.621454+05:30",
         "source_updated_at": "2026-11-03T18:09:39.074Z",
@@ -3221,7 +3243,7 @@
       "status": "sent",
       "buffer_id": "6ae8bea7a8c7e349215ef65a",
       "accepted_at": "2026-11-02T22:17:45.971874+05:30",
-      "last_check_attempt_at": "2026-11-04T03:32:40.684337+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523063360981020672",
       "metrics": {
         "reactions": 0,
@@ -3231,8 +3253,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-03T18:09:39.058Z",
-      "checked_at": "2026-11-04T03:32:42.891040+05:30",
+      "metrics_updated_at": "2026-11-08T18:11:26.461Z",
+      "checked_at": "2026-11-09T02:16:01.032360+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-04T03:32:42.891040+05:30",
         "source_updated_at": "2026-11-03T18:09:39.058Z",
@@ -3541,7 +3563,7 @@
       "status": "sent",
       "buffer_id": "6aee9f4d229bf05daf26fc30",
       "accepted_at": "2026-11-07T09:17:35.985237+05:30",
-      "last_check_attempt_at": "2026-11-08T22:17:53.605761+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7524678966322843648",
       "metrics": {
         "reactions": 0,
@@ -3551,8 +3573,19 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-07T18:11:16.148Z",
-      "checked_at": "2026-11-08T22:17:54.257894+05:30"
+      "metrics_updated_at": "2026-11-08T18:11:26.484Z",
+      "checked_at": "2026-11-09T02:16:01.788940+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-09T02:16:01.788940+05:30",
+        "source_updated_at": "2026-11-08T18:11:26.484Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261107-live-setup-evening",
@@ -3570,7 +3603,7 @@
       "status": "sent",
       "buffer_id": "6aef1de1d6bbae6fa188be3b",
       "accepted_at": "2026-11-07T18:17:40.037929+05:30",
-      "last_check_attempt_at": "2026-11-08T22:17:53.605761+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7524814877882765312",
       "metrics": {
         "reactions": 0,
@@ -3580,8 +3613,19 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-07T18:11:16.113Z",
-      "checked_at": "2026-11-08T22:17:54.355873+05:30"
+      "metrics_updated_at": "2026-11-08T18:11:26.413Z",
+      "checked_at": "2026-11-09T02:16:01.952157+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-09T02:16:01.952157+05:30",
+        "source_updated_at": "2026-11-08T18:11:26.413Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261108-prep-gap-midday",
@@ -3599,7 +3643,7 @@
       "status": "sent",
       "buffer_id": "6aefc6a051492b796e0c5f4a",
       "accepted_at": "2026-11-08T06:17:39.184419+05:30",
-      "last_check_attempt_at": "2026-11-08T12:12:29.468324+05:30",
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524996067906478081",
       "metrics": {
         "reactions": 0,
@@ -3609,8 +3653,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-08T00:47:28.872Z",
-      "checked_at": "2026-11-08T12:12:30.279456+05:30"
+      "metrics_updated_at": "2026-11-08T18:11:26.411Z",
+      "checked_at": "2026-11-09T02:16:01.344068+05:30"
     },
     {
       "id": "li-20261108-jobs-skill-python-remote-evening",
@@ -3625,11 +3669,11 @@
       "hook": "903 new remote Python jobs this week.",
       "url": "https://apply.interviewsarthi.com/skills/python/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261108-jobs-skill-python-remote-evening",
       "owner_run": "42501634969",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6af0a7afd6bbae6fa1fd5418",
       "accepted_at": "2026-11-08T22:17:53.512731+05:30",
-      "last_check_attempt_at": "2026-11-08T22:17:53.605761+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-09T02:16:00.335332+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7525237720256917504",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -3638,8 +3682,8 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-08T16:47:43.192Z",
-      "checked_at": "2026-11-08T22:17:53.752789+05:30"
+      "metrics_updated_at": "2026-11-08T18:11:26.415Z",
+      "checked_at": "2026-11-09T02:16:02.102191+05:30"
     }
   ]
 }
