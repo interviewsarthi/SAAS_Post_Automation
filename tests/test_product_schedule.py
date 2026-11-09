@@ -48,4 +48,7 @@ class ProductScheduleTests(unittest.TestCase):
             line = next(line for line in selection.splitlines() if line.strip().startswith(slot + ')'))
             self.assertNotIn('VEO_OPENING_ENABLED=false', line)
             self.assertNotIn('REEL_START_ON_HOOK=true', line)
-        self.assertIn('VEO_OPENING_ENABLED: "true"', workflow)
+        # 2 Nov 2026 (c6c9f2e): the owner closed Google Cloud billing, so no new paid Veo openings; reels reuse the
+        # existing opening clips. This line still expected "true" and stopped every post from 3 to 9 Nov 2026
+        # (the workflow runs these tests before posting).
+        self.assertIn('VEO_OPENING_ENABLED: "false"', workflow)
