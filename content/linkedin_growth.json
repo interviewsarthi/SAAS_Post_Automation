@@ -3349,7 +3349,7 @@
       "status": "sent",
       "buffer_id": "6ae9bbc5f3805fa21014c437",
       "accepted_at": "2026-11-03T16:17:44.292236+05:30",
-      "last_check_attempt_at": "2026-11-10T22:17:47.321751+05:30",
+      "last_check_attempt_at": "2026-11-10T23:48:18.382529+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523335144783454208",
       "metrics": {
         "reactions": 0,
@@ -3359,12 +3359,23 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-09T18:11:38.615Z",
-      "checked_at": "2026-11-10T22:17:47.847961+05:30",
+      "metrics_updated_at": "2026-11-10T18:11:49.328Z",
+      "checked_at": "2026-11-10T23:48:18.600979+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-04T23:45:36.706024+05:30",
         "source_updated_at": "2026-11-04T18:10:14.911Z",
         "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "seven_day_metrics": {
+        "observed_at": "2026-11-10T23:48:18.600979+05:30",
+        "source_updated_at": "2026-11-10T18:11:49.328Z",
+        "age_days": 7,
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
@@ -3389,7 +3400,7 @@
       "status": "sent",
       "buffer_id": "6aea102a01362e3aaea705f2",
       "accepted_at": "2026-11-03T22:17:48.912441+05:30",
-      "last_check_attempt_at": "2026-11-10T22:17:47.321751+05:30",
+      "last_check_attempt_at": "2026-11-10T23:48:18.382529+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523425764017627137",
       "metrics": {
         "reactions": 0,
@@ -3399,12 +3410,23 @@
         "reach": 0,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-09T18:11:38.587Z",
-      "checked_at": "2026-11-10T22:17:47.934367+05:30",
+      "metrics_updated_at": "2026-11-10T18:11:49.326Z",
+      "checked_at": "2026-11-10T23:48:18.806888+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-04T23:45:36.990475+05:30",
         "source_updated_at": "2026-11-04T18:10:14.968Z",
         "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "seven_day_metrics": {
+        "observed_at": "2026-11-10T23:48:18.806888+05:30",
+        "source_updated_at": "2026-11-10T18:11:49.326Z",
+        "age_days": 7,
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
@@ -3895,21 +3917,24 @@
       "hook": "Practising before an interview and getting live assistance are different tasks.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261110-live-product-fit-evening",
       "owner_run": "42858064972",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6af34aa842d372a81f6bbb8e",
       "accepted_at": "2026-11-10T22:17:47.229620+05:30",
-      "last_check_attempt_at": "2026-11-10T22:17:47.321751+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-10T23:48:18.382529+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525962470474252288",
       "metrics": {
         "reactions": 0,
         "comments": 0,
         "engagementRate": 0,
-        "impressions": 0,
-        "reach": 0,
-        "shares": 0
+        "impressions": 26,
+        "reach": 18,
+        "shares": 0,
+        "views": 7,
+        "totalTimeWatched": 0.79,
+        "viewers": 7
       },
-      "metrics_updated_at": "2026-11-10T16:47:36.991Z",
-      "checked_at": "2026-11-10T22:17:47.540784+05:30"
+      "metrics_updated_at": "2026-11-10T18:11:49.304Z",
+      "checked_at": "2026-11-10T23:48:18.957798+05:30"
     }
   ]
 }
