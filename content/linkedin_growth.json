@@ -3837,6 +3837,21 @@
       },
       "metrics_updated_at": "2026-11-10T10:47:31.026Z",
       "checked_at": "2026-11-10T16:17:41.432762+05:30"
+    },
+    {
+      "id": "li-20261110-live-product-fit-evening",
+      "day": "2026-11-10",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "live-product-fit",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "Practising before an interview and getting live assistance are different tasks.",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261110-live-product-fit-evening",
+      "owner_run": "42858064972",
+      "status": "reserved"
     }
   ]
 }
