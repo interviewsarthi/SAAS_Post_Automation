@@ -1912,7 +1912,7 @@
       "status": "sent",
       "buffer_id": "6acf5dc90901e7a658285e89",
       "accepted_at": "2026-10-14T16:17:47.298124+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7516087399869997056",
       "metrics": {
         "reactions": 0,
@@ -1923,7 +1923,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-08T18:11:26.557Z",
-      "checked_at": "2026-11-11T16:17:42.251787+05:30",
+      "checked_at": "2026-11-11T19:17:43.225563+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-16T00:53:30.032133+05:30",
         "source_updated_at": "2026-10-15T16:57:31.665Z",
@@ -1963,7 +1963,7 @@
       "status": "sent",
       "buffer_id": "6acf88038570d416620b0182",
       "accepted_at": "2026-10-14T19:17:57.882709+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7516132744037367808",
       "metrics": {
         "reactions": 0,
@@ -1974,7 +1974,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-09T18:11:38.737Z",
-      "checked_at": "2026-11-11T16:17:42.341481+05:30",
+      "checked_at": "2026-11-11T19:17:43.308408+05:30",
       "one_day_metrics": {
         "observed_at": "2026-10-16T00:53:30.340033+05:30",
         "source_updated_at": "2026-10-15T16:57:31.628Z",
@@ -3451,7 +3451,7 @@
       "status": "sent",
       "buffer_id": "6aeb3777bd95a2bd48fc2e91",
       "accepted_at": "2026-11-04T19:17:45.963693+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523742838715547648",
       "metrics": {
         "reactions": 0,
@@ -3462,7 +3462,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-10T18:11:49.362Z",
-      "checked_at": "2026-11-11T16:17:42.452391+05:30",
+      "checked_at": "2026-11-11T19:17:43.398525+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-06T00:33:59.454915+05:30",
         "source_updated_at": "2026-11-05T18:10:26.132Z",
@@ -3891,7 +3891,7 @@
       "status": "sent",
       "buffer_id": "6af2f6430f3180d1203fb2e5",
       "accepted_at": "2026-11-10T16:17:41.181503+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525871849080262657",
       "metrics": {
         "reactions": 0,
@@ -3901,8 +3901,19 @@
         "reach": 36,
         "shares": 0
       },
-      "metrics_updated_at": "2026-11-10T18:11:49.358Z",
-      "checked_at": "2026-11-11T16:17:42.548557+05:30"
+      "metrics_updated_at": "2026-11-11T12:51:37.278Z",
+      "checked_at": "2026-11-11T19:17:43.477602+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-11T19:17:43.477602+05:30",
+        "source_updated_at": "2026-11-11T12:51:37.278Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 47.16981132075472,
+        "impressions": 53,
+        "reach": 36,
+        "shares": 0
+      }
     },
     {
       "id": "li-20261110-live-product-fit-evening",
@@ -3920,7 +3931,7 @@
       "status": "sent",
       "buffer_id": "6af34aa842d372a81f6bbb8e",
       "accepted_at": "2026-11-10T22:17:47.229620+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525962470474252288",
       "metrics": {
         "reactions": 0,
@@ -3930,11 +3941,25 @@
         "reach": 18,
         "shares": 0,
         "views": 7,
-        "totalTimeWatched": 0.79,
+        "totalTimeWatched": 0.82,
         "viewers": 7
       },
-      "metrics_updated_at": "2026-11-10T18:11:49.304Z",
-      "checked_at": "2026-11-11T16:17:42.640721+05:30"
+      "metrics_updated_at": "2026-11-11T12:51:37.277Z",
+      "checked_at": "2026-11-11T19:17:43.620646+05:30",
+      "one_day_metrics": {
+        "observed_at": "2026-11-11T19:17:43.620646+05:30",
+        "source_updated_at": "2026-11-11T12:51:37.277Z",
+        "age_days": 1,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 26,
+        "reach": 18,
+        "shares": 0,
+        "views": 7,
+        "totalTimeWatched": 0.82,
+        "viewers": 7
+      }
     },
     {
       "id": "li-20261111-jobs-skill-salesforce-remote-midday",
@@ -3949,11 +3974,11 @@
       "hook": "634 new remote Salesforce jobs this week.",
       "url": "https://apply.interviewsarthi.com/skills/salesforce/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261111-jobs-skill-salesforce-remote-midday",
       "owner_run": "43006489193",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6af447c347402fe4a2657c08",
       "accepted_at": "2026-11-11T16:17:41.934620+05:30",
-      "last_check_attempt_at": "2026-11-11T16:17:42.018002+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7526234237646135296",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -3963,7 +3988,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-11T10:47:31.776Z",
-      "checked_at": "2026-11-11T16:17:42.166269+05:30"
+      "checked_at": "2026-11-11T19:17:43.738156+05:30"
     },
     {
       "id": "li-20261111-apply-keywords-evening",
@@ -3978,7 +4003,21 @@
       "hook": "A keyword belongs on your CV only if you can defend it.",
       "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261111-apply-keywords-evening",
       "owner_run": "43032249957",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6af471f47b2522ad6c417e6c",
+      "accepted_at": "2026-11-11T19:17:42.798085+05:30",
+      "last_check_attempt_at": "2026-11-11T19:17:42.964211+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-11T13:47:32.598Z",
+      "checked_at": "2026-11-11T19:17:43.119289+05:30"
     }
   ]
 }
