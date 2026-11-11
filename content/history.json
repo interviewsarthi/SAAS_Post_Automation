@@ -20577,6 +20577,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-11 19:47 IST"
+    },
+    {
+      "id": "20261111-203828-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "What did you include in a bug report?",
+      "language": "english",
+      "hook": "You did the testing. Can you explain it clearly?",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17968548945205517",
+          "url": "https://www.instagram.com/reel/DfmxWHcIQ85/"
+        },
+        "youtube": {
+          "id": "mujD3OQ3yCI",
+          "url": "https://youtube.com/shorts/mujD3OQ3yCI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "testing-process",
+      "seed_scenario": "testing-process",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "authored",
+      "creative_hash": "31ad54e3d3ea18496bc59e87e17f42247001b2bfcf8e1093e88d626ff4b0451c",
+      "campaign_id": "20261111-203828-sales-standard",
+      "quality_passed": true,
+      "substituted_for": "reel",
+      "date": "2026-11-11 20:40 IST"
     }
   ]
 }
