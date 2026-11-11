@@ -3935,6 +3935,21 @@
       },
       "metrics_updated_at": "2026-11-10T18:11:49.304Z",
       "checked_at": "2026-11-11T04:46:22.237809+05:30"
+    },
+    {
+      "id": "li-20261111-jobs-skill-salesforce-remote-midday",
+      "day": "2026-11-11",
+      "slot": "midday",
+      "scheduled_time_ist": "16:17",
+      "topic": "jobs-skill-salesforce-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "634 new remote Salesforce jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/salesforce/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261111-jobs-skill-salesforce-remote-midday",
+      "owner_run": "43006489193",
+      "status": "reserved"
     }
   ]
 }
