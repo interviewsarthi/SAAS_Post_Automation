@@ -83,6 +83,14 @@ class QuotaTests(unittest.TestCase):
 
 
 class BackendTests(unittest.TestCase):
+    def setUp(self):
+        # The workflow sets GEMINI_BACKEND from a repo variable. On 9 Nov 2026 it was
+        # pinned to "studio" (GCP billing closed) and these Vertex tests crashed, which
+        # failed the pre-post gate and stopped every slot. Each test chooses its backend.
+        env = mock.patch.dict("os.environ", {"GEMINI_BACKEND": "auto"}, clear=False)
+        env.start()
+        self.addCleanup(env.stop)
+
     def test_without_cloud_credentials_it_uses_the_api_key(self):
         with mock.patch.object(llm, "_vertex_credentials", return_value=(None, "")):
             client = llm.Gemini("key", ["gemini-3.8-flash"])
