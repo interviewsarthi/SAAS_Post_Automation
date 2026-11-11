@@ -3964,6 +3964,21 @@
       },
       "metrics_updated_at": "2026-11-11T10:47:31.776Z",
       "checked_at": "2026-11-11T16:17:42.166269+05:30"
+    },
+    {
+      "id": "li-20261111-apply-keywords-evening",
+      "day": "2026-11-11",
+      "slot": "evening",
+      "scheduled_time_ist": "19:17",
+      "topic": "apply-keywords",
+      "series": "apply",
+      "product": "apply_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "A keyword belongs on your CV only if you can defend it.",
+      "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261111-apply-keywords-evening",
+      "owner_run": "43032249957",
+      "status": "reserved"
     }
   ]
 }
