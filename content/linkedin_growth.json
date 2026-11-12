@@ -4029,6 +4029,21 @@
       },
       "metrics_updated_at": "2026-11-11T18:12:38.202Z",
       "checked_at": "2026-11-12T06:09:38.615962+05:30"
+    },
+    {
+      "id": "li-20261112-prep-no-metric-midday",
+      "day": "2026-11-12",
+      "slot": "midday",
+      "scheduled_time_ist": "17:17",
+      "topic": "prep-no-metric",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "video",
+      "creative_version": "examples-v2",
+      "hook": "No percentage improvement to quote? Explain how you checked the work.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261112-prep-no-metric-midday",
+      "owner_run": "43212099263",
+      "status": "reserved"
     }
   ]
 }
