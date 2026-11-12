@@ -20963,6 +20963,48 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-12 18:23 IST"
+    },
+    {
+      "id": "20261112-194155-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Aapka sabse challenging project kaun sa tha aur kyun?",
+      "language": "hindi",
+      "hook": "POV: The interviewer switches to Hinglish and you stay confident.",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "31MDJcsrxa0",
+          "url": "https://youtube.com/shorts/31MDJcsrxa0",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "edge",
+      "scenario": "fresh-b1a41fc4cf12a9b5",
+      "seed_scenario": "strength-hinglish",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "e96f87854f627c48848dcf99fbd8d9fcb23444ea3ea909fe5ef065af772e95ae",
+      "campaign_id": "20261112-194155-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-12 19:46 IST"
     }
   ]
 }
