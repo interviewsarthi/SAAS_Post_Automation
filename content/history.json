@@ -20836,6 +20836,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-12 12:41 IST"
+    },
+    {
+      "id": "20261112-1338-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "jobs",
+      "series": "job_list",
+      "product": "apply_sarthi",
+      "topic": "skill:crm@remote",
+      "language": "english",
+      "hook": "798 new remote CRM jobs this week",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "17903356380435468",
+          "url": "https://www.instagram.com/reel/Dfol97pgP_O/"
+        },
+        "youtube": {
+          "id": "bfK0Vu5r5Tc",
+          "url": "https://youtube.com/shorts/bfK0Vu5r5Tc",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261112-1338-jobs",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-12 13:40 IST"
     }
   ]
 }
