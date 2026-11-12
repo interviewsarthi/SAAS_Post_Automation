@@ -21005,6 +21005,48 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-12 19:46 IST"
+    },
+    {
+      "id": "20261113-002036-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Where do you see yourself in five years?",
+      "language": "english",
+      "hook": "Five years is not a trick question.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "Hz4jerbJJxQ",
+          "url": "https://youtube.com/shorts/Hz4jerbJJxQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "five-years",
+      "seed_scenario": "five-years",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "authored",
+      "creative_hash": "df51db2289afd31a6a3eeef6c36617a166667509d13f5755269ef06ce126bc18",
+      "campaign_id": "20261113-002036-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-13 00:24 IST"
     }
   ]
 }
