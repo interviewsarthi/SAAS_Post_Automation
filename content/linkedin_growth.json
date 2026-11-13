@@ -4131,6 +4131,21 @@
       },
       "metrics_updated_at": "2026-11-12T18:12:49.774Z",
       "checked_at": "2026-11-13T05:06:01.165027+05:30"
+    },
+    {
+      "id": "li-20261113-live-what-you-see-midday",
+      "day": "2026-11-13",
+      "slot": "midday",
+      "scheduled_time_ist": "15:17",
+      "topic": "live-what-you-see",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "What does Interview Sarthi show during a call?",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261113-live-what-you-see-midday",
+      "owner_run": "43404187564",
+      "status": "reserved"
     }
   ]
 }
