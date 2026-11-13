@@ -21265,6 +21265,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-13 14:47 IST"
+    },
+    {
+      "id": "20261113-164340-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you ensure data accuracy during routine inventory logging?",
+      "language": "english",
+      "hook": "POV: a tough operations question lands and your screen shows the answer.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "17884748847629230",
+          "url": "https://www.instagram.com/reel/DfrgDhHCVkl/"
+        },
+        "youtube": {
+          "id": "7nXXeIVmjZ8",
+          "url": "https://youtube.com/shorts/7nXXeIVmjZ8",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-94d95ad55613eb05",
+      "seed_scenario": "repetitive-accuracy",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "b5af29f64e6b73d60fb50954af18ca0a1f68d20136cd45952a997a81e8a43eed",
+      "campaign_id": "20261113-164340-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-13 16:45 IST"
     }
   ]
 }
