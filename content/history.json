@@ -21047,6 +21047,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-13 00:24 IST"
+    },
+    {
+      "id": "20261113-103931-sales-short",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Resume mein yeh gap kyun hai?",
+      "language": "hindi",
+      "hook": "POV: HR asks about your resume gap and you are calm.",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "KjdorL0xYn4",
+          "url": "https://youtube.com/shorts/KjdorL0xYn4",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18099290231428205",
+          "url": "https://www.instagram.com/reel/Dfq2nsXCuZR/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "edge",
+      "scenario": "resume-gap-hinglish",
+      "seed_scenario": "resume-gap-hinglish",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "83e0ad54a92ef4a07c358ec97aa2a648e5b248bd8d1dc4a821f9135afb0c2130",
+      "campaign_id": "20261113-103931-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-13 10:43 IST"
     }
   ]
 }
