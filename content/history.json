@@ -21091,6 +21091,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-13 10:43 IST"
+    },
+    {
+      "id": "20261113-1142-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Interviewer pushes back on background task handling in Interview Sarthi",
+      "language": "english",
+      "hook": "Interview Sarthi's free mock interview tests your background worker answers before real tech rounds.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17979334683138765",
+          "url": "https://www.instagram.com/reel/Dfq9hPtEg9k/"
+        },
+        "youtube": {
+          "id": "NK0XoC5HFN0",
+          "url": "https://youtube.com/shorts/NK0XoC5HFN0",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you just used a background worker fails technical screens; Interview Sarthi's free mock interview pushes back on worker crashes and retry logic.",
+      "persona": "Junior backend developers explaining async tasks and background queues during technical screening calls.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261113-1142-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-13 11:44 IST"
     }
   ]
 }
