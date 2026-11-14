@@ -21473,6 +21473,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-14 10:42 IST"
+    },
+    {
+      "id": "20261114-124214-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "What makes you good at customer support?",
+      "language": "english",
+      "hook": "Your strength needs an example. Here is one.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "dbc90PIU2M0",
+          "url": "https://youtube.com/shorts/dbc90PIU2M0",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18002251565820903",
+          "url": "https://www.instagram.com/reel/DftpSaGgJck/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "support-strength",
+      "seed_scenario": "support-strength",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "authored",
+      "creative_hash": "ebe28299ab1cf37f382a8ea8b36eda5b0b8d3da95040d7a1a9d0bb672355c447",
+      "campaign_id": "20261114-124214-sales-standard",
+      "quality_passed": true,
+      "substituted_for": "reel",
+      "date": "2026-11-14 12:45 IST"
     }
   ]
 }
