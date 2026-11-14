@@ -21517,6 +21517,50 @@
       "quality_passed": true,
       "substituted_for": "reel",
       "date": "2026-11-14 12:45 IST"
+    },
+    {
+      "id": "20261114-1338-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "jobs",
+      "series": "job_list",
+      "product": "apply_sarthi",
+      "topic": "skill:aws@bengaluru",
+      "language": "english",
+      "hook": "130 new AWS jobs in Bengaluru this week",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18652608064046574",
+          "url": "https://www.instagram.com/reel/Dftvd9IiHty/"
+        },
+        "youtube": {
+          "id": "5bcl4QlqbnQ",
+          "url": "https://youtube.com/shorts/5bcl4QlqbnQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261114-1338-jobs",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-14 13:39 IST"
     }
   ]
 }
