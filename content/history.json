@@ -21688,6 +21688,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-14 18:21 IST"
+    },
+    {
+      "id": "20261114-1855-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Interviewer pushes back on offline data synchronization claim",
+      "language": "english",
+      "hook": "Claiming offline sync on your resume? Here is how to answer conflict follow-ups.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18128565586896987",
+          "url": "https://www.instagram.com/reel/DfuTxRqDoSS/"
+        },
+        "youtube": {
+          "id": "fNwBV42B9Sk",
+          "url": "https://youtube.com/shorts/fNwBV42B9Sk",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Claiming offline data synchronization on your resume will trigger follow-ups on handling network reconnection and data conflict resolution.",
+      "persona": "Entry-level mobile developers preparing for international technical screening calls.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261114-1855-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-14 18:56 IST"
     }
   ]
 }
