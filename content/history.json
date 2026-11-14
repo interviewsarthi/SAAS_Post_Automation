@@ -21732,6 +21732,48 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-14 18:56 IST"
+    },
+    {
+      "id": "20261114-194337-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you keep track of your prospects?",
+      "language": "hindi",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "Oh4L_3FZ4HY",
+          "url": "https://youtube.com/shorts/Oh4L_3FZ4HY",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "edge",
+      "scenario": "sales-followup",
+      "seed_scenario": "sales-followup",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "adc5bc9234e8e469122e9cb33e608c34a69af1fdf0382961e8683f702cf48797",
+      "campaign_id": "20261114-194337-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-14 19:48 IST"
     }
   ]
 }
