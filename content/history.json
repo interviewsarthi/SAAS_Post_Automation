@@ -21605,6 +21605,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-14 14:52 IST"
+    },
+    {
+      "id": "20261114-164431-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Aapne iss food ordering project mein specific backend components kya banaye?",
+      "language": "english",
+      "hook": "Never go blank on your backend project details again.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18124056161064131",
+          "url": "https://www.instagram.com/reel/DfuE9fyCglJ/"
+        },
+        "youtube": {
+          "id": "IEYxiC-1MeE",
+          "url": "https://youtube.com/shorts/IEYxiC-1MeE",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-a8a3f86dcd7c6adf",
+      "seed_scenario": "hinglish-project",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "authored",
+      "creative_hash": "6b64834a66e279f83e6b4956c370a83db5b5836627c7c4f1d26785e831698007",
+      "campaign_id": "20261114-164431-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-14 16:47 IST"
     }
   ]
 }
