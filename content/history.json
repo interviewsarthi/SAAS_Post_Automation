@@ -21561,6 +21561,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-14 13:39 IST"
+    },
+    {
+      "id": "20261114-1451-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Low project score rewritten in Interview Sarthi's free mock report",
+      "language": "english",
+      "hook": "Vague project answer? Interview Sarthi scores your response and rewrites it from your CV.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18109288787326101",
+          "url": "https://www.instagram.com/reel/Dft33x1judl/"
+        },
+        "youtube": {
+          "id": "S97QvmWLiLA",
+          "url": "https://youtube.com/shorts/S97QvmWLiLA",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how Interview Sarthi's mock interview report identifies what was missing from a low-scoring project answer and rewrites it using your own CV.",
+      "persona": "Entry-level candidates and international job seekers preparing for online interviews in English",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261114-1451-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-14 14:52 IST"
     }
   ]
 }
