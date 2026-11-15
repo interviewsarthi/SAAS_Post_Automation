@@ -21994,6 +21994,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-15 13:39 IST"
+    },
+    {
+      "id": "20261115-1444-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Free browser mock interview targeting a specific job description",
+      "language": "english",
+      "hook": "Test your CV against any job description out loud before your real interview.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18137657332679975",
+          "url": "https://www.instagram.com/reel/Dfwb6F4mXjl/"
+        },
+        "youtube": {
+          "id": "nSMVaTGcggo",
+          "url": "https://youtube.com/shorts/nSMVaTGcggo",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Silently reading job requirements gives false confidence, but testing your CV against the exact role out loud in a seven-minute voice session exposes speaking gaps immediately.",
+      "persona": "Entry-level job seekers and career switchers in the US, UK, and Canada rehearsing for upcoming video screenings.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261115-1444-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-15 14:45 IST"
     }
   ]
 }
