@@ -151,7 +151,8 @@ class Settings:
 
     @classmethod
     def from_env(cls) -> "Settings":
-        models = env("SCRIPT_MODELS", env("GEMINI_MODELS", "gemini-3.8-flash,gemini-3.5-flash"))
+        # Flash-Lite third: each model has its own daily allowance; Lite is tried only after both Flash models refuse.
+        models = env("SCRIPT_MODELS", env("GEMINI_MODELS", "gemini-3.8-flash,gemini-3.5-flash,gemini-3.5-flash-lite"))
         platforms = env("PLATFORMS", "instagram,facebook,youtube,linkedin")
         return cls(
             gemini_api_key=env("GEMINI_API_KEY"),

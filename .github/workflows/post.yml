@@ -183,7 +183,7 @@ jobs:
           # Google's 6 Oct 2026 notice retires gemini-3.6-flash (19 Nov 2026) and
           # gemini-3.7-flash (28 Jan 2027) on Vertex; 3.8 Flash and 3.5 Flash are its
           # recommended targets, so the list is those two (3.8 first, as before).
-          SCRIPT_MODELS: ${{ vars.SCRIPT_MODELS || 'gemini-3.8-flash,gemini-3.5-flash' }}
+          SCRIPT_MODELS: ${{ vars.SCRIPT_MODELS || 'gemini-3.8-flash,gemini-3.5-flash,gemini-3.5-flash-lite' }}
           # Full Veo films and the old card-reel hook stay off (owner verdict, 12 Sep 2026).
           VEO_ENABLED: "false"
           # Reuse existing opening footage in random, non-repeating cycles.

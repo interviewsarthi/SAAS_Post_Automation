@@ -344,6 +344,17 @@ def create(settings: Settings, fmt: str | None = None, topic: str | None = None,
         try:
             return _create_written(settings, history, fmt, topic, language, out_dir, variant, product_id)
         except (LLMError, RuntimeError, ValueError) as exc:
+            if product_id == "apply_sarthi":
+                # Apply has a post that needs no model at all: its job list of the day (agent/joblist.py),
+                # from its own feed. When the writing is unavailable the slot posts that instead of nothing.
+                # Same product, so the rule below still holds.
+                from .joblist import create_joblist
+                print(f"[create] apply_sarthi {fmt} could not be written ({type(exc).__name__}: {str(exc)[:120]}); "
+                      "posting Apply's job list of the day instead", flush=True)
+                manifest = create_joblist(settings, out_dir=out_dir)
+                manifest["substituted_for"] = fmt
+                manifest.setdefault("notes", []).append(f"substituted for a {fmt}: {type(exc).__name__}")
+                return manifest
             if product_id and product_id != "interview_sarthi":
                 # A Prep or Apply slot must never silently publish a Windows-app ad.
                 raise RuntimeError(f"{product_id} {fmt} could not be written; no other product was substituted") from exc
