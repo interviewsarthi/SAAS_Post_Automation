@@ -21862,6 +21862,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-15 10:42 IST"
+    },
+    {
+      "id": "20261115-1141-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior software engineer API timeout question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Your API timeout answer got scored 3 out of 10. Here is what was missing.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18164390740497695",
+          "url": "https://www.instagram.com/reel/DfwHCDnE6Kv/"
+        },
+        "youtube": {
+          "id": "klnJT1WJ1TQ",
+          "url": "https://youtube.com/shorts/klnJT1WJ1TQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you simply caught the error gets your answer scored 3 out of 10, but the mock report shows the exact fallback logic missing from your CV project.",
+      "persona": "Entry-level software engineers and new graduates interviewing remotely for international backend roles",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261115-1141-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-15 11:43 IST"
     }
   ]
 }
