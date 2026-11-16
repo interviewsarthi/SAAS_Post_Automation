@@ -22417,6 +22417,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-16 11:39 IST"
+    },
+    {
+      "id": "20261116-1241-reel",
+      "format": "reel",
+      "pillar": "company_round",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Capgemini HR asks about relocation flexibility, answered live on screen",
+      "language": "english",
+      "hook": "Capgemini HR asked about relocation flexibility? Here is what to say.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18135637876862838",
+          "url": "https://www.instagram.com/reel/Dfyyk_VjLVN/"
+        },
+        "youtube": {
+          "id": "TUzpUkpuaD0",
+          "url": "https://youtube.com/shorts/TUzpUkpuaD0",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how Interview Sarthi drafts a clear, professional answer from your resume when Capgemini HR asks about relocation.",
+      "persona": "Freshers and early-career candidates interviewing for Capgemini HR rounds on Windows.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261116-1241-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-16 12:42 IST"
     }
   ]
 }
