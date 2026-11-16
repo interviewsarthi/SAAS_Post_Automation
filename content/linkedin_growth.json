@@ -4514,6 +4514,21 @@
       },
       "metrics_updated_at": "2026-11-16T11:47:27.693Z",
       "checked_at": "2026-11-16T17:17:38.131460+05:30"
+    },
+    {
+      "id": "li-20261116-prep-clarify-evening",
+      "day": "2026-11-16",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "prep-clarify",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "document",
+      "creative_version": "examples-v2",
+      "hook": "An unclear interview question is a good moment to clarify.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261116-prep-clarify-evening",
+      "owner_run": "43911289134",
+      "status": "reserved"
     }
   ]
 }
