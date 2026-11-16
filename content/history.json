@@ -22290,6 +22290,45 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-15 21:45 IST"
+    },
+    {
+      "id": "20261116-0913-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "morning",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Autofilling Foundit job application forms in Chrome with Interview Sarthi",
+      "language": "english",
+      "hook": "Tired of retyping the same details on every Foundit application?",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18142586656645928",
+          "url": "https://www.instagram.com/reel/Dfya0LdnBfm/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Interview Sarthi finds matching jobs on Foundit and autofills repetitive application fields in your own Chrome, stopping so you can review before submitting.",
+      "persona": "Indian job seekers and freshers tired of typing repetitive personal and work details across corporate portals on Foundit.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261116-0913-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-16 09:14 IST"
     }
   ]
 }
