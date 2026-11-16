@@ -104,7 +104,9 @@ def _gemini_once(text: str, out: pathlib.Path, language: str) -> pathlib.Path:
     gap = PACE - (time.time() - _last_gemini_call)
     if gap > 0:
         time.sleep(gap)
-    client = genai.Client(api_key=key)
+    # The voice settings (speechConfig) exist only in the v1beta API; google-genai 3.x sends requests to v1 by
+    # default, which answers 400 "Unknown name speechConfig" (seen 15 Nov 2026), so name the version here.
+    client = genai.Client(api_key=key, http_options=types.HttpOptions(api_version="v1beta"))
     _last_gemini_call = time.time()
     resp = client.models.generate_content(
         model=model,

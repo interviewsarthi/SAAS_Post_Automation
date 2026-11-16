@@ -86,3 +86,25 @@ class HindiVoiceTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class GeminiVoiceApiVersionTest(unittest.TestCase):
+    """15 Nov 2026: google-genai 3.x sends requests to v1, which rejects speechConfig (400), so every Hindi reel
+    fell through to the last-resort voice. The voice request must name v1beta."""
+
+    def test_the_voice_request_names_v1beta(self):
+        from google import genai
+        made = {}
+
+        class StopHere(Exception):
+            pass
+
+        def fake_client(**kw):
+            made.update(kw)
+            raise StopHere
+
+        with patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}), patch.object(genai, "Client", fake_client), \
+             patch.object(tts, "PACE", 0):
+            with self.assertRaises(StopHere):
+                tts._gemini_once("नमस्ते", tts.pathlib.Path("/tmp/never-written.mp3"), "hindi")
+        self.assertEqual(made["http_options"].api_version, "v1beta")
