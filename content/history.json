@@ -22933,6 +22933,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-17 12:45 IST"
+    },
+    {
+      "id": "20261117-1338-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "jobs",
+      "series": "job_list",
+      "product": "apply_sarthi",
+      "topic": "skill:python@hyderabad",
+      "language": "english",
+      "hook": "151 new Python jobs in Hyderabad this week",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18097720787651762",
+          "url": "https://www.instagram.com/reel/Df1d3v_j5TX/"
+        },
+        "youtube": {
+          "id": "OOClS5DSnXw",
+          "url": "https://youtube.com/shorts/OOClS5DSnXw",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261117-1338-jobs",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-17 13:39 IST"
     }
   ]
 }
