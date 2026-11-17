@@ -4538,7 +4538,7 @@
       "status": "sent",
       "buffer_id": "6afaed4f0b49b20d0d0eb3ec",
       "accepted_at": "2026-11-16T17:17:37.884151+05:30",
-      "last_check_attempt_at": "2026-11-17T16:17:44.758113+05:30",
+      "last_check_attempt_at": "2026-11-17T22:17:44.985579+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7528061260731621376",
       "metrics": {
         "reactions": 0,
@@ -4549,7 +4549,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-16T18:15:01.391Z",
-      "checked_at": "2026-11-17T16:17:45.541368+05:30"
+      "checked_at": "2026-11-17T22:17:45.360814+05:30"
     },
     {
       "id": "li-20261116-prep-clarify-evening",
@@ -4567,7 +4567,7 @@
       "status": "sent",
       "buffer_id": "6afb33a15491724158314459",
       "accepted_at": "2026-11-16T22:17:39.471945+05:30",
-      "last_check_attempt_at": "2026-11-17T16:17:44.758113+05:30",
+      "last_check_attempt_at": "2026-11-17T22:17:44.985579+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528136766386671616",
       "metrics": {
         "reactions": 0,
@@ -4578,7 +4578,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-16T18:15:01.394Z",
-      "checked_at": "2026-11-17T16:17:45.747443+05:30"
+      "checked_at": "2026-11-17T22:17:45.450726+05:30"
     },
     {
       "id": "li-20261117-prep-failure-midday",
@@ -4593,11 +4593,11 @@
       "hook": "For a failed project decision, explain what changed afterwards.",
       "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261117-prep-failure-midday",
       "owner_run": "44067996878",
-      "status": "sending",
+      "status": "sent",
       "buffer_id": "6afc30c6523b5a836be84b6f",
       "accepted_at": "2026-11-17T16:17:44.673016+05:30",
-      "last_check_attempt_at": "2026-11-17T16:17:44.758113+05:30",
-      "post_url": null,
+      "last_check_attempt_at": "2026-11-17T22:17:44.985579+05:30",
+      "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528408576638210048",
       "metrics": {
         "reactions": 0,
         "comments": 0,
@@ -4607,7 +4607,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-17T10:47:34.422Z",
-      "checked_at": "2026-11-17T16:17:44.968313+05:30"
+      "checked_at": "2026-11-17T22:17:45.557122+05:30"
     },
     {
       "id": "li-20261117-live-call-apps-evening",
@@ -4622,7 +4622,21 @@
       "hook": "Your call app and Interview Sarthi run alongside each other.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261117-live-call-apps-evening",
       "owner_run": "44129676976",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6afc85260ec7d2b08231285f",
+      "accepted_at": "2026-11-17T22:17:44.883648+05:30",
+      "last_check_attempt_at": "2026-11-17T22:17:44.985579+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-17T16:47:34.300Z",
+      "checked_at": "2026-11-17T22:17:45.259475+05:30"
     }
   ]
 }
