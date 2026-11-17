@@ -22845,6 +22845,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-17 10:42 IST"
+    },
+    {
+      "id": "20261117-1139-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Graceful shutdown question scored in Interview Sarthi report",
+      "language": "english",
+      "hook": "Answered a graceful shutdown question vaguely? Interview Sarthi scores it 3 out of 10 and rewrites it from your CV.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18088054427531787",
+          "url": "https://www.instagram.com/reel/Df1QQk5FSYO/"
+        },
+        "youtube": {
+          "id": "0acl37LcYyI",
+          "url": "https://youtube.com/shorts/0acl37LcYyI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how Interview Sarthi's free mock interview scores an evasive graceful shutdown answer 3 out of 10 and provides a CV-grounded rewrite.",
+      "persona": "Junior backend developers and freshers facing technical interview rounds on microservices reliability.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261117-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-17 11:40 IST"
     }
   ]
 }
