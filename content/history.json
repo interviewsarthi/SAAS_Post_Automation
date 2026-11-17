@@ -22889,6 +22889,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-17 11:40 IST"
+    },
+    {
+      "id": "20261117-1245-reel",
+      "format": "reel",
+      "pillar": "say_this",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Explain how you handle challenging stakeholders in project reviews",
+      "language": "english",
+      "hook": "Handling difficult stakeholders in project reviews? Here is an answer that sounds real.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18142728055624921",
+          "url": "https://www.instagram.com/reel/Df1XxpkD9R1/"
+        },
+        "youtube": {
+          "id": "SvW_aK_5jrQ",
+          "url": "https://youtube.com/shorts/SvW_aK_5jrQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show a calm, structured stakeholder management answer that draws directly from past project experience rather than sounding like a textbook.",
+      "persona": "Early-career software engineer or project analyst interviewing online for a remote role.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261117-1245-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-17 12:45 IST"
     }
   ]
 }
