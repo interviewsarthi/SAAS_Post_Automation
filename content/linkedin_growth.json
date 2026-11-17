@@ -4554,6 +4554,21 @@
       },
       "metrics_updated_at": "2026-11-16T18:15:01.394Z",
       "checked_at": "2026-11-17T07:21:34.268798+05:30"
+    },
+    {
+      "id": "li-20261117-prep-failure-midday",
+      "day": "2026-11-17",
+      "slot": "midday",
+      "scheduled_time_ist": "16:17",
+      "topic": "prep-failure",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "document",
+      "creative_version": "examples-v2",
+      "hook": "For a failed project decision, explain what changed afterwards.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261117-prep-failure-midday",
+      "owner_run": "44067996878",
+      "status": "reserved"
     }
   ]
 }
