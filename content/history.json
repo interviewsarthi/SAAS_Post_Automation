@@ -23495,6 +23495,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-18 15:06 IST"
+    },
+    {
+      "id": "20261118-164315-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you handle repetitive work without making mistakes?",
+      "language": "hindi",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18083540558720066",
+          "url": "https://www.instagram.com/reel/Df4YNZHiKle/"
+        },
+        "youtube": {
+          "id": "A59EzN-60_w",
+          "url": "https://youtube.com/shorts/A59EzN-60_w",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "gemini",
+      "scenario": "repetitive-accuracy",
+      "seed_scenario": "repetitive-accuracy",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 1,
+      "script_source": "model",
+      "creative_hash": "cbc9fa578aba90dae4a17539e2eaba7dc3f120922cb86ae04f5aa5d161da7896",
+      "campaign_id": "20261118-164315-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-18 16:47 IST"
     }
   ]
 }
