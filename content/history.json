@@ -23319,6 +23319,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-18 10:42 IST"
+    },
+    {
+      "id": "20261118-1141-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Optimistic UI rollback question scored in Interview Sarthi report",
+      "language": "english",
+      "hook": "Saying you just show an error toast on failed optimistic UI scored 3 out of 10.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18120456245331263",
+          "url": "https://www.instagram.com/reel/Df31SdqjugL/"
+        },
+        "youtube": {
+          "id": "wzMXz89odX4",
+          "url": "https://youtube.com/shorts/wzMXz89odX4",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you just display an error toast scores 3 out of 10 when interviewers test state rollback on failed optimistic updates.",
+      "persona": "Junior frontend engineers and React developers preparing for technical screenings.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261118-1141-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-18 11:42 IST"
     }
   ]
 }
