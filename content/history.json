@@ -23363,6 +23363,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-18 11:42 IST"
+    },
+    {
+      "id": "20261118-1244-reel",
+      "format": "reel",
+      "pillar": "company_round",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Wipro HR asks about the service agreement, answered live",
+      "language": "english",
+      "hook": "Wipro HR asked about the service agreement? Interview Sarthi shows what to say.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18016657679986477",
+          "url": "https://www.instagram.com/reel/Df38eX8JZt0/"
+        },
+        "youtube": {
+          "id": "3eubswL5OHo",
+          "url": "https://youtube.com/shorts/3eubswL5OHo",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how to acknowledge the service agreement confidently without sounding trapped or defensive when the question appears on screen.",
+      "persona": "Engineering fresher or campus candidate interviewing for Wipro Project Engineer role on a Windows laptop.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261118-1244-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-18 12:45 IST"
     }
   ]
 }
