@@ -4280,7 +4280,7 @@
       "status": "sent",
       "buffer_id": "6af5a7528dea3df8ddbb3700",
       "accepted_at": "2026-11-12T17:17:40.871500+05:30",
-      "last_check_attempt_at": "2026-11-19T00:38:22.886035+05:30",
+      "last_check_attempt_at": "2026-11-19T03:07:00.541780+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526611720518369280",
       "metrics": {
         "reactions": 0,
@@ -4291,7 +4291,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-18T18:15:28.551Z",
-      "checked_at": "2026-11-19T00:38:23.264581+05:30",
+      "checked_at": "2026-11-19T03:07:01.003281+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-14T00:16:11.716090+05:30",
         "source_updated_at": "2026-11-13T18:14:14.113Z",
@@ -4320,7 +4320,7 @@
       "status": "sent",
       "buffer_id": "6af5df9662392a5618625ad6",
       "accepted_at": "2026-11-12T21:17:44.793072+05:30",
-      "last_check_attempt_at": "2026-11-19T00:38:22.886035+05:30",
+      "last_check_attempt_at": "2026-11-19T03:07:00.541780+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7526672135772192768",
       "metrics": {
         "reactions": 0,
@@ -4331,7 +4331,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-18T18:15:28.617Z",
-      "checked_at": "2026-11-19T00:38:23.498439+05:30",
+      "checked_at": "2026-11-19T03:07:01.274593+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-14T00:16:11.827932+05:30",
         "source_updated_at": "2026-11-13T18:14:14.099Z",
@@ -4720,7 +4720,7 @@
       "status": "sent",
       "buffer_id": "6afd8241172d936229efcb08",
       "accepted_at": "2026-11-18T16:17:40.215827+05:30",
-      "last_check_attempt_at": "2026-11-19T00:38:22.886035+05:30",
+      "last_check_attempt_at": "2026-11-19T03:07:00.541780+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7528770945054973966",
       "metrics": {
         "reactions": 0,
@@ -4731,7 +4731,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-18T18:15:28.567Z",
-      "checked_at": "2026-11-19T00:38:24.705517+05:30"
+      "checked_at": "2026-11-19T03:07:01.470432+05:30"
     },
     {
       "id": "li-20261118-apply-project-order-evening",
@@ -4749,7 +4749,7 @@
       "status": "sent",
       "buffer_id": "6afdac7bb24db460bb034983",
       "accepted_at": "2026-11-18T19:17:49.887392+05:30",
-      "last_check_attempt_at": "2026-11-19T00:38:22.886035+05:30",
+      "last_check_attempt_at": "2026-11-19T03:07:00.541780+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528816285598658560",
       "metrics": {
         "reactions": 0,
@@ -4760,7 +4760,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-18T18:15:28.519Z",
-      "checked_at": "2026-11-19T00:38:24.899308+05:30"
+      "checked_at": "2026-11-19T03:07:01.636667+05:30"
     }
   ]
 }
