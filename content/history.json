@@ -23666,6 +23666,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-18 20:55 IST"
+    },
+    {
+      "id": "20261119-0435-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Junior mobile developer offline persistence question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Claiming offline-first storage on your resume? Interview Sarthi's mock interview will test your conflict resolution.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18116941580582244",
+          "url": "https://www.instagram.com/reel/Df5pb3YCV0J/"
+        },
+        "youtube": {
+          "id": "wb2u3N0_Llw",
+          "url": "https://youtube.com/shorts/wb2u3N0_Llw",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Claiming offline-first storage on your resume gets you questioned on conflict resolution until your answer has concrete steps.",
+      "persona": "Entry-level mobile developers preparing for remote video screening calls",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261119-0435-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-19 04:37 IST"
     }
   ]
 }
