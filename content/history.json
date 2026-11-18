@@ -23578,6 +23578,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-18 18:22 IST"
+    },
+    {
+      "id": "20261118-194006-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "What part of this logistics dashboard did you build?",
+      "language": "english",
+      "hook": "POV: the hard question lands and you are calm.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "Y9ZTx6TrfAE",
+          "url": "https://youtube.com/shorts/Y9ZTx6TrfAE",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18113686277240215",
+          "url": "https://www.instagram.com/reel/Df4sfHQCjyZ/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-535092c145cc5fab",
+      "seed_scenario": "project-role",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "b5e49688ce7782fad96cd7bb23348fe4df52000ac385484341bac520abd36e5e",
+      "campaign_id": "20261118-194006-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-18 19:44 IST"
     }
   ]
 }
