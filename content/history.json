@@ -23451,6 +23451,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-18 13:40 IST"
+    },
+    {
+      "id": "20261118-1505-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Junior data engineer ETL pipeline failure question scored",
+      "language": "english",
+      "hook": "Telling a data interviewer you just rerun failed ETL pipelines scores 3 out of 10.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18250503016314423",
+          "url": "https://www.instagram.com/reel/Df4MoqPjYuo/"
+        },
+        "youtube": {
+          "id": "YnPlr9jHK9k",
+          "url": "https://youtube.com/shorts/YnPlr9jHK9k",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you just rerun the failed batch job scores 3 out of 10 in technical data engineering interviews.",
+      "persona": "Entry-level data engineers interviewing for remote analytics roles.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261118-1505-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-18 15:06 IST"
     }
   ]
 }

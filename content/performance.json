@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T13:38:27.731959+05:30",
+  "checked_at": "2026-11-18T14:37:58.610152+05:30",
   "posts": {
     "youtube:h0EsyOzk-dM": {
       "checked_at": "2026-09-16T12:38:00.013162+05:30",
@@ -23631,21 +23631,38 @@
       }
     },
     "youtube:_B3CnCfY_E0": {
-      "checked_at": "2026-11-17T13:38:08.295693+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "snapshots": {}
+      "snapshots": {
+        "48h": {
+          "checked_at": "2026-11-18T14:37:58.610152+05:30",
+          "views": 0,
+          "likes": 0,
+          "comments": 0
+        }
+      }
     },
     "instagram:18216039202368186": {
-      "checked_at": "2026-11-17T13:38:08.295693+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
-      "views": 189,
-      "reach": 170,
+      "views": 192,
+      "reach": 171,
       "saved": 0,
       "shares": 0,
-      "snapshots": {}
+      "snapshots": {
+        "48h": {
+          "checked_at": "2026-11-18T14:37:58.610152+05:30",
+          "likes": 0,
+          "comments": 0,
+          "views": 192,
+          "reach": 171,
+          "saved": 0,
+          "shares": 0
+        }
+      }
     },
     "youtube:7dnbqK1tfGc": {
       "checked_at": "2026-11-17T14:38:07.561058+05:30",
@@ -23811,14 +23828,14 @@
       "snapshots": {}
     },
     "youtube:M19WD8TqanI": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18138026656745661": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
       "views": 116,
@@ -23828,14 +23845,14 @@
       "snapshots": {}
     },
     "youtube:sb7KG2RyEH8": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18100841705404912": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
       "views": 159,
@@ -23845,7 +23862,7 @@
       "snapshots": {}
     },
     "instagram:18103088582439062": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
       "views": 110,
@@ -23855,14 +23872,14 @@
       "snapshots": {}
     },
     "youtube:6wVmoraVz8E": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
-      "views": 0,
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18455384074121400": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
       "views": 36,
@@ -23872,31 +23889,31 @@
       "snapshots": {}
     },
     "youtube:qWTFDliWCbc": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:17980738542133877": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
-      "views": 161,
+      "views": 162,
       "reach": 142,
       "saved": 0,
       "shares": 0,
       "snapshots": {}
     },
     "youtube:Oj3AhJT6HdI": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
-      "views": 6,
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18657006523044487": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
       "views": 162,
@@ -23906,62 +23923,79 @@
       "snapshots": {}
     },
     "instagram:17916546621284914": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
-      "views": 85,
+      "views": 86,
       "reach": 76,
       "saved": 0,
       "shares": 0,
       "snapshots": {}
     },
     "youtube:t97INEwHuIU": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
-      "views": 1,
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:17995271709062313": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
-      "views": 38,
-      "reach": 35,
+      "views": 39,
+      "reach": 36,
       "saved": 0,
       "shares": 0,
       "snapshots": {}
     },
     "youtube:wzMXz89odX4": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18120456245331263": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
-      "views": 5,
-      "reach": 6,
+      "views": 8,
+      "reach": 8,
       "saved": 0,
       "shares": 0,
       "snapshots": {}
     },
     "youtube:3eubswL5OHo": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
-      "views": 0,
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "snapshots": {}
     },
     "instagram:18016657679986477": {
-      "checked_at": "2026-11-18T13:38:27.731959+05:30",
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "likes": 0,
       "comments": 0,
+      "views": 5,
+      "reach": 2,
+      "saved": 0,
+      "shares": 0,
+      "snapshots": {}
+    },
+    "youtube:clg2bAVX4lw": {
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
       "views": 0,
-      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "snapshots": {}
+    },
+    "instagram:18341231839302619": {
+      "checked_at": "2026-11-18T14:37:58.610152+05:30",
+      "likes": 0,
+      "comments": 0,
+      "views": 53,
+      "reach": 35,
       "saved": 0,
       "shares": 0,
       "snapshots": {}
