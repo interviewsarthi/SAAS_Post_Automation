@@ -4790,6 +4790,21 @@
       },
       "metrics_updated_at": "2026-11-19T11:47:53.351Z",
       "checked_at": "2026-11-19T17:18:04.285984+05:30"
+    },
+    {
+      "id": "li-20261119-live-key-evening",
+      "day": "2026-11-19",
+      "slot": "evening",
+      "scheduled_time_ist": "21:17",
+      "topic": "live-key",
+      "series": "live",
+      "product": "interview_sarthi",
+      "format": "image",
+      "creative_version": "examples-v2",
+      "hook": "Before trying Interview Sarthi, have your Gemini key ready.",
+      "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261119-live-key-evening",
+      "owner_run": "44558688853",
+      "status": "reserved"
     }
   ]
 }
