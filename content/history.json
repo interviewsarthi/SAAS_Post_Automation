@@ -23749,6 +23749,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-19 09:15 IST"
+    },
+    {
+      "id": "20261119-104421-sales-short",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you handle pressure during a crisis?",
+      "language": "english",
+      "hook": "Never go blank on handling pressure again.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18038845751853548",
+          "url": "https://www.instagram.com/reel/Df6To0niP8A/"
+        },
+        "youtube": {
+          "id": "0DIEoqKQkZ4",
+          "url": "https://youtube.com/shorts/0DIEoqKQkZ4",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-023eb36b6644491a",
+      "seed_scenario": "teamwork-hinglish",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "short",
+      "hook_index": 1,
+      "script_source": "authored",
+      "creative_hash": "14320a95a7e83a47e2a426d35a4888be963bc913858ae869c7e79582956fa789",
+      "campaign_id": "20261119-104421-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-19 10:46 IST"
     }
   ]
 }
