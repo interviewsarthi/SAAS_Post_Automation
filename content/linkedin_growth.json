@@ -4382,7 +4382,7 @@
       "status": "sent",
       "buffer_id": "6af6dcb48d3369bfa3d65d6f",
       "accepted_at": "2026-11-13T15:17:42.763640+05:30",
-      "last_check_attempt_at": "2026-11-20T06:05:52.826701+05:30",
+      "last_check_attempt_at": "2026-11-20T15:17:36.529648+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7526943919251722240",
       "metrics": {
         "reactions": 0,
@@ -4393,7 +4393,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-19T18:16:14.605Z",
-      "checked_at": "2026-11-20T06:05:53.038636+05:30",
+      "checked_at": "2026-11-20T15:17:36.902102+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-15T00:01:31.313045+05:30",
         "source_updated_at": "2026-11-14T18:14:25.149Z",
@@ -4422,7 +4422,7 @@
       "status": "sent",
       "buffer_id": "6af6f8d2d414da1f7da1082a",
       "accepted_at": "2026-11-13T17:17:41.007238+05:30",
-      "last_check_attempt_at": "2026-11-20T06:05:52.826701+05:30",
+      "last_check_attempt_at": "2026-11-20T15:17:36.529648+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526974108044161024",
       "metrics": {
         "reactions": 0,
@@ -4433,7 +4433,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-19T18:16:14.539Z",
-      "checked_at": "2026-11-20T06:05:53.184334+05:30",
+      "checked_at": "2026-11-20T15:17:37.073529+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-15T00:01:31.458361+05:30",
         "source_updated_at": "2026-11-14T18:14:25.177Z",
@@ -4822,7 +4822,7 @@
       "status": "sent",
       "buffer_id": "6afee1e90ec6644abcd53d38",
       "accepted_at": "2026-11-19T17:18:03.925658+05:30",
-      "last_check_attempt_at": "2026-11-20T06:05:52.826701+05:30",
+      "last_check_attempt_at": "2026-11-20T15:17:36.529648+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529148531904016385",
       "metrics": {
         "reactions": 0,
@@ -4833,7 +4833,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-19T18:16:14.551Z",
-      "checked_at": "2026-11-20T06:05:53.301408+05:30"
+      "checked_at": "2026-11-20T15:17:37.210748+05:30"
     },
     {
       "id": "li-20261119-live-key-evening",
@@ -4851,7 +4851,7 @@
       "status": "sent",
       "buffer_id": "6aff1a125f7d5b087719765b",
       "accepted_at": "2026-11-19T21:17:40.460840+05:30",
-      "last_check_attempt_at": "2026-11-20T06:05:52.826701+05:30",
+      "last_check_attempt_at": "2026-11-20T15:17:36.529648+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7529208832959430656",
       "metrics": {
         "reactions": 0,
@@ -4862,7 +4862,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-19T18:16:14.534Z",
-      "checked_at": "2026-11-20T06:05:53.425213+05:30"
+      "checked_at": "2026-11-20T15:17:37.392582+05:30"
     },
     {
       "id": "li-20261120-live-context-midday",
@@ -4877,7 +4877,21 @@
       "hook": "An old resume gives your interview assistant old context.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261120-live-context-midday",
       "owner_run": "44713624406",
-      "status": "reserved"
+      "status": "error",
+      "buffer_id": "6b0017373409fcd68aa0432f",
+      "accepted_at": "2026-11-20T15:17:36.432212+05:30",
+      "last_check_attempt_at": "2026-11-20T15:17:36.529648+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-20T09:47:35.275Z",
+      "checked_at": "2026-11-20T15:17:36.745697+05:30"
     }
   ]
 }
