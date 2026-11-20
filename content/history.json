@@ -24223,6 +24223,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-20 09:14 IST"
+    },
+    {
+      "id": "20261120-104025-sales-short",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Iss grocery project mein aapka specific coding contribution kya tha?",
+      "language": "hindi",
+      "hook": "POV: HR asks about your project in Hinglish and you stay calm.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18115009792895065",
+          "url": "https://www.instagram.com/reel/Df84CfWD2F7/"
+        },
+        "youtube": {
+          "id": "DDng_ZDnJ4Q",
+          "url": "https://youtube.com/shorts/DDng_ZDnJ4Q",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "gemini",
+      "scenario": "fresh-4760ae7cb2fe7435",
+      "seed_scenario": "hinglish-project",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "short",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "86e2c65f42e024ff74024f012e815904e108d9354c69ef46af5db044c7031aaf",
+      "campaign_id": "20261120-104025-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-20 10:42 IST"
     }
   ]
 }
