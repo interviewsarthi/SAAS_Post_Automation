@@ -24184,6 +24184,45 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-19 21:46 IST"
+    },
+    {
+      "id": "20261120-0913-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "morning",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "skill:observability@bengaluru",
+      "language": "english",
+      "hook": "126 new Observability jobs in Bengaluru this week",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18343756378302401",
+          "url": "https://www.instagram.com/reel/Df8uAnADZSG/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261120-0913-jobs",
+      "quality_passed": null,
+      "substituted_for": "reel",
+      "date": "2026-11-20 09:14 IST"
     }
   ]
 }
