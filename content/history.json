@@ -24568,6 +24568,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-20 19:46 IST"
+    },
+    {
+      "id": "20261120-2042-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "apply-night",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Autofilling performance awards and recognition fields in Chrome job forms",
+      "language": "english",
+      "hook": "Stop retyping performance awards into every job form you fill.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18106407479200372",
+          "url": "https://www.instagram.com/reel/Df981dAFTtJ/"
+        },
+        "youtube": {
+          "id": "XlmZZR-6Ndc",
+          "url": "https://youtube.com/shorts/XlmZZR-6Ndc",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Interview Sarthi ranks open jobs against your CV and autofills repetitive performance award fields inside Chrome so you never retype your workplace achievements.",
+      "persona": "Early-career candidates and experienced job seekers applying across corporate portals who hate retyping past awards and performance achievements into application text boxes.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261120-2042-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-20 20:43 IST"
     }
   ]
 }
