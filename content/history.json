@@ -24267,6 +24267,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-20 10:42 IST"
+    },
+    {
+      "id": "20261120-1140-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Entry-level engineer cache stampede question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Saying you prevented cache stampedes by increasing cache TTL gets scored 3 out of 10.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18649606606058459",
+          "url": "https://www.instagram.com/reel/Df8-0Dfig8P/"
+        },
+        "youtube": {
+          "id": "NlhZUFCABJQ",
+          "url": "https://youtube.com/shorts/NlhZUFCABJQ",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you prevented cache stampedes by merely extending cache expiration scores 3 out of 10 in Interview Sarthi's mock report.",
+      "persona": "Entry-level backend developers in the US and Europe preparing for technical screening calls on systems design basics.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261120-1140-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-20 11:41 IST"
     }
   ]
 }
