@@ -24487,6 +24487,45 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-20 16:45 IST"
+    },
+    {
+      "id": "20261120-1826-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "early-evening",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Autofilling patent and research grant details in Chrome job forms",
+      "language": "english",
+      "hook": "Tired of typing patent and research grant details into job forms?",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17925843765447280",
+          "url": "https://www.instagram.com/reel/Df9tTXiAOD3/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how patent and research grant titles are accurately populated in Chrome job application fields without manual typing.",
+      "persona": "R&D and engineering professionals filling complex corporate job application forms on Chrome",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261120-1826-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-20 18:27 IST"
     }
   ]
 }
