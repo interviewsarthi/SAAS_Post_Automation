@@ -24443,6 +24443,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-20 14:52 IST"
+    },
+    {
+      "id": "20261120-164332-sales-standard",
+      "format": "sales",
+      "pillar": "hinglish",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Aapne final year project mein kya chunautiyon ka samna kiya?",
+      "language": "english",
+      "hook": "Real-time interview answers generated directly from your uploaded resume.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18129909931926210",
+          "url": "https://www.instagram.com/reel/Df9hls-DlSR/"
+        },
+        "youtube": {
+          "id": "vBAMv7Epeb0",
+          "url": "https://youtube.com/shorts/vBAMv7Epeb0",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-4e14c5280d11b013",
+      "seed_scenario": "strength-hinglish",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "b58bd0382fa0191925289030f5d39259baed04f5133181e7e3f91278328e38c3",
+      "campaign_id": "20261120-164332-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-20 16:45 IST"
     }
   ]
 }
