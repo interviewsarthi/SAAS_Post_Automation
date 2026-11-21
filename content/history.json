@@ -24871,6 +24871,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-21 13:39 IST"
+    },
+    {
+      "id": "20261121-1456-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interviewer pushes back on WebSocket reconnection claim in Interview Sarthi",
+      "language": "english",
+      "hook": "Claimed WebSockets on your CV? Interview Sarthi pushes back when your reconnection logic sounds vague.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17982466646915540",
+          "url": "https://www.instagram.com/reel/Df_5-xyAGcw/"
+        },
+        "youtube": {
+          "id": "3t-cpJaA6Lg",
+          "url": "https://youtube.com/shorts/3t-cpJaA6Lg",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Claiming real-time WebSockets on your CV requires explaining how you handle dropped connections and exponential backoff when challenged.",
+      "persona": "Junior backend and full-stack developers preparing for technical interview rounds.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261121-1456-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-21 14:57 IST"
     }
   ]
 }
