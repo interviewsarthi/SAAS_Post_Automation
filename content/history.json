@@ -24739,6 +24739,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-21 10:42 IST"
+    },
+    {
+      "id": "20261121-1143-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Entry-level cloud engineer connection draining question scored in Interview Sarthi",
+      "language": "english",
+      "hook": "Answering cloud connection draining vaguely gets scored poorly in technical interviews.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "17994125849862904",
+          "url": "https://www.instagram.com/reel/Df_j9RplbXJ/"
+        },
+        "youtube": {
+          "id": "8pmMzgKAAtI",
+          "url": "https://youtube.com/shorts/8pmMzgKAAtI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying autoscaling scales down quietly scores poorly; demonstrate load balancer deregistration delay and termination handling instead.",
+      "persona": "Entry-level cloud and DevOps job seekers in the US, UK, and Canada interviewing for remote infrastructure roles.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261121-1143-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-21 11:44 IST"
     }
   ]
 }
