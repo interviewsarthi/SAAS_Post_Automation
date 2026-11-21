@@ -24998,6 +24998,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-21 18:23 IST"
+    },
+    {
+      "id": "20261121-194241-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you manage post-demo communication with potential clients?",
+      "language": "english",
+      "hook": "Real-time answers suggested directly from your own resume.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "XkNtMeHJ64U",
+          "url": "https://youtube.com/shorts/XkNtMeHJ64U",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18204575440383503",
+          "url": "https://www.instagram.com/reel/DgAbL64ITPf/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-037bcb58fe92bd3e",
+      "seed_scenario": "sales-followup",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "0b11a529900fe852aad0334b4e8e536bb7ba583e623efca89fb2b47a4192aa67",
+      "campaign_id": "20261121-194241-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-21 19:47 IST"
     }
   ]
 }
