@@ -24695,6 +24695,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-21 09:23 IST"
+    },
+    {
+      "id": "20261121-104057-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you handle frustrated users?",
+      "language": "english",
+      "hook": "Never go blank on how you handle tricky users again.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18120048143084731",
+          "url": "https://www.instagram.com/reel/Df_c06ziALk/"
+        },
+        "youtube": {
+          "id": "0-wdkxQrVAM",
+          "url": "https://youtube.com/shorts/0-wdkxQrVAM",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-1191af432b847cc7",
+      "seed_scenario": "support-strength",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "50ff7ef28416165ed0e4f3358bd20d882302f2cc7a2655998719ebe0c777bb34",
+      "campaign_id": "20261121-104057-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-21 10:42 IST"
     }
   ]
 }
