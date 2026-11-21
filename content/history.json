@@ -24783,6 +24783,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-21 11:44 IST"
+    },
+    {
+      "id": "20261121-1242-reel",
+      "format": "reel",
+      "pillar": "company_round",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Cognizant HR asks about working in rotational shifts",
+      "language": "english",
+      "hook": "Cognizant HR asked about working in rotational shifts? Here is how to answer.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18138498328655865",
+          "url": "https://www.instagram.com/reel/Df_qvHrCgFc/"
+        },
+        "youtube": {
+          "id": "yc99BgVnbBo",
+          "url": "https://youtube.com/shorts/yc99BgVnbBo",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Shows how Interview Sarthi drafts a clear, professional response on screen during a Cognizant HR call when asked about shift flexibility.",
+      "persona": "Freshers and IT job seekers appearing for Cognizant GenC and campus placement online rounds on Windows laptops.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261121-1242-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-21 12:44 IST"
     }
   ]
 }
