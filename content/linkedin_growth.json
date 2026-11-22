@@ -5107,6 +5107,21 @@
       },
       "metrics_updated_at": "2026-11-22T01:45:47.769Z",
       "checked_at": "2026-11-22T12:57:29.349251+05:30"
+    },
+    {
+      "id": "li-20261122-jobs-skill-sql-remote-evening",
+      "day": "2026-11-22",
+      "slot": "evening",
+      "scheduled_time_ist": "22:17",
+      "topic": "jobs-skill-sql-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "832 new remote SQL jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/sql/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261122-jobs-skill-sql-remote-evening",
+      "owner_run": "45045740453",
+      "status": "reserved"
     }
   ]
 }
