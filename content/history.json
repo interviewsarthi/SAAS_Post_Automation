@@ -25389,6 +25389,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-22 14:48 IST"
+    },
+    {
+      "id": "20261122-164306-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you execute manual regression testing in your project?",
+      "language": "hindi",
+      "hook": "Interviewer sees your face. Your screen shows the answer.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17947632750379996",
+          "url": "https://www.instagram.com/reel/DgCrRJ9E3QQ/"
+        },
+        "youtube": {
+          "id": "sVJr20NP3yI",
+          "url": "https://youtube.com/shorts/sVJr20NP3yI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "gemini",
+      "scenario": "fresh-d9b6e9c44e4d97c7",
+      "seed_scenario": "testing-process",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "0982850c040edd29a137e4c23dca83918b4caa961dd1991f8dcd2bbe95497fdb",
+      "campaign_id": "20261122-164306-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-22 16:46 IST"
     }
   ]
 }
