@@ -25345,6 +25345,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-22 13:39 IST"
+    },
+    {
+      "id": "20261122-1447-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interview Sarthi's free mock interview with live spoken interruptions",
+      "language": "english",
+      "hook": "Practice realistic voice mock interviews out loud directly in your browser before real calls.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17915757957583106",
+          "url": "https://www.instagram.com/reel/DgCdxjbDaLX/"
+        },
+        "youtube": {
+          "id": "x5vdYnt8tM0",
+          "url": "https://youtube.com/shorts/x5vdYnt8tM0",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Practice realistic two-way voice interviews on your phone where you can speak out loud and interrupt naturally without signing up.",
+      "persona": "Freshers and early-career job seekers wanting spoken interview rehearsal before online video calls.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261122-1447-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-22 14:48 IST"
     }
   ]
 }
