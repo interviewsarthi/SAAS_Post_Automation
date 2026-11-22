@@ -5056,6 +5056,21 @@
       },
       "metrics_updated_at": "2026-11-21T18:16:51.937Z",
       "checked_at": "2026-11-22T04:41:52.027089+05:30"
+    },
+    {
+      "id": "li-20261122-prep-data-midday",
+      "day": "2026-11-22",
+      "slot": "midday",
+      "scheduled_time_ist": "06:17",
+      "topic": "prep-data",
+      "series": "prep",
+      "product": "prep_sarthi",
+      "format": "document",
+      "creative_version": "examples-v2",
+      "hook": "For a data project, explain the question before the chart.",
+      "url": "https://interviewsarthi.com/prep/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261122-prep-data-midday",
+      "owner_run": "44968300182",
+      "status": "reserved"
     }
   ]
 }
