@@ -1,0 +1,42 @@
+name: Product demo video
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "check posts nothing"
+        type: choice
+        options: [check, youtube, facebook, instagram, linkedin]
+        default: check
+
+permissions:
+  contents: read
+
+concurrency:
+  group: demo-video
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: demo-video
+          path: demo-media
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r requirements.txt
+      - name: Run
+        env:
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          TARGET: ${{ inputs.target }}
+        run: python tools/upload_demo.py "$TARGET" demo-media
