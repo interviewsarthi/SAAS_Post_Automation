@@ -4586,7 +4586,7 @@
       "status": "sent",
       "buffer_id": "6af9e222e5a113497afd6872",
       "accepted_at": "2026-11-15T22:17:40.975941+05:30",
-      "last_check_attempt_at": "2026-11-22T12:57:28.382973+05:30",
+      "last_check_attempt_at": "2026-11-22T22:17:41.843891+05:30",
       "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7527774382044360721",
       "metrics": {
         "reactions": 0,
@@ -4597,7 +4597,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-21T18:16:51.890Z",
-      "checked_at": "2026-11-22T12:57:28.651053+05:30",
+      "checked_at": "2026-11-22T22:17:42.075273+05:30",
       "one_day_metrics": {
         "observed_at": "2026-11-17T02:44:49.216471+05:30",
         "source_updated_at": "2026-11-16T18:15:01.441Z",
@@ -4946,7 +4946,7 @@
       "status": "error",
       "buffer_id": "6b0017373409fcd68aa0432f",
       "accepted_at": "2026-11-20T15:17:36.432212+05:30",
-      "last_check_attempt_at": "2026-11-22T12:57:28.382973+05:30",
+      "last_check_attempt_at": "2026-11-22T22:17:41.843891+05:30",
       "post_url": null,
       "metrics": {
         "reactions": 0,
@@ -4957,7 +4957,7 @@
         "shares": 0
       },
       "metrics_updated_at": "2026-11-20T09:47:35.275Z",
-      "checked_at": "2026-11-22T12:57:28.821687+05:30"
+      "checked_at": "2026-11-22T22:17:42.156482+05:30"
     },
     {
       "id": "li-20261120-prep-api-evening",
@@ -5121,7 +5121,21 @@
       "hook": "832 new remote SQL jobs this week.",
       "url": "https://apply.interviewsarthi.com/skills/sql/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261122-jobs-skill-sql-remote-evening",
       "owner_run": "45045740453",
-      "status": "reserved"
+      "status": "sending",
+      "buffer_id": "6b031ca3846b0ee9079fbc89",
+      "accepted_at": "2026-11-22T22:17:41.745593+05:30",
+      "last_check_attempt_at": "2026-11-22T22:17:41.843891+05:30",
+      "post_url": null,
+      "metrics": {
+        "reactions": 0,
+        "comments": 0,
+        "engagementRate": 0,
+        "impressions": 0,
+        "reach": 0,
+        "shares": 0
+      },
+      "metrics_updated_at": "2026-11-22T16:47:31.526Z",
+      "checked_at": "2026-11-22T22:17:41.983752+05:30"
     }
   ]
 }
