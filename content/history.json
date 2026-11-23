@@ -25731,6 +25731,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-23 11:40 IST"
+    },
+    {
+      "id": "20261123-1240-reel",
+      "format": "reel",
+      "pillar": "company_round",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "HCL HR asks about relocation willingness, answered live",
+      "language": "hindi",
+      "hook": "HCL HR asked about relocation? Interview Sarthi shows what to say live.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17880671076572778",
+          "url": "https://www.instagram.com/reel/DgE0FutAFgr/"
+        },
+        "youtube": {
+          "id": "i7chiknYNUA",
+          "url": "https://youtube.com/shorts/i7chiknYNUA",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Demonstrates how Interview Sarthi drafts a clear relocation answer from your profile on screen during a live HCL HR round.",
+      "persona": "Freshers and early-career job seekers attending HCL HR interview rounds on Windows laptops.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "gemini",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261123-1240-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-23 12:42 IST"
     }
   ]
 }
