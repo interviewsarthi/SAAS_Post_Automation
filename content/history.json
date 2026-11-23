@@ -25643,6 +25643,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-23 09:11 IST"
+    },
+    {
+      "id": "20261123-104144-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Can you share a time when a project task failed?",
+      "language": "english",
+      "hook": "Never go blank on a tough behavioral failure question again.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18034683737684912",
+          "url": "https://www.instagram.com/reel/DgEmijmjdqq/"
+        },
+        "youtube": {
+          "id": "sd5gpOD5vYg",
+          "url": "https://youtube.com/shorts/sd5gpOD5vYg",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-f75ef670b1c4d40c",
+      "seed_scenario": "something-went-wrong",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 2,
+      "script_source": "model",
+      "creative_hash": "9ff4e25fc2eb61136a2f4a1371ec1ef2e98ffd9e1e71d94f0ec70f12a90990aa",
+      "campaign_id": "20261123-104144-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-23 10:43 IST"
     }
   ]
 }
