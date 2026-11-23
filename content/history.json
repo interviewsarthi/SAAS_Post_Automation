@@ -25604,6 +25604,45 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-22 21:43 IST"
+    },
+    {
+      "id": "20261123-0909-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "morning",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "skill:excel@bengaluru",
+      "language": "english",
+      "hook": "139 new Excel jobs in Bengaluru this week",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17974240791190613",
+          "url": "https://www.instagram.com/reel/DgEcALPD_4P/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261123-0909-jobs",
+      "quality_passed": null,
+      "substituted_for": "reel",
+      "date": "2026-11-23 09:11 IST"
     }
   ]
 }
