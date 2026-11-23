@@ -25687,6 +25687,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-23 10:43 IST"
+    },
+    {
+      "id": "20261123-1139-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Dead letter queue question scored in Interview Sarthi report",
+      "language": "english",
+      "hook": "Vague dead letter queue answer got scored 3 out of 10.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18091799369278551",
+          "url": "https://www.instagram.com/reel/DgEtCcVAYL4/"
+        },
+        "youtube": {
+          "id": "Eh4-jOkq2kE",
+          "url": "https://youtube.com/shorts/Eh4-jOkq2kE",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how answering a dead-letter queue question vaguely gets scored 3 out of 10 and how Interview Sarthi rewrites it using your resume.",
+      "persona": "Entry-level backend developers interviewing for remote or international roles in English",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261123-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-23 11:40 IST"
     }
   ]
 }
