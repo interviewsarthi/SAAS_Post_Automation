@@ -25946,6 +25946,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-23 18:30 IST"
+    },
+    {
+      "id": "20261123-194244-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Where do you see yourself professionally in five years?",
+      "language": "english",
+      "hook": "POV: HR asks about long term plans and you are ready.",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "tiIxLV5Muk8",
+          "url": "https://youtube.com/shorts/tiIxLV5Muk8",
+          "privacy": "public"
+        },
+        "instagram": {
+          "id": "18243186832317039",
+          "url": "https://www.instagram.com/reel/DgFkvYgAMLY/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-f719126b60912922",
+      "seed_scenario": "five-years",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 2,
+      "script_source": "authored",
+      "creative_hash": "0623892d1a0e3e2be064c9e3977408f60ebcf6424d426c4e2e15084756af2493",
+      "campaign_id": "20261123-194244-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-23 19:47 IST"
     }
   ]
 }
