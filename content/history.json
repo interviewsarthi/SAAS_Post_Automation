@@ -26676,6 +26676,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-25 09:19 IST"
+    },
+    {
+      "id": "20261125-103943-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Can you explain your exact contribution to this automated test runner?",
+      "language": "english",
+      "hook": "Interviewer sees your webcam. Your screen shows your project answers.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18125427467283127",
+          "url": "https://www.instagram.com/reel/DgJv4aXpBog/"
+        },
+        "youtube": {
+          "id": "-XwJAIYdWm4",
+          "url": "https://youtube.com/shorts/-XwJAIYdWm4",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-e52ad29a3d7f4a06",
+      "seed_scenario": "project-role",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "short",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "8978877c8cd0e14d0d036423a80567eee9c397277dcf7aae41c4cc4e687c7682",
+      "campaign_id": "20261125-103943-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-25 10:41 IST"
     }
   ]
 }
