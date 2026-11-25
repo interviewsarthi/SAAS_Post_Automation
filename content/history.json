@@ -26852,6 +26852,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-25 13:39 IST"
+    },
+    {
+      "id": "20261125-1446-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Interview Sarthi free browser mock interview with no sign-up needed",
+      "language": "english",
+      "hook": "Try a free mock interview on your phone right now with no sign-up needed.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18104155796533372",
+          "url": "https://www.instagram.com/reel/DgKMBSZB_Zc/"
+        },
+        "youtube": {
+          "id": "Z1Vq18v8kLI",
+          "url": "https://youtube.com/shorts/Z1Vq18v8kLI",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Practise speaking your resume out loud on your phone browser in seven minutes without creating an account or paying.",
+      "persona": "Freshers and early-career job seekers preparing for upcoming online video interviews.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261125-1446-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-25 14:47 IST"
     }
   ]
 }
