@@ -27324,6 +27324,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-26 13:39 IST"
+    },
+    {
+      "id": "20261126-1510-reel",
+      "format": "reel",
+      "pillar": "prep_free",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Browser voice mock interview with zero setup",
+      "language": "english",
+      "hook": "Test your spoken interview responses in your browser with Interview Sarthi's free mock interview.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18646507159003002",
+          "url": "https://www.instagram.com/reel/DgMzop2iISz/"
+        },
+        "youtube": {
+          "id": "1datfw58yQs",
+          "url": "https://youtube.com/shorts/1datfw58yQs",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Explain how candidates can test their spoken interview responses in their mobile browser using Interview Sarthi's free 7-minute demo with no sign-up.",
+      "persona": "Freshers and early-career job seekers preparing for online interview rounds on their phone or laptop",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261126-1510-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-26 15:12 IST"
     }
   ]
 }
