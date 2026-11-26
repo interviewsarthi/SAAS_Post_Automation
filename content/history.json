@@ -27192,6 +27192,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-26 10:40 IST"
+    },
+    {
+      "id": "20261126-1147-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior backend engineer database pool exhaustion claim challenged",
+      "language": "english",
+      "hook": "Claimed database connection pooling on your CV? Vague answers get flagged instantly.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18120033011044317",
+          "url": "https://www.instagram.com/reel/DgMcTM0vyTy/"
+        },
+        "youtube": {
+          "id": "hwo1POBnHCE",
+          "url": "https://youtube.com/shorts/hwo1POBnHCE",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you fixed database pool exhaustion by just doubling the max connections gets flagged in technical interviews.",
+      "persona": "Entry-level backend engineers interviewing for remote software roles in the US, UK, and Canada",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261126-1147-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-26 11:48 IST"
     }
   ]
 }
