@@ -27368,6 +27368,48 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-26 15:12 IST"
+    },
+    {
+      "id": "20261126-164018-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you track fast moving inventory accurately?",
+      "language": "hindi",
+      "hook": "POV: the supply chain question lands and you are calm",
+      "market": "india",
+      "posted": {
+        "youtube": {
+          "id": "redDC2TkWpA",
+          "url": "https://youtube.com/shorts/redDC2TkWpA",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "gemini",
+      "scenario": "fresh-92369d00191834d3",
+      "seed_scenario": "repetitive-accuracy",
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "329fcd69a8c2e685060dcb2de7f7ec850e7f69d05fab3e6742ec5ac45298dfc3",
+      "campaign_id": "20261126-164018-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-26 16:45 IST"
     }
   ]
 }
