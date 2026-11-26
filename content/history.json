@@ -27449,6 +27449,48 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-26 18:11 IST"
+    },
+    {
+      "id": "20261126-193934-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "evening",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you handle a technical disagreement on your team?",
+      "language": "english",
+      "hook": "POV: the hard question lands and you are calm.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "wHd91GegY6k",
+          "url": "https://youtube.com/shorts/wHd91GegY6k",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-54373621c25c0a43",
+      "seed_scenario": "team-conflict",
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "8285f53b6bc0b23a045e84e7bc6bc634f0f72b126a28301e637ce7155d89ac47",
+      "campaign_id": "20261126-193934-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-26 19:43 IST"
     }
   ]
 }
