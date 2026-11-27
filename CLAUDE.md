@@ -2,7 +2,7 @@
 
 **28 Sep 2026, LinkedIn Page growth update:** the owner requested researched, product-focused
 LinkedIn automation and prominent working links to the apps and website. The Page now has
-two posts every day (Saturday and Sunday included) at researched day-specific IST times through Buffer in `linkedin-growth.yml`; this supersedes the older
+two product posts every day (Saturday and Sunday included) at researched day-specific IST times through Buffer in `linkedin-growth.yml`, plus two fresh job-list posts (slots `morning` and `lunch`, since 27 Nov 2026); this supersedes the older
 jobs-only Page rule below. See [LinkedIn growth](docs/LINKEDIN-GROWTH.md). The existing profile
 route is separate. `knowledge/linkedin.json` holds authored content and current offers.
 Preserve the durable pre-submission reservation and the one-link-per-post rule.

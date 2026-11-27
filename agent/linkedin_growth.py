@@ -458,7 +458,7 @@ def preview(start, days, folder, history=None):
         '<title>LinkedIn campaign preview</title><style>body{font:16px system-ui;max-width:1100px;margin:32px auto;padding:16px;background:#f5f6fa;color:#14213d}'
         'article{background:white;padding:24px;margin:24px 0;border-radius:16px;display:flow-root}img,video{width:320px;max-width:100%;float:left;margin:0 24px 16px 0}'
         'pre{font:16px/1.6 system-ui;white-space:pre-wrap}h2{font-size:18px}</style><h1>LinkedIn product campaign</h1>'
-        '<p>Two posts every day, including Saturday and Sunday. All times are IST. Already reserved slots are omitted. Preview only: job posts use a labelled sample from 26 September 2026; live runs fetch current data.</p>' + ''.join(cards), encoding="utf-8")
+        '<p>Four posts every day, including Saturday and Sunday: two product posts and two job lists. All times are IST. Already reserved slots are omitted. Preview only: job posts use a labelled sample from 26 September 2026; live runs fetch current data.</p>' + ''.join(cards), encoding="utf-8")
     return posts
 
 
@@ -467,7 +467,7 @@ def main():
     parser.add_argument("command", choices=("preview", "prepare", "publish", "report"))
     parser.add_argument("--date", type=dt.date.fromisoformat, default=now_ist().date())
     parser.add_argument("--days", type=int, default=14)
-    parser.add_argument("--slot", choices=("midday", "evening", EXTRA), default="midday")
+    parser.add_argument("--slot", choices=(*load_json(CONFIG)["slots"], EXTRA), default="midday")
     parser.add_argument("--schedule", default="", help="GitHub cron event; selects its configured slot")
     parser.add_argument("--post-id", help="Report: explicitly reread one known Buffer post (one API request)")
     parser.add_argument("--out", type=pathlib.Path, default=OUT / "linkedin-current")

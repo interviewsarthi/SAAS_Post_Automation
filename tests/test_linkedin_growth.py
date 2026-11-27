@@ -16,7 +16,7 @@ class ContentTests(unittest.TestCase):
     def setUp(self):
         self.config = load_json(growth.CONFIG)
 
-    def test_four_weeks_have_56_posts_and_48_unique_product_topics(self):
+    def test_four_weeks_have_112_posts_and_48_unique_product_topics(self):
         from agent.joblist import SAMPLE
         state = {"posts": []}
         topics = []
@@ -34,8 +34,8 @@ class ContentTests(unittest.TestCase):
                     self.assertEqual(urlsplit(post['url']).path, '/' + seed['series'] + '/')
                     self.assertIn(self.config['products'][seed['series']]['name'], post['text'])
                     topics.append(post['topic'])
-        self.assertEqual(len(state['posts']), 56)
-        self.assertEqual(len({p['id'] for p in state['posts']}), 56)
+        self.assertEqual(len(state['posts']), 112)
+        self.assertEqual(len({p['id'] for p in state['posts']}), 112)
         self.assertEqual(len(topics), 48)
         self.assertEqual(len(set(topics)), 48)
 
@@ -52,7 +52,7 @@ class ContentTests(unittest.TestCase):
                 previous[seed['id']] = day
                 state['posts'].append(growth.compose(day, seed, self.config, slot=slot))
 
-    def test_workflow_covers_exactly_two_correctly_timed_slots_every_day(self):
+    def test_workflow_covers_exactly_four_correctly_timed_slots_every_day(self):
         import re
         workflow = Path('.github/workflows/linkedin-growth.yml').read_text()
         actual = re.findall(r'- cron: "([^"]+)"', workflow)
@@ -64,7 +64,7 @@ class ContentTests(unittest.TestCase):
                 cron = growth.schedule_cron(weekday, time)
                 expected.append(cron)
                 self.assertEqual(growth.scheduled_slot(cron, self.config), slot)
-        self.assertEqual(len(set(expected)), 14)
+        self.assertEqual(len(set(expected)), 28)
         self.assertCountEqual(actual, expected + ['17 18 * 1-12 *'])
         self.assertEqual(growth.schedule_cron(5, '09:17'), '47 3 * 1-12 6')
         self.assertEqual(growth.schedule_cron(6, '22:17'), '47 16 * 1-12 0')
@@ -171,7 +171,7 @@ class ContentTests(unittest.TestCase):
     def test_preview_writes_four_page_pdf_without_network_or_state_mutations(self):
         with tempfile.TemporaryDirectory() as d, patch('requests.post') as post, patch('requests.get') as get:
             rows = growth.preview(dt.date(2026, 9, 29), 1, Path(d), {'posts': []})
-            self.assertEqual(len(rows), 2)
+            self.assertEqual([row["slot"] for row in rows], ["midday", "evening", "morning", "lunch"])
             self.assertTrue(Path(rows[0]['document']).read_bytes().startswith(b'%PDF'))
             self.assertEqual(len(rows[0]['slides']), 4)
             self.assertTrue((Path(d) / 'index.html').exists())
@@ -187,7 +187,7 @@ class ContentTests(unittest.TestCase):
         post.assert_not_called()
         get.assert_not_called()
 
-    def test_week_has_four_documents_three_videos_seven_images(self):
+    def test_week_has_four_documents_three_videos_and_21_images(self):
         from collections import Counter
         from agent.joblist import SAMPLE
         state, formats = {'posts': []}, Counter()
@@ -201,7 +201,7 @@ class ContentTests(unittest.TestCase):
                     self.assertIn('not a live session recording', post['text'])
                     self.assertEqual(len(post['slides']), 4)
                 state['posts'].append(post)
-        self.assertEqual(formats, {'document': 4, 'video': 3, 'image': 7})
+        self.assertEqual(formats, {'document': 4, 'video': 3, 'image': 21})
 
     def test_video_preserves_fictional_before_after_lesson(self):
         seed = next(p for p in self.config['posts'] if p['id'] == 'apply-evidence')
@@ -215,7 +215,7 @@ class ContentTests(unittest.TestCase):
         original = json.dumps(history)
         with tempfile.TemporaryDirectory() as d, patch.object(growth, 'render'):
             rows = growth.preview(dt.date(2026, 9, 29), 1, Path(d), history)
-        self.assertEqual(len(rows), 1)
+        self.assertEqual([row['slot'] for row in rows], ['midday', 'morning', 'lunch'])
         self.assertNotEqual(rows[0]['topic'], 'prep-project')
         self.assertEqual(json.dumps(history), original)
 

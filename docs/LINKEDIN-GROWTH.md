@@ -47,7 +47,12 @@ distribution, or that an automated Page can guarantee revenue.
 
 ## What runs
 
-Two posts every day, including Friday, Saturday and Sunday. All times below are **IST**.
+Four posts every day, including Friday, Saturday and Sunday. All times below are **IST**.
+Since 27 Nov 2026 two of them are fresh ApplySarthi job lists (slots `morning` and `lunch`):
+09:47 AM on weekdays, 11:47 AM on Saturday and 10:47 AM on Sunday, plus 1:17 PM every day.
+Job lists come from the live feed each time, so they never use up the 48 authored product
+topics, which keep their 28-day rotation in the two slots below. A list is not repeated on
+LinkedIn within 28 days.
 
 | Day | First post | Second post |
 |---|---|---|

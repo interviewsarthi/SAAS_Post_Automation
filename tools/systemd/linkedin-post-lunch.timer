@@ -1,0 +1,19 @@
+[Unit]
+Description=Social agent: the lunch LinkedIn Page job list
+
+[Timer]
+# Same IST times as knowledge/linkedin.json slots.lunch; tests/test_linkedin_growth.py checks they match.
+OnCalendar=Mon *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Tue *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Wed *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Thu *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Fri *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Sat *-*-* 13:17:00 Asia/Kolkata
+OnCalendar=Sun *-*-* 13:17:00 Asia/Kolkata
+AccuracySec=1s
+# A slot missed while the VM was down stays missed: posting it hours late is what late_start prevents.
+Persistent=false
+Unit=linkedin-post@lunch.service
+
+[Install]
+WantedBy=timers.target

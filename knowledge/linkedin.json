@@ -42,6 +42,46 @@
         "18:17",
         "22:17"
       ]
+    },
+    "morning": {
+      "weekday_series": [
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs"
+      ],
+      "times_ist": [
+        "09:47",
+        "09:47",
+        "09:47",
+        "09:47",
+        "09:47",
+        "11:47",
+        "10:47"
+      ]
+    },
+    "lunch": {
+      "weekday_series": [
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs",
+        "jobs"
+      ],
+      "times_ist": [
+        "13:17",
+        "13:17",
+        "13:17",
+        "13:17",
+        "13:17",
+        "13:17",
+        "13:17"
+      ]
     }
   },
   "products": {
