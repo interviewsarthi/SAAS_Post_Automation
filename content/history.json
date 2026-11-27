@@ -27838,6 +27838,48 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-27 14:47 IST"
+    },
+    {
+      "id": "20261127-164158-sales-standard",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "afternoon",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How do you handle a bug that is difficult to reproduce?",
+      "language": "english",
+      "hook": "POV: the technical QA question lands and your screen has the answer.",
+      "market": "global",
+      "posted": {
+        "youtube": {
+          "id": "Hycjub_izxc",
+          "url": "https://youtube.com/shorts/Hycjub_izxc",
+          "privacy": "public"
+        }
+      },
+      "errors": {
+        "instagram": "MetaError: HTTP 400: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}"
+      },
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-56339f8798e80361",
+      "seed_scenario": "testing-process",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": "standard",
+      "hook_index": 0,
+      "script_source": "model",
+      "creative_hash": "5773ae352251d823dc02aae150a94675adba916548aa2575334a4746262050e6",
+      "campaign_id": "20261127-164158-sales-standard",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-27 16:46 IST"
     }
   ]
 }
