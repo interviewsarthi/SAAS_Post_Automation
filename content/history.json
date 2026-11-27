@@ -27662,6 +27662,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-27 10:40 IST"
+    },
+    {
+      "id": "20261127-1139-reel",
+      "format": "reel",
+      "pillar": "prep_pushback",
+      "slot": "prep-morning",
+      "series": "prep_question",
+      "product": "prep_sarthi",
+      "topic": "Junior backend engineer database deadlock resolution question challenged",
+      "language": "english",
+      "hook": "Said you just restart a deadlocked database transaction? Here is why interviewers push back.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18180780541445737",
+          "url": "https://www.instagram.com/reel/DgPAK6txNqH/"
+        },
+        "youtube": {
+          "id": "UXMCafPNuRU",
+          "url": "https://youtube.com/shorts/UXMCafPNuRU",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Saying you simply restart a deadlocked database transaction gets flagged instantly in backend interviews.",
+      "persona": "Entry-level backend engineers interviewing for remote software roles in the US or UK",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261127-1139-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-27 11:39 IST"
     }
   ]
 }
