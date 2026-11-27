@@ -5169,6 +5169,22 @@
       "metrics_updated_at": "2026-11-22T18:17:25.662Z",
       "checked_at": "2026-11-23T03:31:48.854196+05:30",
       "metrics_error": "RuntimeError"
+    },
+    {
+      "id": "li-20261127-jobs-skill-customer-success-remote-morning",
+      "day": "2026-11-27",
+      "slot": "morning",
+      "scheduled_time_ist": "09:47",
+      "topic": "jobs-skill-customer-success-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "860 new remote customer success jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/customer-success/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261127-jobs-skill-customer-success-remote-morning",
+      "owner_run": "45988200066",
+      "status": "reserved"
     }
-  ]
+  ],
+  "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
 }
