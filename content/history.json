@@ -27794,6 +27794,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-27 13:39 IST"
+    },
+    {
+      "id": "20261127-1446-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "early-afternoon",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Vague conflict answer scored in Interview Sarthi mock report",
+      "language": "english",
+      "hook": "Gave a vague team conflict answer in your mock interview?",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18117495206132753",
+          "url": "https://www.instagram.com/reel/DgPVqx7ye4b/"
+        },
+        "youtube": {
+          "id": "q4A0gdwJcpc",
+          "url": "https://youtube.com/shorts/q4A0gdwJcpc",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how Interview Sarthi's browser voice mock report rates a vague team conflict answer 3 out of 10 and rewrites a stronger version from your own resume.",
+      "persona": "International new graduates and early-career job seekers interviewing online for entry-level positions.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261127-1446-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-27 14:47 IST"
     }
   ]
 }
