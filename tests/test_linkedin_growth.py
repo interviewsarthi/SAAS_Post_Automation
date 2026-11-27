@@ -297,9 +297,10 @@ class PublicationTests(unittest.TestCase):
             self.assertTrue(growth.metrics_due(entry, now))
             entry[key] = {'impressions': 1}
             self.assertFalse(growth.metrics_due(entry, now))
-        entry.update(status='sending', last_check_attempt_at=(now - dt.timedelta(minutes=59)).isoformat())
+        # Buffer's free API allows 1,000 requests per 30 days: each post is read at most once a day.
+        entry.update(status='sending', last_check_attempt_at=(now - dt.timedelta(hours=19)).isoformat())
         self.assertFalse(growth.metrics_due(entry, now))
-        entry['last_check_attempt_at'] = (now - dt.timedelta(hours=2)).isoformat()
+        entry['last_check_attempt_at'] = (now - dt.timedelta(hours=21)).isoformat()
         self.assertTrue(growth.metrics_due(entry, now))
 
     def test_refresh_caps_requests_even_when_buffer_fails(self):
@@ -309,9 +310,28 @@ class PublicationTests(unittest.TestCase):
                                       'status': 'accepted'} for n in range(25)]})
             with patch('agent.publish.buffer.inspect_post', side_effect=TimeoutError) as inspect:
                 state = growth.refresh(self.settings, path)
-            self.assertEqual(inspect.call_count, 20)
-            self.assertEqual(sum('last_check_attempt_at' in p for p in state['posts']), 20)
-            self.assertEqual(sum('metrics_error' in p for p in state['posts']), 20)
+            self.assertEqual(inspect.call_count, 16)
+            self.assertEqual(sum('last_check_attempt_at' in p for p in state['posts']), 16)
+            self.assertEqual(sum('metrics_error' in p for p in state['posts']), 16)
+            # Posting runs read nothing (the workflow sets LINKEDIN_METRIC_READS=0 outside the 23:47 check).
+            with patch.dict('os.environ', {'LINKEDIN_METRIC_READS': '0'}), \
+                    patch('agent.publish.buffer.inspect_post') as inspect:
+                growth.refresh(self.settings, path)
+            inspect.assert_not_called()
+
+    def test_channel_is_looked_up_once_then_reused_and_cleared_after_a_failed_submit(self):
+        with tempfile.TemporaryDirectory() as d:
+            folder = Path(d)
+            manifest = self.seed(folder)
+            state = load_json(folder / 'state.json')
+            state['buffer_channel_id'] = 'page'
+            save_json(folder / 'state.json', state)
+            with patch('agent.publish.media_host._github_branch', return_value={manifest['image']: 'https://cdn.test/card.jpg'}), \
+                    patch('agent.publish.buffer.post', side_effect=RuntimeError('unknown channel')) as submit:
+                with self.assertRaises(RuntimeError):
+                    growth.publish_prepared(self.settings, folder, folder / 'state.json')
+            self.assertEqual(submit.call_args.kwargs['channel'], 'page')
+            self.assertNotIn('buffer_channel_id', load_json(folder / 'state.json'))
 
     def test_accepted_post_is_recorded_and_cannot_be_resubmitted(self):
         with tempfile.TemporaryDirectory() as d:

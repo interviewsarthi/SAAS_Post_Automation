@@ -65,11 +65,12 @@ def channel_id(settings) -> str:
 
 
 def post(settings, text: str, image_url: str | None, *, document_url: str | None = None,
-         video_url: str | None = None, title: str = "") -> str:
-    """Submit to Buffer; its returned ID is acceptance, not confirmed publication."""
+         video_url: str | None = None, title: str = "", channel: str | None = None) -> str:
+    """Submit to Buffer; its returned ID is acceptance, not confirmed publication.
+    `channel` is a page id already confirmed by channel_id(); passing it saves two API requests."""
     if video_url and document_url:
         raise ValueError("A post cannot combine video and document assets")
-    fields = [f"text: {json.dumps(text)}", f"channelId: {json.dumps(channel_id(settings))}",
+    fields = [f"text: {json.dumps(text)}", f"channelId: {json.dumps(channel or channel_id(settings))}",
               "schedulingType: automatic", "mode: shareNow"]
     if video_url:
         fields.append("assets: [{video: {url: %s}}]" % json.dumps(video_url))

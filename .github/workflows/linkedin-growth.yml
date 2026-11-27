@@ -94,6 +94,9 @@ jobs:
         run: python -m agent.linkedin_growth publish
       - name: Read publication status and available metrics
         if: always() && (github.event_name == 'schedule' || inputs.mode != 'preview')
+        env:
+          # Buffer's free API: 1,000 requests per 30 days. Only the 23:47 check reads metrics.
+          LINKEDIN_METRIC_READS: ${{ (github.event.schedule == '17 18 * 1-12 *' || inputs.mode == 'report') && '16' || '0' }}
         run: |
           python -m agent.linkedin_growth report
           cat out/linkedin-current/scorecard.md >> "$GITHUB_STEP_SUMMARY"

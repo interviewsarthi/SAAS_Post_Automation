@@ -232,13 +232,14 @@ reservation. A failure after reservation can skip that slot's post; avoiding dup
 posts takes priority over blind retries. GitHub sends normal failure notifications.
 
 The status report runs after each publication run and at 23:47 IST daily, including weekends.
-Successful posts are then checked in the day-1, day-7 and day-28 windows. Each report makes at
-most 20 post-status reads and waits at least an hour between attempts for the same post.
-The scheduled ceiling is 1,800 reads per 30 days plus approximately 420 requests to validate
-channels and publish 60 posts, within the observed 3,000-request Free API allowance. Manual
+Successful posts are then checked in the day-1, day-7 and day-28 windows. Since 27 Nov 2026 only
+the 23:47 IST check reads metrics: at most 16 post-status reads, and each post at most once a day
+(posting runs read nothing). The page id is looked up once and kept in the state file, so a post
+costs one request. Buffer's Free API allows 1,000 requests per 30 days (headers seen 27 Nov 2026;
+the older plan here assumed 3,000 and ran out). Four posts a day plus the reads stay near 600. Manual
 runs and other API consumers use the same allowance; this is not a reserved quota. Buffer's
 observed Page posting limit was 50/day and its Free queue capacity was 10 pending posts.
-This campaign sends two posts daily using shareNow, without filling a month's queue.
+This campaign sends four posts daily using shareNow, without filling a month's queue.
  Expiring API keys and unresolved statuses
 appear in its Actions summary. There are no new paid generation calls, extra service accounts,
 or automated outbound messages in this campaign. GitHub/Buffer account quotas still apply.

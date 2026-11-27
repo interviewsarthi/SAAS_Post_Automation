@@ -260,7 +260,10 @@ def prepare(day, settings, dry_run=False, state_path=STATE, folder=None, slot="m
     if not settings.buffer_api_key:
         raise RuntimeError("BUFFER_API_KEY is required for the LinkedIn Page campaign")
     from .publish import buffer
-    buffer.channel_id(settings)
+    # Buffer's free API allows 1,000 requests per 30 days. Look the page up once and keep its id in the
+    # state file; a failed submission clears it so the next run checks the page again.
+    if not state.get("buffer_channel_id"):
+        state["buffer_channel_id"] = buffer.channel_id(settings)
     check_link(post["url"])
     post["owner_run"] = os.environ.get("GITHUB_RUN_ID", "local")
     entry = {k: post[k] for k in ("id", "day", "slot", "scheduled_time_ist", "topic", "series", "product", "format", "creative_version", "hook", "url", "owner_run")}
@@ -307,10 +310,12 @@ def publish_prepared(settings, folder=None, state_path=STATE):
     try:
         post_id = buffer.post(settings, post["text"], urls[post["image"]],
                               document_url=urls.get(post.get("document")),
-                              video_url=urls.get(post.get("video")), title=post["hook"])
+                              video_url=urls.get(post.get("video")), title=post["hook"],
+                              channel=state.get("buffer_channel_id"))
         entry.update(buffer_id=post_id, status="accepted", accepted_at=now_ist().isoformat())
     except Exception:
         entry["status"] = "unknown"
+        state.pop("buffer_channel_id", None)
         raise
     finally:
         save_json(state_path, state)
@@ -323,7 +328,7 @@ def metrics_due(entry, now):
     if not entry.get("buffer_id") or not 0 <= age <= 30:
         return False
     last = entry.get("last_check_attempt_at") or entry.get("checked_at")
-    if last and now - dt.datetime.fromisoformat(last) < dt.timedelta(hours=1):
+    if last and now - dt.datetime.fromisoformat(last) < dt.timedelta(hours=20):
         return False
     if entry["status"] != "sent":
         return True
@@ -353,7 +358,7 @@ def metric_state(entry, now=None):
     return "reported snapshot"
 
 
-def refresh(settings, state_path=STATE, post_id=None):
+def refresh(settings, state_path=STATE, post_id=None, limit=None):
     from .publish import buffer
     state = state_read(state_path)
     warning = buffer.expiry_warning(settings)
@@ -363,13 +368,16 @@ def refresh(settings, state_path=STATE, post_id=None):
         state.pop("credential_warning", None)
     if settings.buffer_api_key:
         now = now_ist()
-        # 20 reads/run bounds 3 daily reports at 1,800 reads/30d; 60 posts add about 420 calls.
-        # Leave the rest of the Free plan's 3,000 requests for diagnostics. Oldest checked first.
+        # Buffer's free API allows 1,000 requests per 30 days (all of them were used by 27 Nov 2026).
+        # Posting runs read nothing (LINKEDIN_METRIC_READS=0); the 23:47 check reads at most 16, each post
+        # at most once a day. Four posts a day cost 4 requests, so the total stays near 600 per 30 days.
+        if limit is None:
+            limit = 1 if post_id else int(os.environ.get("LINKEDIN_METRIC_READS", "16"))
         if post_id and not any(p.get("buffer_id") == post_id for p in state["posts"]):
             raise ValueError("Requested Buffer post is not in this campaign's history")
         due = sorted((p for p in state["posts"] if
                       (p.get("buffer_id") == post_id if post_id else metrics_due(p, now))),
-                     key=lambda p: p.get("last_check_attempt_at") or p.get("checked_at") or "")[:20]
+                     key=lambda p: p.get("last_check_attempt_at") or p.get("checked_at") or "")[:max(0, limit)]
         for entry in due:
             entry["last_check_attempt_at"] = now.isoformat()
             try:

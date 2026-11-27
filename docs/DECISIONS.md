@@ -290,7 +290,7 @@ Lessons the same day:
 ## 28 September 2026, Buffer posts on the page
 
 - Researched before setup so the owner would not hit a paywall: Buffer's free plan includes its API
-  (1 key, 3,000 requests a month, 3 channels) and posts to LinkedIn Pages through Buffer's own approved
+  (1 key, 3 channels; the API allows 1,000 requests per 30 days, measured 27 Nov 2026) and posts to LinkedIn Pages through Buffer's own approved
   app; the page admin must be a Super admin. Chosen over Make.com, which works on its free plan too but
   cuts company posts at the first "(", switches an instant-trigger scenario off after one error, and
   needs a hand-made data structure to receive the image. Make stays as the backup route.
