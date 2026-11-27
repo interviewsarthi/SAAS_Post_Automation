@@ -5217,7 +5217,9 @@
       "hook": "Before using a suggestion, check the question it answers.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261127-live-question-match-midday",
       "owner_run": "46037000895",
-      "status": "reserved"
+      "status": "accepted",
+      "buffer_id": "6b09b4ffbb117e5ba7631169",
+      "accepted_at": "2026-11-27T22:21:21.531417+05:30"
     }
   ],
   "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
