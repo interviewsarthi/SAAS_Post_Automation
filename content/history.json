@@ -27579,6 +27579,45 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-27 06:02 IST"
+    },
+    {
+      "id": "20261127-0917-jobs",
+      "format": "reel",
+      "pillar": "jobs",
+      "slot": "morning",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "skill:aws@remote",
+      "language": "english",
+      "hook": "634 new remote AWS jobs this week",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18503053591110901",
+          "url": "https://www.instagram.com/reel/DgOwDM9Q_Hi/"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": null,
+      "face": null,
+      "visual_theme": null,
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261127-0917-jobs",
+      "quality_passed": null,
+      "substituted_for": "reel",
+      "date": "2026-11-27 09:19 IST"
     }
   ]
 }
