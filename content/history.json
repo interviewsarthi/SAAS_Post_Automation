@@ -27963,6 +27963,50 @@
       "quality_passed": true,
       "substituted_for": null,
       "date": "2026-11-27 19:43 IST"
+    },
+    {
+      "id": "20261127-2047-reel",
+      "format": "reel",
+      "pillar": "apply_match",
+      "slot": "apply-night",
+      "series": "apply_workflow",
+      "product": "apply_sarthi",
+      "topic": "Autofilling total experience fields in Chrome job forms",
+      "language": "hindi",
+      "hook": "Tired of retyping experience? Interview Sarthi fills forms in Chrome.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17867177970692571",
+          "url": "https://www.instagram.com/reel/DgP-53Ho59U/"
+        },
+        "youtube": {
+          "id": "RgYOVmE2rV0",
+          "url": "https://youtube.com/shorts/RgYOVmE2rV0",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Interview Sarthi autofills total experience and domain fields inside Chrome from your CV, stopping for your final review before submission.",
+      "persona": "Job seekers tired of retyping total experience numbers and domain fields on repetitive corporate portal forms.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "gemini",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-man",
+      "face": null,
+      "visual_theme": "blue",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261127-2047-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-27 20:48 IST"
     }
   ]
 }
