@@ -27618,6 +27618,50 @@
       "quality_passed": null,
       "substituted_for": "reel",
       "date": "2026-11-27 09:19 IST"
+    },
+    {
+      "id": "20261127-103844-sales-short",
+      "format": "sales",
+      "pillar": "resume_answers",
+      "slot": "late-morning",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "How did you manage delayed shipments during peak hours?",
+      "language": "english",
+      "hook": "POV: the hard question lands and you are calm.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "18036086294676441",
+          "url": "https://www.instagram.com/reel/DgO5X9aBJ7T/"
+        },
+        "youtube": {
+          "id": "2-LDMwBIngM",
+          "url": "https://youtube.com/shorts/2-LDMwBIngM",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": null,
+      "persona": null,
+      "veo_seconds": 0.0,
+      "mode": "sales-motion",
+      "voice": "deepgram",
+      "scenario": "fresh-d45b984028c91dfe",
+      "seed_scenario": "sales-followup",
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": "short",
+      "hook_index": 0,
+      "script_source": "authored",
+      "creative_hash": "5a779b461657050617e06a58effde7d52b367eeb9c732e24bfe070132f3aa9c1",
+      "campaign_id": "20261127-103844-sales-short",
+      "quality_passed": true,
+      "substituted_for": null,
+      "date": "2026-11-27 10:40 IST"
     }
   ]
 }
