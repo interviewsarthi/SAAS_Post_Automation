@@ -28007,6 +28007,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-27 20:48 IST"
+    },
+    {
+      "id": "20261128-0534-reel",
+      "format": "reel",
+      "pillar": "prep_report",
+      "slot": "night",
+      "series": null,
+      "product": "prep_sarthi",
+      "topic": "Speaking pace of 180 words per minute flagged in report",
+      "language": "english",
+      "hook": "Interview Sarthi's mock interview flags when you speak too fast on calls.",
+      "market": "india",
+      "posted": {
+        "instagram": {
+          "id": "17914363716306275",
+          "url": "https://www.instagram.com/reel/DgQ7L0zzwBp/"
+        },
+        "youtube": {
+          "id": "7OXQXI0irzY",
+          "url": "https://youtube.com/shorts/7OXQXI0irzY",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how nervous speed-talking at 180 words per minute gets flagged in Interview Sarthi's report with advice on clear delivery.",
+      "persona": "Freshers and early-career developers who talk too fast on video interviews when nervous.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "project-discussion",
+      "face": null,
+      "visual_theme": "jade",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261128-0534-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-28 05:34 IST"
     }
   ]
 }
