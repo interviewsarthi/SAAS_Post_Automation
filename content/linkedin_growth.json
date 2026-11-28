@@ -5387,7 +5387,9 @@
       "hook": "Need live assistance for a few days? Check the pass before buying.",
       "url": "https://interviewsarthi.com/live/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261128-live-pass-evening",
       "owner_run": "46146357322",
-      "status": "reserved"
+      "status": "accepted",
+      "buffer_id": "6b0acf46b793a21e71e3e5ff",
+      "accepted_at": "2026-11-28T18:25:44.724919+05:30"
     }
   ],
   "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
