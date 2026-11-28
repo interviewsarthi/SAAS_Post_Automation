@@ -28178,6 +28178,50 @@
       "quality_passed": null,
       "substituted_for": null,
       "date": "2026-11-28 11:41 IST"
+    },
+    {
+      "id": "20261128-1240-reel",
+      "format": "reel",
+      "pillar": "say_this",
+      "slot": "midday",
+      "series": null,
+      "product": "interview_sarthi",
+      "topic": "Answering 'Tell me about learning a new tool quickly' live on screen",
+      "language": "english",
+      "hook": "Asked how fast you learn a new tool? Interview Sarthi shows what to say on screen.",
+      "market": "global",
+      "posted": {
+        "instagram": {
+          "id": "18123507677067007",
+          "url": "https://www.instagram.com/reel/DgRr-3jyYY1/"
+        },
+        "youtube": {
+          "id": "PXmgrHsl024",
+          "url": "https://youtube.com/shorts/PXmgrHsl024",
+          "privacy": "public"
+        }
+      },
+      "errors": {},
+      "warnings": null,
+      "story": null,
+      "angle": "Show how Interview Sarthi drafts a clear, structured answer grounded in your own resume the moment an interviewer asks how fast you adapt to new software.",
+      "persona": "Entry-level candidates and early-career job seekers interviewing online for technical, marketing, or operations roles outside India.",
+      "veo_seconds": 0.0,
+      "mode": null,
+      "voice": "deepgram",
+      "scenario": null,
+      "seed_scenario": null,
+      "visual_clip": "interview-woman",
+      "face": null,
+      "visual_theme": "violet",
+      "variant": null,
+      "hook_index": null,
+      "script_source": null,
+      "creative_hash": null,
+      "campaign_id": "20261128-1240-reel",
+      "quality_passed": null,
+      "substituted_for": null,
+      "date": "2026-11-28 12:41 IST"
     }
   ]
 }
