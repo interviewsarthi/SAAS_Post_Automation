@@ -5336,7 +5336,9 @@
       "hook": "Read your tailored CV as if the interviewer will ask about every line.",
       "url": "https://interviewsarthi.com/apply/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261128-apply-reading-cv-midday",
       "owner_run": "46104482324",
-      "status": "reserved"
+      "status": "accepted",
+      "buffer_id": "6b0a4ed72a2e4f66caf85e84",
+      "accepted_at": "2026-11-28T09:17:45.803418+05:30"
     }
   ],
   "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
