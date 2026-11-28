@@ -5356,6 +5356,21 @@
       "status": "accepted",
       "buffer_id": "6b0a71f8d7e53b12ebe227aa",
       "accepted_at": "2026-11-28T11:47:39.102004+05:30"
+    },
+    {
+      "id": "li-20261128-jobs-skill-observability-remote-lunch",
+      "day": "2026-11-28",
+      "slot": "lunch",
+      "scheduled_time_ist": "13:17",
+      "topic": "jobs-skill-observability-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "550 new remote Observability jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/observability/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261128-jobs-skill-observability-remote-lunch",
+      "owner_run": "46122778888",
+      "status": "reserved"
     }
   ],
   "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
