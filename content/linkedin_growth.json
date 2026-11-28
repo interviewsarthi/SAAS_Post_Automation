@@ -5339,6 +5339,21 @@
       "status": "accepted",
       "buffer_id": "6b0a4ed72a2e4f66caf85e84",
       "accepted_at": "2026-11-28T09:17:45.803418+05:30"
+    },
+    {
+      "id": "li-20261128-jobs-skill-ci-cd-remote-morning",
+      "day": "2026-11-28",
+      "slot": "morning",
+      "scheduled_time_ist": "11:47",
+      "topic": "jobs-skill-ci-cd-remote",
+      "series": "jobs",
+      "product": "apply_sarthi",
+      "format": "image",
+      "creative_version": "jobs-prep-v1",
+      "hook": "619 new remote CI/CD jobs this week.",
+      "url": "https://apply.interviewsarthi.com/skills/ci-cd/remote?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_product_growth&utm_content=li-20261128-jobs-skill-ci-cd-remote-morning",
+      "owner_run": "46115876143",
+      "status": "reserved"
     }
   ],
   "buffer_channel_id": "6aba42a6ea19ca0bde112f0d"
